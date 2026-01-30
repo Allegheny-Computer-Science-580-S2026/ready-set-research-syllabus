@@ -4,15 +4,15 @@
 
 ## Introduction
 
-Your Junior Seminar process affords you the opportunity to pursue
-independent research in computer science. This course parallels the
-kinds of intense inquiry and research inherent to both academic life
-and a career as a computer scientist. To that end, you will work
-closely with your first reader to explore rich, complex research
-projects in a single-semester format. Though the faculty cannot promise
-that this work will be frustration- or challenge-free, we invite you to
-pursue it with great enthusiasm, vigor, and to --- above all --- find
-joy in the process.
+Your Junior Seminar process affords you the opportunity to pursue independent
+research in computer science, software, engineering, data science, or
+informatics. This course parallels the kinds of intense inquiry and research
+inherent to both academic life and a career as a computer scientist. To that
+end, you will work closely with your first reader to explore rich, complex
+research projects in a single-semester format. Though the faculty cannot promise
+that this work will be frustration- or challenge-free, we invite you to pursue
+it with great enthusiasm, vigor, and to --- above all --- find joy in the
+process.
 
 **We are not a class, we are a research group!** This fundamental principle
 shapes everything we do this semester. You are not a student completing
@@ -584,27 +584,26 @@ experiments before receiving IRB approval.
 
 ### Additional Details for Research Presentations
 
-**Research Group Structure**: With 20 researchers in the group,
-presentations are divided across Monday and Wednesday research meetings
-(10 researchers per day) during the assigned weeks. Each 50-minute
-research meeting accommodates all 10 presentations with strict time
-limits.
+**Research Group Structure**: With approximately 20 researchers in the group,
+presentations are divided across Monday and Wednesday research meetings (10
+researchers per day) during the assigned weeks. Each 50-minute research meeting
+accommodates all 10 presentations with strict time limits.
 
-- Research Idea Pitch Presentation (Week 6):
+- **Research Idea Pitch Presentation (Week 6)**:
 
   - Project presentation: 3 minutes
   - Question and answer session: 2 minutes
   - Total time per researcher: 5 minutes
   - Total meeting time: 50 minutes for 10 researchers
 
-- Research Prototype Demonstration (Week 7):
+- **Research Prototype Demonstration (Week 7)**:
 
   - Prototype demonstration: 3 minutes
   - Question and answer session: 2 minutes
   - Total time per researcher: 5 minutes
   - Total meeting time: 50 minutes for 10 researchers
 
-- Research Results Presentation (Week 13):
+- **Research Results Presentation (Week 13)**:
 
   - Results presentation: 3 minutes
   - Question and answer session: 2 minutes
@@ -623,7 +622,7 @@ limits.
 
 ### Course Schedule
 
-The Spring 2026 semester follows this weekly schedule:
+The **Spring 2026** semester follows this weekly schedule:
 
 - **Week 1: Introduction and Brainstorming**
 
@@ -739,7 +738,11 @@ The Spring 2026 semester follows this weekly schedule:
 
   - Submit final tagged release of complete research report (version 5.0.0+)
   - Ensure all journal entries are published
-  - Verify all GitHub repositories are accessible
+  - Verify all GitHub repositories are accessible, including:
+    - GitHub repository that contains your research prototype
+    - GitHub repository that contains your research report and journal
+    - GitHub repository that contains data sets and/or analysis routines
+    - Any other GitHub repositories that you maintained for this course
 
 ### Weekly Meeting Expectations
 
