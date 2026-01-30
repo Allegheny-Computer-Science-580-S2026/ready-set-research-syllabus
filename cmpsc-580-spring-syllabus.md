@@ -8,10 +8,10 @@ Your junior seminar process affords you the opportunity to pursue independent
 research in computer science. This course parallels the kinds of intense inquiry
 and research inherent to both academic life and a career as a computer
 scientist, data scientist, or software engineer. To that end, you will work
-closely with your first and second readers to explore rich, complex research
-projects in a single-semester format. Though the faculty cannot promise that
-this work will be frustration- or challenge-free, we invite you to pursue it
-with great enthusiasm, vigor, and to --- above all --- find joy in the process.
+closely with your first reader to explore rich, complex research projects in a
+single-semester format. Though the faculty cannot promise that this work will be
+frustration- or challenge-free, we invite you to pursue it with great
+enthusiasm, vigor, and to --- above all --- find joy in the process.
 
 ## Course Description
 
@@ -33,9 +33,10 @@ their progress and reflections.
 The instructor with the `**` symbol after their name is the course coordinator
 who is responsible for orchestrating all aspects of the `CMPSC 580` course. If
 you have any high-level questions about this course, please contact both the
-course coordinator and your first reader(s). Importantly, if you are enrolled in
-`DOUBL 580` you may have a first reader who is not in the above list of course
-instructors.
+course coordinator and your first reader. Each student will be assigned one
+first reader who will guide their research throughout the semester. Importantly,
+if you are enrolled in `DOUBL 580` you may have a first reader who is not in
+the above list of course instructors.
 
 ## Course Details and Learning Outcomes
 
@@ -148,15 +149,30 @@ grade. All of these percentages are approximate and, if the need to do so
 presents itself, the course coordinator may, for instance, change the assigned
 percentages during the academic semester.
 
-|**Deliverable** |**Categorization** |**Percentage** |
-|:--------------------------------|:------------------|:--------------|
-|Research Journal (7 entries) |Secondary |10% |
-|Class Participation |Secondary |5% |
-|Adviser Meetings |Secondary |5% |
-|Research Prototype |Primary |20% |
-|Research Idea Pitch Presentation |Primary |10% |
-|Research Results Presentation |Primary |10% |
-|Five-Chapter Research Report |Primary |40% |
+|**Deliverable** |**Categorization** |**Percentage** |**Grading Type** |
+|:--------------------------------|:------------------|:--------------|:----------------|
+|Research Journal (7 entries) |Secondary |10% |Revisable |
+|Class Participation |Secondary |5% |Cumulative |
+|Adviser Meetings |Secondary |5% |Cumulative |
+|Research Prototype |Primary |20% |Revisable |
+|Research Idea Pitch Presentation |Primary |10% |Final |
+|Prototype Demonstration |Primary |Included in Prototype |Final |
+|Research Results Presentation |Primary |10% |Final |
+|Five-Chapter Research Report |Primary |40% |Revisable |
+
+**Important Note on Grading Types:**
+
+- **Final Grades**: Presentations and demonstrations receive a grade upon
+  completion that becomes the final grade for that deliverable. These grades are
+  not subject to revision.
+  
+- **Revisable Grades**: Research journal entries, the research prototype, and
+  research report chapters receive initial grades that may be revised based on
+  improvements made in subsequent submissions, culminating in a final grade at
+  the end of the semester.
+  
+- **Cumulative Grades**: Class participation and adviser meetings are evaluated
+  continuously throughout the semester based on consistent engagement and effort.
 
 To pass `CMPSC 580`, submission of and participation in all the primary
 requirements is mandatory. In addition to an overall evaluation of each
@@ -165,17 +181,18 @@ the following baseline requirements. Please note that these requirements
 articulate a baseline for the junior seminar course and are provided as a list
 of minimum requirements that all specific research deliverables must meet to be
 assessed as complete. Before the submission of a final grade, a student's
-assessment scores for these categories will be initially assigned by their first
-reader, reviewed by their second reader, and approved by all faculty members who
-are instructors for `CMPSC 580` at Allegheny College.
+assessment scores for these categories will be assigned by their first reader
+and approved by the course coordinator and all faculty members who are
+instructors for `CMPSC 580` at Allegheny College.
 
 Students who are enrolled in `DOUBL 580` are also required to write a course
 contract that describes the deliverables and the deadlines by which they will
 complete them for both `CMPSC 580` and the course for their additional major.
 Importantly, students in `DOUBL 580` must complete _all_ the requirements for
 _both_ `CMPSC 580` _and_ the course connected to their other major. Students who
-enroll in `DOUBL 580` should submit their course contract to both of their first
-readers and the coordinator of `CMPSC 580`.
+enroll in `DOUBL 580` should submit their course contract to their first reader
+in the Department of Computer and Information Science and the coordinator of
+`CMPSC 580`.
 
 ### Deliverable Descriptions
 
@@ -191,39 +208,44 @@ readers and the coordinator of `CMPSC 580`.
 #### Adviser Meetings
 
 - [ ] The student met with their first reader on a weekly basis
-- [ ] The student met with their second reader on a regular basis
 - [ ] The student came to research meetings with a planned agenda
 - [ ] The student left research meetings with clear action items
 - [ ] The student frequently completed activities according to an agreed schedule
 - [ ] The student demonstrated growth in their knowledge of their research topic
 - [ ] The student demonstrated growth in their ability to conduct research in
-  computer and information science
+computer and information science
 - [ ] The student suggested ways in which to improve and/or gave feedback on the
-  course's research process
+course's research process
 
 #### Research Journal
 
 The research journal should contain seven entries as specified in the course
 requirements, with entries divided between activity-based and reflection-based
-posts.
+posts. **Journal entries are revisable**: your first reader will provide
+feedback on each entry, and you can revise and improve entries throughout the
+semester. Your final journal grade will be based on the quality of all entries
+as of the final submission deadline (May 1, 2026).
 
 - [ ] The student created a research journal website using Quarto and GitHub Pages
 - [ ] The research journal contains all seven required entries with appropriate dates
 - [ ] Entry 1: Research Idea clearly describes the proposed research problem and approach
 - [ ] Entry 2: Prototype Installation and Use provides clear documentation
 - [ ] Entry 3: Brainstorming and Prototyping Experience reflects on the ideation
-  and development process
+and development process
 - [ ] Entry 4: Chapters 1 and 2 Reflections demonstrates critical thinking about
-  the introduction and related work
+the introduction and related work
 - [ ] Entry 5: Chapters 3 and 4 Reflections shows thoughtful analysis of methods
-  and experimental results
+and experimental results
 - [ ] Entry 6: Chapter 5 Reflection synthesizes learning from the conclusion
 - [ ] Entry 7: Overall Project Reflection provides comprehensive overview and
-  identifies next steps
+identifies next steps
 - [ ] The research journal demonstrates consistent effort throughout the semester
 - [ ] The journal entries show evidence of iterative problem-solving and growth
 
 #### Research Idea Pitch Presentation
+
+**This grade is final**: The grade you receive for this presentation is the
+final grade for this deliverable and is not subject to revision.
 
 - [ ] The student gave the presentation on the assigned date (Week 6)
 - [ ] The presentation featured effective and well-designed slides
@@ -234,11 +256,17 @@ posts.
 - [ ] The student effectively answered questions from the audience
 - [ ] The student completed the presentation within the stated time limit (10 minutes)
 - [ ] The student completed the question and answer session within the stated
-  time limit (5 minutes)
+time limit (5 minutes)
 - [ ] The presentation demonstrated clear understanding of the research area
 - [ ] The presentation showed evidence of thorough preparation and practice
 
 #### Research Prototype Demonstration (Week 7)
+
+**This grade is final**: The grade you receive for this demonstration is the
+final grade for this deliverable and is not subject to revision. Note that the
+prototype itself (code, documentation, repository) can be improved throughout
+the semester and will be evaluated as part of the Research Prototype grade
+(20%), which is revisable.
 
 - [ ] The student completed the prototype demonstration on the assigned date
 - [ ] The demonstration clearly showed the research prototype in action
@@ -254,18 +282,21 @@ posts.
 
 #### Research Results Presentation (Week 13)
 
+**This grade is final**: The grade you receive for this presentation is the
+final grade for this deliverable and is not subject to revision.
+
 - [ ] The student gave the presentation on the assigned date
 - [ ] The presentation featured effective and well-designed slides
 - [ ] The presentation summarized the research problem and methodology
 - [ ] The presentation clearly presented experimental results with appropriate
-  visualizations
+visualizations
 - [ ] The presentation discussed the implications of the findings
 - [ ] The presentation addressed the research questions posed at the beginning
 - [ ] The presentation included discussion of future work and limitations
 - [ ] The student effectively answered questions from the audience
 - [ ] The student completed the presentation within the stated time limit (15 minutes)
 - [ ] The student completed the question and answer session within the stated
-  time limit (5 minutes)
+time limit (5 minutes)
 - [ ] The presentation demonstrated mastery of the research topic
 - [ ] The presentation showed evidence of thorough preparation and practice
 
@@ -273,7 +304,11 @@ posts.
 
 The junior seminar research report consists of five chapters that document the
 complete research process. Each chapter should be approximately 5 to 7 pages in
-length.
+length. **Report chapters are revisable**: your first reader will provide
+feedback on each chapter as you complete it, and you can revise and improve
+chapters throughout the semester. Your final report grade will be based on the
+quality of all chapters as submitted in your final release (version 5.0.0+) by
+the deadline of May 1, 2026.
 
 ##### General Report Requirements
 
@@ -370,15 +405,22 @@ length.
 
 #### Research Prototype
 
+**The prototype is revisable**: Your first reader will provide feedback on your
+prototype throughout the semester. You can continue to improve your prototype's
+code, documentation, and functionality. Your final prototype grade will be based
+on the state of your GitHub repository as of the final submission deadline (May
+1, 2026). Note that the prototype demonstration in Week 7 receives a separate
+final grade that is not revisable.
+
 - [ ] The prototype's source code exists in a publicly available GitHub repository
 - [ ] The prototype's repository contains comprehensive installation instructions
 - [ ] The prototype's repository contains clear usage documentation
 - [ ] The prototype can be installed and used by someone other than the creator
 - [ ] The prototype's repository demonstrates software development best practices
-  (e.g., meaningful commit messages, organized file structure)
+(e.g., meaningful commit messages, organized file structure)
 - [ ] The prototype addresses the research problem described in the report
 - [ ] The prototype's repository contains evidence of regular commits throughout
-  the semester
+the semester
 - [ ] The prototype demonstrates appropriate technical complexity for junior-level work
 - [ ] The prototype includes adequate error handling and validation
 - [ ] The prototype's repository contains clear examples and demonstrations
@@ -541,7 +583,6 @@ The Spring 2026 semester follows this weekly schedule:
 Throughout the semester, students are expected to:
 
 - Meet with their first reader weekly to discuss progress
-- Meet with their second reader at least three times during the semester
 - Come to meetings prepared with questions and updates
 - Follow through on action items from previous meetings
 - Maintain regular communication via email or GitHub
@@ -741,10 +782,10 @@ New York, NY, USA, 75–85.
 #### Course Assistance
 
 Students who struggle to understand the knowledge and skills introduced in this
-course are encouraged to seek assistance from their first and second readers. To
-meet with your first and second readers, please visit their web sites and
-schedule appointments. Historically, students who are successful in department
-courses visit and discuss course processes and assignments early and often.
+course are encouraged to seek assistance from their first reader. To meet with
+your first reader, please visit their web site and schedule appointments.
+Historically, students who are successful in department courses visit and
+discuss course processes and assignments early and often.
 
 Please also take advantage of the course's GitHub organization for asking
 questions and engaging in technical discussions. Your peers and instructors can
