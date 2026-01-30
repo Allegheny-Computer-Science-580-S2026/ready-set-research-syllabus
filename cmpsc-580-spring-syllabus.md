@@ -449,9 +449,12 @@ concepts. A prototype that is too simple (e.g., a basic web form) won't
 adequately support research, while one that is overly ambitious (e.g., a
 full operating system) won't be completable in time.
 
-**Prototype Examples**: The following examples illustrate appropriate
-prototypes across different areas of computer science. Each balances
-feasibility with challenge:
+**Prototype Examples**: The following examples illustrate appropriate prototypes
+across different areas of computer science. While each project suggestion
+balances feasibility with challenge, they a provided for illustrative purposes
+only and do not represent a research project that is guaranteed to earn a strong
+final grade in the Junior Seminar course. You must work with your first reader
+to identify your own prototype and completed it in the required timeframe.
 
 *Algorithm and Theory*:
 
