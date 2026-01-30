@@ -986,9 +986,6 @@ In many situations, the following list of resources may prove useful:
 
 - [The Maytum Center for Student
   Success](https://sites.allegheny.edu/studentsuccess/)
-- [Allegheny College Counseling and Personal Development
-  Center](https://sites.allegheny.edu/counseling/)
-- [Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
 - [Student Life](https://sites.allegheny.edu/studentlife/)
 - [Student Accessibility and Support
   Services](https://sites.allegheny.edu/studentaccessibility/)
