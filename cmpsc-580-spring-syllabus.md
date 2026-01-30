@@ -1,10 +1,8 @@
 # CMPSC 580: Junior Seminar in Computer and Information Science
 
-## Outline
-
 ## Introduction
 
-Your Junior Seminar process affords you the opportunity to pursue independent
+Your Junior Seminar course affords you the opportunity to pursue independent
 research in computer science, software, engineering, data science, or
 informatics. This course parallels the kinds of intense inquiry and research
 inherent to both academic life and a career as a computer scientist. To that
