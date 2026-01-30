@@ -8,11 +8,38 @@ semester at Allegheny College. This course introduces students to independent
 research methods in Computer Science, Software Engineering, Data Science, and
 Informatics through a hands-on, project-based approach.
 
-## Course Purpose
+## We Are Not a Class, We Are a Research Group!
 
-The Junior Seminar (CMPSC 580) serves as a critical stepping stone in your
-academic journey, preparing you for the senior comprehensive project and
-professional research work. During this single-semester course, you will:
+**CMPSC 580 operates as a research group**, not a traditional class with small
+disconnected assignments. Think of yourself as a member of a university
+research laboratory or an industry R&D team, not as a student completing
+coursework. In a research group:
+
+- **We collaborate**: You'll share ideas, provide feedback on each other's
+  work, and learn from your peers' research challenges and solutions
+- **We present regularly**: Like researchers at conferences and lab meetings,
+  you'll present your progress, receive constructive critique, and refine your
+  ideas
+- **We maintain research artifacts**: Your research notebook, prototype
+  repository, and journal entries are professional research outputs, not just
+  assignments
+- **We meet with advisers**: Your first reader is your research adviser, and
+  your weekly meetings are research consultations focused on advancing your
+  project
+- **We contribute to the group**: Beyond your individual project, you
+  contribute to the research culture through peer feedback, technical
+  discussions, and shared learning
+
+This semester, you are a **junior researcher** conducting original work. Your
+prototype is a research artifact. Your report is a research publication. Your
+presentations are research talks. Embrace this identity and think like a
+researcher, not a student completing assignments.
+
+## Research Group Purpose
+
+As a member of the Junior Seminar research group, you will work alongside
+other junior researchers to develop and execute original research projects.
+During this single-semester research group experience, you will:
 
 - **Develop** a unique research idea addressing a problem in computer and
   information science
@@ -24,47 +51,49 @@ professional research work. During this single-semester course, you will:
 - **Present** your work to faculty and peers at multiple stages throughout the
   semester
 
-## What Makes Junior Seminar Different
+## What Makes Our Research Group Different
 
-Unlike the two-semester senior thesis sequence (e.g., CMPSC 600/610), Junior
-Seminar is designed as an intensive, single-semester research experience that:
+Unlike the two-semester senior thesis research group (CMPSC 600/610), the
+Junior Seminar research group is designed as an intensive, single-semester
+research experience that:
 
 - **Focuses** on completing all five chapters of a research report in one
   semester
-- **Emphasizes** rapid prototyping and iterative development
-- **Requires** shorter chapters (5-7 pages each) compared to senior thesis
-  chapters (10-15 pages)
-- **Provides** regular structured milestones and in-person activities to keep
-  you on track
-- **Prepares** you with research skills applicable to senior thesis, graduate
-  school, or industry
+- **Emphasizes** rapid prototyping and iterative development cycles common in
+  agile research environments
+- **Requires** concise research chapters (5-7 pages each) that communicate
+  findings efficiently
+- **Provides** regular structured milestones and in-person research meetings to
+  maintain momentum
+- **Prepares** you with research skills applicable to senior thesis research
+  groups, graduate research labs, or industry R&D teams
 
-## Class Meeting Structure
+## Research Group Meeting Structure
 
-The Junior Seminar meets three times per week, with a mix of dedicated
-sessions and joint meetings with the Senior Seminar:
+The research group meets three times per week, combining dedicated junior
+researcher sessions with joint meetings alongside senior researchers:
 
-- **Monday** (50 minutes): Junior Seminar only for student presentations,
-  project work sessions, and peer feedback
-- **Wednesday** (50 minutes): Junior Seminar only for student presentations,
-  technical workshops, and individual consultations
-- **Friday** (50 minutes): Joint session with Senior Seminar (e.g., CMPSC
-  600/610) for collaborative research methods, academic writing, research ethics,
-  and professional development
+- **Monday** (50 minutes): Junior researchers only - Research presentations,
+  collaborative work sessions, and peer critique
+- **Wednesday** (50 minutes): Junior researchers only - Research presentations,
+  technical workshops, and individual research consultations
+- **Friday** (50 minutes): Joint research meeting with senior researchers
+  (CMPSC 600/610) - Research methodologies, academic writing strategies,
+  research ethics, and professional development
 
-This structure provides dedicated time for junior-specific activities while
-also allowing you to learn from and interact with senior students who are
-further along in their research journey.
+This structure provides dedicated time for junior-level research activities
+while also creating opportunities to learn from and collaborate with senior
+researchers who are further along in their research trajectories.
 
 ## Repository Contents
 
-This repository contains the following essential documents:
+This repository contains essential documents for research group members:
 
 - **[CMPSC 580 Spring Semester Syllabus](/cmpsc-580-spring-syllabus.md)**:
-  Complete course syllabus including learning objectives, assessment criteria,
-  weekly schedule, and all course policies
-- **[Metadata Document](/metadata.md)**: Template for documenting your student
-  information, GitHub repositories, and project details
+  Complete research group guidelines including learning objectives, research
+  evaluation criteria, weekly milestones, and research policies
+- **[Metadata Document](/metadata.md)**: Template for documenting your
+  researcher profile, project repositories, and research group contributions
 - **[Issue
   Tracker](https://github.com/Allegheny-Computer-Science-580-S2026/ready-set-research-syllabus/issues)**:
   Submit questions, feedback, or report issues with the syllabus
@@ -72,7 +101,7 @@ This repository contains the following essential documents:
   Requests](https://github.com/Allegheny-Computer-Science-580-S2026/ready-set-research-syllabus/pulls)**:
   Propose improvements or corrections to the syllabus
 
-## Key Course Components
+## Key Research Deliverables
 
 ### 1. Research Prototype (20% of grade)
 
@@ -89,8 +118,8 @@ Your prototype should demonstrate:
 - **Feasibility**: Proof that your research idea can be implemented and produces
   meaningful results
 - **Challenge**: Evidence of technical depth, requiring significant
-  problem-solving and implementation effort beyond trivial solutions or a project
-  that would be completed for a computer science course
+  problem-solving and implementation effort beyond trivial solutions or typical
+  coursework projects
 - **Research Contribution**: Clear connection to your research questions and
   hypotheses
 
@@ -158,36 +187,38 @@ all 10 presentations with strict time limits.
 Regular attendance, active engagement in discussions, weekly meetings with your
 first reader, and constructive peer feedback.
 
-## Important Grading Policies
+## Important Research Evaluation Policies
 
-### Final Grades (Not Revisable)
+### Final Evaluations (Not Revisable)
 
-The following deliverables receive a **final grade upon completion** that is not
-subject to revision:
+The following research presentations receive a **final evaluation upon
+completion** that is not subject to revision:
 
 - **Research Idea Pitch Presentation** (Week 6)
 - **Research Prototype Demonstration** (Week 7)
 - **Research Results Presentation** (Week 13)
 
-These presentations are evaluated based on your performance on the day of
-presentation. Prepare thoroughly, as you will not have an opportunity to revise
-these grades.
+These presentations mirror real research talks at conferences and lab meetings.
+They are evaluated based on your performance on the day of presentation.
+Prepare thoroughly, as you will not have an opportunity to revise these
+evaluations.
 
-### Revisable Grades
+### Revisable Evaluations
 
-The following deliverables can be **revised and improved** throughout the
-semester, with final grades based on the quality of your work at the final
+The following research artifacts can be **revised and improved** throughout the
+semester, with final evaluations based on the quality of your work at the final
 submission deadline (May 1, 2026):
 
 - **Research Journal Entries** (all 7 entries)
 - **Research Prototype** (code, documentation, and repository quality)
 - **Research Report Chapters** (all 5 chapters)
 
-Your first reader will provide feedback on these deliverables as you complete
-them, and you can incorporate this feedback to improve your work before the
-final deadline.
+Your research adviser (first reader) will provide feedback on these artifacts
+as you develop them, and you can incorporate this feedback to improve your work
+before the final deadline. This iterative process mirrors how researchers
+revise manuscripts and refine research outputs based on peer review.
 
-## Course Timeline at a Glance
+## Research Timeline at a Glance
 
 | Weeks | Focus Area | Key Deliverables |
 |:------|:-----------|:-----------------|
@@ -206,46 +237,52 @@ final deadline.
 
 **Final Deadline**: May 1, 2026 by 11:59 PM
 
-## Working with Your First Reader
+## Working with Your Research Adviser
 
 Throughout the semester, you will work closely with one faculty member who
-serves as your first reader:
+serves as your research adviser:
 
-- **First Reader**: Your primary research advisor who you meet with weekly
+- **First Reader / Research Adviser**: Your primary research mentor who you
+  meet with weekly to advance your research project
 
-Your first reader will:
+Your research adviser will:
 
-- Guide your research direction and help you refine your ideas
-- Provide feedback on all your deliverables (journal entries, chapters, prototype)
-- Meet with you weekly to discuss progress and challenges
-- Assess your work and assign grades for all deliverables
-- Support your learning and growth as a researcher
+- Guide your research direction and help you refine your research questions
+- Provide critical feedback on research artifacts (journal entries, chapters,
+  prototype)
+- Hold weekly research consultations to discuss progress, challenges, and next
+  steps
+- Evaluate your research outputs and provide assessments
+- Support your development as an independent researcher
 
-**Weekly meetings are mandatory**. Come prepared with questions, updates, and
-work to discuss. Your success in this course depends heavily on maintaining
-regular communication with your first reader.
+**Weekly research meetings are mandatory**. Come prepared with questions,
+progress updates, preliminary results, and specific discussion topics. Your
+success as a researcher depends heavily on maintaining regular communication
+with your research adviser and actively engaging in the research consultation
+process.
 
 ## Technology and Tools
 
-This course uses industry-standard tools for research and development:
+The research group uses industry-standard and academic research tools:
 
-- **Git/GitHub**: Version control and repository hosting
-- **Quarto**: Document publishing system for reports and journals
-- **LaTeX**: Professional typesetting for your research report
-- **Markdown**: Lightweight markup for documentation
-- **Programming Languages/Frameworks**: As needed for your specific research project
+- **Git/GitHub**: Version control and collaborative development
+- **Quarto**: Document publishing system for research reports and journals
+- **LaTeX**: Professional typesetting for research publications
+- **Markdown**: Lightweight markup for technical documentation
+- **Programming Languages/Frameworks**: As needed for your specific research
+  project
 
-Students are expected to set up their development environment early in the
-semester. The course provides a [starter
+Researchers are expected to set up their development environment early in the
+semester. The research group provides a [starter
 template](https://github.com/Allegheny-Computer-Science-580-S2026/) that
 includes all necessary configuration files and documentation.
 
-## Assessment and Grading
+## Research Evaluation and Assessment
 
-The course uses a combination of primary and secondary requirements:
+The research group evaluates research outputs using a combination of primary
+and secondary criteria:
 
-**Primary Requirements** (80%, must complete all deliverables to pass the
-course):
+**Primary Research Outputs** (80%, must complete all to pass):
 
 - Research Prototype: 20% (Revisable)
 - Five-Chapter Research Report: 30% (Revisable)
@@ -253,25 +290,27 @@ course):
 - Research Prototype Demonstration: 10% (Final)
 - Research Results Presentation: 10% (Final)
 
-**Secondary Requirements** (20%):
+**Secondary Research Contributions** (20%):
 
 - Online Research Journal: 10% (Revisable)
-- Class Participation: 5% (Cumulative)
-- Adviser Meetings: 2.5% (Cumulative)
-- Research Notebook: 2.5% (Cumulative)
+- Research Group Participation: 5% (Cumulative)
+- Research Adviser Meetings: 2.5% (Cumulative)
+- Hand-Written Research Notebook: 2.5% (Cumulative)
 
-Students must complete all primary requirements to pass the course. Detailed
-rubrics and assessment criteria are provided in the syllabus. See the "Important
-Grading Policies" section in this repository for information about which grades
-are final versus revisable.
+All primary research outputs must be completed to pass. Detailed evaluation
+criteria are provided in the syllabus. See the "Important Research Evaluation
+Policies" section above for information about which evaluations are final
+versus revisable.
 
-## Getting Started
+## Getting Started as a Junior Researcher
 
-1. **Read the complete syllabus** in [cmpsc-580-spring-syllabus.md](/cmpsc-580-spring-syllabus.md)
-1. **Fill out your metadata** in [metadata.md](/metadata.md)
-1. **Accept your starter repository** from the course GitHub organization
-1. **Schedule your first meeting** with your first reader
-1. **Begin brainstorming** research ideas
+1. **Read the complete research group guidelines** in
+   [cmpsc-580-spring-syllabus.md](/cmpsc-580-spring-syllabus.md)
+1. **Fill out your researcher profile** in [metadata.md](/metadata.md)
+1. **Accept your research repository** from the research group GitHub
+   organization
+1. **Schedule your first research consultation** with your research adviser
+1. **Begin brainstorming** research questions and project ideas
 
 ## Questions or Feedback?
 
