@@ -14,6 +14,18 @@ that this work will be frustration- or challenge-free, we invite you to
 pursue it with great enthusiasm, vigor, and to --- above all --- find
 joy in the process.
 
+**We are not a class, we are a research group!** This fundamental
+principle shapes everything we do this semester. You are not a student
+completing assignments; you are a junior researcher conducting original
+work. Your first reader is not a teacher grading homework; they are
+your research adviser guiding your scholarly development. Our meetings
+are not lectures; they are research discussions, presentations, and
+collaborative problem-solving sessions. Your prototype, report, and
+journal are not coursework; they are research artifacts that contribute
+to the broader scholarly conversation in computer science. Embrace this
+identity: you are a member of a research laboratory working alongside
+other researchers toward advancing knowledge in your field.
+
 ## Course Description
 
 Independent research in computer science. Students will develop a
@@ -24,44 +36,45 @@ reflections.
 - Prerequisite: Permission of the Instructor
 - Distribution Requirements: `None`
 
-## Class Meeting Structure
+## Research Group Meeting Structure
 
-The Junior Seminar course meets three times per week with the following
-structure:
+The Junior Seminar research group meets three times per week with the
+following structure:
 
-- **Monday (50 minutes)**: Junior Seminar students only. Focus on
-  Junior Seminar-specific activities including brainstorming, research
-  discussions, presentations, and demonstrations.
+- **Monday (50 minutes)**: Junior researchers only. Focus on research
+  presentations, brainstorming sessions, prototype demonstrations, and
+  peer critique of research progress.
 
-- **Wednesday (50 minutes)**: Junior Seminar students only. Continuation
-  of Monday's activities with additional presentations, peer feedback
-  sessions, and research progress discussions.
+- **Wednesday (50 minutes)**: Junior researchers only. Continuation of
+  Monday's research activities with additional presentations, technical
+  discussions, and collaborative problem-solving.
 
-- **Friday (50 minutes)**: Joint session with Senior Seminar (CMPSC 600
-  and 610) students. Collaborative activities related to research in
-  computer science, software engineering, data science, and informatics.
-  Topics include research methods, technical writing, presentation
-  skills, ethics in computing, and professional development.
+- **Friday (50 minutes)**: Joint research meeting with Senior Seminar
+  (CMPSC 600 and 610) researchers. Collaborative sessions on research
+  methodologies, technical writing for publication, presentation skills
+  for conferences, research ethics, and professional development in
+  computing research.
 
-The Friday joint sessions provide valuable opportunities for junior
-students to learn from senior students' experiences and for seniors to
-mentor juniors in the research process. All students benefit from the
-broader perspective on research practices across different stages of
-the undergraduate research journey.
+The Friday joint meetings provide valuable opportunities for junior
+researchers to learn from senior researchers' experiences and for
+seniors to mentor juniors in the research process. All research group
+members benefit from the broader perspective on research practices
+across different stages of the undergraduate research trajectory.
 
-## Course Instructors
+## Research Group Faculty
 
 - [Oliver Bonham-Carter](https://www.oliverbonhamcarter.com/)
 - [Janyl Jumadinova](https://janyljumadinova.com/)
 - [Gregory M. Kapfhammer `**`](https://www.gregorykapfhammer.com/)
 - [Douglas Luman](https://www.cis.allegheny.edu/sites/dluman/)
 
-The instructor with the `**` symbol after their name is the course
-coordinator who is responsible for orchestrating all aspects of the
-`CMPSC 580` course. If you have any high-level questions about this
-course, please contact both the course coordinator and your first
-reader. Each student will be assigned one first reader who will guide
-their research throughout the semester.
+The faculty member with the `**` symbol after their name is the
+research group coordinator who is responsible for orchestrating all
+aspects of the CMPSC 580 research group. If you have any high-level
+questions about the research group, please contact both the coordinator
+and your research adviser. Each researcher will be assigned one first
+reader who will serve as their primary research adviser throughout the
+semester.
 
 ## Course Details and Learning Outcomes
 
@@ -142,32 +155,35 @@ course coordinator and all faculty members who are instructors for
 
 ### Deliverable Descriptions
 
-#### Class Participation
+#### Research Group Participation
 
-- [ ] The student regularly attended the weekly class sessions
-- [ ] The student actively participated in the weekly in-person
-  class discussions
-- [ ] The student contributed meaningfully to brainstorming sessions
-- [ ] The student provided constructive feedback during peer
-  presentations
-- [ ] The student asked thoughtful questions during presentations
-  and discussions
-- [ ] The student demonstrated professional behavior and respect
-  for others
+- [ ] The researcher regularly attended the weekly research group meetings
+- [ ] The researcher actively participated in research discussions and
+  technical exchanges
+- [ ] The researcher contributed meaningfully to collaborative
+  brainstorming sessions
+- [ ] The researcher provided constructive peer review and feedback
+  during research presentations
+- [ ] The researcher asked thoughtful questions during research talks
+  and group discussions
+- [ ] The researcher demonstrated professional behavior and collegial
+  respect for fellow researchers
 
-#### Adviser Meetings
+#### Research Adviser Meetings
 
-- [ ] The student met with their first reader on a weekly basis
-- [ ] The student came to research meetings with a planned agenda
-- [ ] The student left research meetings with clear action items
-- [ ] The student frequently completed activities according to an
-  agreed schedule
-- [ ] The student demonstrated growth in their knowledge of their
-  research topic
-- [ ] The student demonstrated growth in their ability to conduct
-  research in computer and information science
-- [ ] The student suggested ways in which to improve and/or gave
-  feedback on the course's research process
+- [ ] The researcher met with their research adviser on a weekly basis
+- [ ] The researcher came to research consultations with a planned
+  agenda and prepared materials
+- [ ] The researcher left research meetings with clear action items and
+  next steps
+- [ ] The researcher consistently completed research activities
+  according to agreed timelines
+- [ ] The researcher demonstrated growth in their knowledge of their
+  research domain
+- [ ] The researcher demonstrated growth in their ability to conduct
+  independent research in computer and information science
+- [ ] The researcher provided feedback on the research group's processes
+  and suggested improvements
 
 #### Research Journal
 
@@ -204,85 +220,83 @@ deadline (May 1, 2026).
 
 #### Research Idea Pitch Presentation
 
-**This grade is final**: The grade you receive for this presentation
-is the final grade for this deliverable and is not subject to
-revision.
+**This evaluation is final**: The evaluation you receive for this
+research presentation is the final assessment for this deliverable and
+is not subject to revision.
 
-**Note**: With 20 students presenting across Monday and Wednesday of
-Week 6 (10 students per day), each student has 5 minutes total (3
+**Note**: With 20 researchers presenting across Monday and Wednesday of
+Week 6 (10 researchers per day), each researcher has 5 minutes total (3
 minutes presentation + 2 minutes Q&A). Time limits are strictly
 enforced.
 
-- [ ] The student gave the presentation on the assigned date (Week 6)
+- [ ] The researcher gave the presentation on the assigned date (Week 6)
 - [ ] The presentation featured effective and well-designed slides
-- [ ] The presentation included an accessible overview of the
-  proposed research
+- [ ] The presentation included an accessible overview of the proposed
+  research
 - [ ] The presentation clearly articulated the research problem and
   motivation
 - [ ] The presentation outlined the proposed methodology and approach
-- [ ] The presentation discussed the expected outcomes and
-  contributions
-- [ ] The student effectively answered questions from the audience
-- [ ] The student completed the presentation within the stated time
+- [ ] The presentation discussed the expected outcomes and contributions
+- [ ] The researcher effectively answered questions from the research
+  group
+- [ ] The researcher completed the presentation within the stated time
   limit (3 minutes)
-- [ ] The student completed the question and answer session within
+- [ ] The researcher completed the question and answer session within
   the stated time limit (2 minutes)
-- [ ] The presentation demonstrated clear understanding of the
-  research area
+- [ ] The presentation demonstrated clear understanding of the research
+  area
 - [ ] The presentation showed evidence of thorough preparation and
   practice
 
 #### Research Prototype Demonstration (Week 7)
 
-**This grade is final**: The grade you receive for this demonstration
-is the final grade for this deliverable and is not subject to
-revision. Note that the prototype itself (code, documentation,
-repository) can be improved throughout the semester and will be
-evaluated as part of the Research Prototype grade (20%), which is
-revisable.
+**This evaluation is final**: The evaluation you receive for this
+research demonstration is the final assessment for this deliverable and
+is not subject to revision. Note that the prototype itself (code,
+documentation, repository) can be improved throughout the semester and
+will be evaluated as part of the Research Prototype assessment (20%),
+which is revisable.
 
-**Note**: With 20 students presenting across Monday and Wednesday of
-Week 7 (10 students per day), each student has 5 minutes total (3
+**Note**: With 20 researchers presenting across Monday and Wednesday of
+Week 7 (10 researchers per day), each researcher has 5 minutes total (3
 minutes demonstration + 2 minutes Q&A). Time limits are strictly
 enforced.
 
-- [ ] The student completed the prototype demonstration on the
+- [ ] The researcher completed the prototype demonstration on the
   assigned date
-- [ ] The demonstration clearly showed the research prototype in
-  action
-- [ ] The student effectively explained the core functionality of
-  their prototype
-- [ ] The demonstration included key features relevant to the
-  research questions
-- [ ] The student provided clear installation and usage instructions
+- [ ] The demonstration clearly showed the research prototype in action
+- [ ] The researcher effectively explained the core functionality and
+  research contributions
+- [ ] The demonstration included key features relevant to the research
+  questions
+- [ ] The researcher provided clear installation and usage instructions
 - [ ] The prototype's GitHub repository contains comprehensive
   documentation
 - [ ] The prototype demonstrates meaningful progress toward research
   goals
-- [ ] The student handled questions and technical issues
+- [ ] The researcher handled questions and technical issues
   professionally
 - [ ] The demonstration was well-organized and followed a logical
   sequence
-- [ ] The prototype represents substantial effort and technical
+- [ ] The prototype represents substantial research effort and technical
   achievement
-- [ ] The student articulated connections between the prototype and
+- [ ] The researcher articulated connections between the prototype and
   research objectives
 
 #### Research Results Presentation (Week 13)
 
-**This grade is final**: The grade you receive for this presentation
-is the final grade for this deliverable and is not subject to
-revision.
+**This evaluation is final**: The evaluation you receive for this
+research presentation is the final assessment for this deliverable and
+is not subject to revision.
 
-**Note**: With 20 students presenting across Monday and Wednesday of
-Week 13 (10 students per day), each student has 5 minutes total (3
-minutes presentation + 2 minutes Q&A). Time limits are strictly
+**Note**: With 20 researchers presenting across Monday and Wednesday of
+Week 13 (10 researchers per day), each researcher has 5 minutes total
+(3 minutes presentation + 2 minutes Q&A). Time limits are strictly
 enforced.
 
-- [ ] The student gave the presentation on the assigned date
+- [ ] The researcher gave the presentation on the assigned date
 - [ ] The presentation featured effective and well-designed slides
-- [ ] The presentation summarized the research problem and
-  methodology
+- [ ] The presentation summarized the research problem and methodology
 - [ ] The presentation clearly presented experimental results with
   appropriate visualizations
 - [ ] The presentation discussed the implications of the findings
@@ -290,10 +304,11 @@ enforced.
   beginning
 - [ ] The presentation included discussion of future work and
   limitations
-- [ ] The student effectively answered questions from the audience
-- [ ] The student completed the presentation within the stated time
+- [ ] The researcher effectively answered questions from the research
+  group
+- [ ] The researcher completed the presentation within the stated time
   limit (3 minutes)
-- [ ] The student completed the question and answer session within
+- [ ] The researcher completed the question and answer session within
   the stated time limit (2 minutes)
 - [ ] The presentation demonstrated mastery of the research topic
 - [ ] The presentation showed evidence of thorough preparation and
@@ -565,42 +580,44 @@ with Allegheny College policies, students may not submit their IRB
 proposal directly to the IRB and may not start working on any
 experiments before receiving IRB approval.
 
-### Additional Details for Presentations
+### Additional Details for Research Presentations
 
-**Class Structure**: With 20 students in the class, presentations are
-divided across Monday and Wednesday class sessions (10 students per
-day) during the assigned weeks. Each 50-minute class period
-accommodates all 10 presentations with strict time limits.
+**Research Group Structure**: With 20 researchers in the group,
+presentations are divided across Monday and Wednesday research meetings
+(10 researchers per day) during the assigned weeks. Each 50-minute
+research meeting accommodates all 10 presentations with strict time
+limits.
 
 - Research Idea Pitch Presentation (Week 6):
 
   - Project presentation: 3 minutes
   - Question and answer session: 2 minutes
-  - Total time per student: 5 minutes
-  - Total class time: 50 minutes for 10 students
+  - Total time per researcher: 5 minutes
+  - Total meeting time: 50 minutes for 10 researchers
 
 - Research Prototype Demonstration (Week 7):
 
   - Prototype demonstration: 3 minutes
   - Question and answer session: 2 minutes
-  - Total time per student: 5 minutes
-  - Total class time: 50 minutes for 10 students
+  - Total time per researcher: 5 minutes
+  - Total meeting time: 50 minutes for 10 researchers
 
 - Research Results Presentation (Week 13):
 
   - Results presentation: 3 minutes
   - Question and answer session: 2 minutes
-  - Total time per student: 5 minutes
-  - Total class time: 50 minutes for 10 students
+  - Total time per researcher: 5 minutes
+  - Total meeting time: 50 minutes for 10 researchers
 
-- Presenting students must strictly adhere to the stated time limits.
-  Given the tight schedule with 10 presentations per class session,
-  going over time is not possible as it would prevent other students
-  from presenting.
+- Presenting researchers must strictly adhere to the stated time limits.
+  Given the tight schedule with 10 presentations per research meeting,
+  going over time is not possible as it would prevent other researchers
+  from presenting their work.
 
-- All students are required to attend and participate as audience
-  members in all presentations on both Monday and Wednesday of the
-  assigned presentation weeks.
+- All research group members are required to attend and participate as
+  active audience members in all presentations on both Monday and
+  Wednesday of the assigned presentation weeks. This is part of your
+  contribution to the research group.
 
 ### Course Schedule
 
