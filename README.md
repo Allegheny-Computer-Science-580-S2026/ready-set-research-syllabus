@@ -350,10 +350,9 @@ changes, but all feedback is appreciated and will be considered carefully.
 - **Starter Template**: Available after accepting the GitHub Classroom assignment
 - **Writing Resources**:
   - [Purdue OWL](https://owl.purdue.edu/)
-  - [The Craft of Research](https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html)
 - **Computing Ethics**:
   - [ACM Code of Ethics](https://www.acm.org/code-of-ethics)
 - **Research Help**:
-  - [Pelletier Library Research Guides](https://library.allegheny.edu/)
+  - [Allegheny College Resources for Writers](https://sites.allegheny.edu/academic-success/handouts-and-resources-for-writers/)
 
 **Welcome to Junior Seminar! We're excited to support you in your research journey.**
