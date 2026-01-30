@@ -582,18 +582,6 @@ to support a full research report while being achievable in a single semester.
 You should aim for depth over breadth—it's better to thoroughly explore one
 aspect than to superficially cover many.
 
-### Institutional Review Board (IRB) Proposals
-
-Should a project require Institutional Review Board (IRB) approval for
-use of human subjects in the research project, the proposing student is
-responsible for writing and having an approved IRB proposal before
-conducting any experimentation associated with their research. Students
-must submit their IRB proposal to their First Reader who will review it
-and provide feedback before submitting it to the IRB. In accordance
-with Allegheny College policies, students may not submit their IRB
-proposal directly to the IRB and may not start working on any
-experiments before receiving IRB approval.
-
 ### Additional Details for Research Presentations
 
 **Research Group Structure**: With approximately 20 researchers in the group,
