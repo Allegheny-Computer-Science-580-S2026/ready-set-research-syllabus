@@ -16,24 +16,25 @@ research laboratory or an industry R&D team, not as a student completing
 coursework. In a research group:
 
 - **We collaborate**: You'll share ideas, provide feedback on each other's work,
-  and learn from your peers' research challenges and solutions
+  and learn from your peers' research challenges and solutions.
 - **We present regularly**: Like researchers at conferences and lab meetings,
   you'll present your progress, receive constructive critiques, and refine your
-  ideas
+  ideas.
 - **We maintain research artifacts**: Your research notebook, prototype
-  repository, and journal entries are professional research outputs, not just
-  assignments
-- **We meet with advisers**: Your first reader is your research adviser, and
-  your weekly meetings are research consultations focused on advancing your
-  project
+  repository, and journal entries are professional research outputs, not
+  short-term assignments for a course that you complete exclusively for a grade.
+- **We meet with advisers**: Your first reader and course instructor is your
+  research adviser, and your weekly meetings are research consultations focused on
+  advancing your project.
 - **We contribute to the group**: Beyond your individual project, you contribute
   to the research culture through peer feedback, technical discussions, and shared
-  learning
+  learning about research methods in computer science, software engineering, data
+  science, and informatics.
 
 This semester, you are a **junior researcher** conducting original work. Your
 prototype is a research artifact. Your report is a research publication. Your
-presentations are research talks. Embrace this identity and think like a
-researcher, not a student completing assignments.
+presentations are research talks. Throughout this course, you should embrace
+this identity and think like a researcher, not a student completing assignments!
 
 ## Research Group Purpose
 
