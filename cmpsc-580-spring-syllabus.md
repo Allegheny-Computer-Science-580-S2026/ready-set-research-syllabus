@@ -484,12 +484,14 @@ to identify your own prototype and completed it in the required timeframe.
 
 *Algorithm and Theory*:
 
-- Custom implementation of a novel graph algorithm variant with
-  performance benchmarking against standard libraries
-- Interactive visualization tool for demonstrating complexity classes
-  with real-time algorithm comparison
-- Probabilistic data structure implementation (e.g., Bloom filters,
-  count-min sketch) with study of empirical accuracy
+- Custom implementation of a novel graph algorithm variant with performance
+  benchmarking against standard libraries
+- Interactive visualization tool for demonstrating complexity classes with
+  real-time algorithm comparison
+- Probabilistic data structure implementation (e.g., Bloom filters, count-min
+  sketch) with study of empirical accuracy
+- Benchmarking framework that enables the empirical characterization of the
+  worst-case performance of an algorithm's implementation
 
 *Software Engineering*:
 
