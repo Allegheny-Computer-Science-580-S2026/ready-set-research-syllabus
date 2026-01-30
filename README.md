@@ -179,9 +179,9 @@ You will give three presentations throughout the semester:
 - **Week 7**: Research Prototype Demonstration (3 min + 2 min Q&A)
 - **Week 13**: Research Results Presentation (3 min + 2 min Q&A)
 
-With 20 students in the class, presentations are divided across Monday and
-Wednesday sessions (10 students per day). Each 50-minute class accommodates
-all 10 presentations with strict time limits.
+With approximately 20 students in the class, presentations are divided across
+Monday and Wednesday sessions (i.e., 10 students per day). Each 50-minute class
+accommodates all 10 presentations with strict, enforced time limits.
 
 ### 5. Research Group Participation (10% combined)
 
