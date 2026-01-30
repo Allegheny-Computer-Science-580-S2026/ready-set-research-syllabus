@@ -806,9 +806,10 @@ Students will need access to the following software and tools:
 - **Git**: Version control system for managing code and documents
 - **Quarto**: Document publishing system for building research reports and
   journals (install from [https://quarto.org](https://quarto.org))
-- **LaTeX Distribution**: For PDF generation (TinyTeX recommended via Quarto)
-- **Text Editor or IDE**: For writing code and documentation (VS Code, Neovim,
-  Emacs, etc.)
+- **LaTeX Distribution**: For PDF generation (LaTeX or TinyTeX recommended via
+  Quarto)
+- **Text Editor or IDE**: For writing code and documentation (e.g., VS Code,
+  Neovim, or Emacs)
 - **Programming Language Tools**: As required by your specific research project
 - **GitHub Account**: For repository hosting and collaboration
 
