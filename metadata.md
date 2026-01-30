@@ -1,4 +1,4 @@
-# Metadata for Senior Comprehensive Project
+# Metadata for Junior Seminar Research Project
 
 ## Student Name
 
@@ -9,12 +9,11 @@ A student should type their name below.
 ## Honor Code Pledge
 
 A student should add an X-mark to the box to indicate that they agree to adhere
-to the Allegheny College Honor Code during the completion of their Senior
-Comprehensive Project.
-
+to the Allegheny College Honor Code during the completion of their Junior
+Seminar Research Project.
 
 - [ ] I agree to adhere to the Allegheny College Honor Code during the
-completion of my Senior Comprehensive Project.
+  completion of my Junior Seminar Research Project.
 
 ## GitHub Username
 
@@ -24,19 +23,23 @@ A student should type their GitHub username below.
 
 ## GitHub Repositories
 
-### GitHub Repository for Senior Thesis Chapters and Research Journal
+### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Chapters and Journal](https://github.com/Allegheny-Computer-Science-600610-25-26/ready-set-research-syllabus/) 
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/)
 
-### GitHub Repository for Computational Artifact
+### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Computational Artifact](https://github.com/Allegheny-Computer-Science-600610-25-26/ready-set-research-syllabus/) 
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+
+### GitHub Repository for Research Data
+
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
 
 ## Project Title
 
-A student should type the title of their senior comprehensive project
+A student should type the title of their junior seminar research project
 into the following fenced code block.
 
-```
-Add the Title of Your Senior Comprehensive Project
+```text
+Add the Title of Your Junior Seminar Research Project
 ```
