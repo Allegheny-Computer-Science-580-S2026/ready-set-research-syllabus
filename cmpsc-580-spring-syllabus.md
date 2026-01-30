@@ -27,10 +27,17 @@ your field.
 
 ## Course Description
 
-Independent research in computer science. Students will develop a
-research idea, create a working prototype, write a complete research
-report, and maintain a research journal documenting their progress and
-reflections.
+An investigation of select topics in computer and information science that
+prepares students for the completion of a senior project with the purpose of
+identifying knowledge gaps in the discipline. Students learn how to read
+scholarly papers, state and motivate research questions, create a software
+prototype or develop scholarly artifacts to address their findings, and collect
+and organize evidence for evaluating the outcome of their project. During a
+weekly laboratory session students use industry-grade technology to gain
+practical skills in technical writing, the presentation of technical concepts,
+and the production of an artifact. Students are invited to use their own
+departmentally approved laptop in this course; a limited number of laptops are
+available for use during class and lab sessions.
 
 - Prerequisite: Permission of the Instructor
 - Distribution Requirements: `None`
