@@ -250,7 +250,7 @@ course):
 
 **Secondary Requirements** (20%):
 
-- Research Journal: 10% (Revisable)
+- Online Research Journal: 10% (Revisable)
 - Class Participation: 5% (Cumulative)
 - Adviser Meetings: 2.5% (Cumulative)
 - Research Notebook: 2.5% (Cumulative)
