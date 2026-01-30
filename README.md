@@ -249,7 +249,7 @@ serves as your research adviser:
   person is the course instructor. You should aim to meet with your research
   adviser on a weekly basis.
 
-Your research adviser will:
+**Your research adviser will**:
 
 - Guide your research direction and help you refine your research questions
 - Provide critical feedback on research artifacts (journal entries, chapters,
@@ -259,11 +259,11 @@ Your research adviser will:
 - Evaluate your research outputs and provide assessments
 - Support your development as an independent researcher
 
-**Weekly research meetings are mandatory**. Come prepared with questions,
-progress updates, preliminary results, and specific discussion topics. Your
-success as a researcher depends heavily on maintaining regular communication
-with your research adviser and actively engaging in the research consultation
-process.
+**Weekly research meetings are mandatory**. Come prepared to these meetings with
+questions, progress updates, preliminary results, and specific discussion
+topics. Your success as a researcher depends heavily on maintaining regular
+communication with your research adviser and actively engaging in the research
+consultation process.
 
 ## Technology and Tools
 
