@@ -14,35 +14,43 @@ The Junior Seminar (CMPSC 580) serves as a critical stepping stone in your
 academic journey, preparing you for the senior comprehensive project and
 professional research work. During this single-semester course, you will:
 
-- **Develop** a unique research idea addressing a problem in computer and information science
+- **Develop** a unique research idea addressing a problem in computer and
+  information science
 - **Build** a working research prototype demonstrating your solution
-- **Write** a complete five-chapter research report documenting your process and findings
+- **Write** a complete five-chapter research report documenting your process and
+  findings
 - **Maintain** a research journal reflecting on your experiences and growth
-- **Present** your work to faculty and peers at multiple stages throughout the semester
+- **Present** your work to faculty and peers at multiple stages throughout the
+  semester
 
 ## What Makes Junior Seminar Different
 
 Unlike the two-semester senior thesis sequence (CMPSC 600/610), Junior Seminar
 is designed as an intensive, single-semester research experience that:
 
-- **Focuses** on completing all five chapters of a research report in one semester
+- **Focuses** on completing all five chapters of a research report in one
+  semester
 - **Emphasizes** rapid prototyping and iterative development
-- **Requires** shorter chapters (5-7 pages each) compared to senior thesis chapters (10-15 pages)
+- **Requires** shorter chapters (5-7 pages each) compared to senior thesis
+  chapters (10-15 pages)
 - **Provides** structured weekly milestones to keep you on track
-- **Prepares** you with research skills applicable to senior thesis, graduate school, or industry
+- **Prepares** you with research skills applicable to senior thesis, graduate
+  school, or industry
 
 ## Repository Contents
 
 This repository contains the following essential documents:
 
-- **[CMPSC 580 Spring Semester Syllabus](/cmpsc-580-spring-syllabus.md)**: Complete course
-  syllabus including learning objectives, assessment criteria, weekly schedule,
-  and all course policies
+- **[CMPSC 580 Spring Semester Syllabus](/cmpsc-580-spring-syllabus.md)**:
+  Complete course syllabus including learning objectives, assessment criteria,
+  weekly schedule, and all course policies
 - **[Metadata Document](/metadata.md)**: Template for documenting your student
   information, GitHub repositories, and project details
-- **[Issue Tracker](https://github.com/Allegheny-Computer-Science-580-S2026/ready-set-research-syllabus/issues)**:
+- **[Issue
+  Tracker](https://github.com/Allegheny-Computer-Science-580-S2026/ready-set-research-syllabus/issues)**:
   Submit questions, feedback, or report issues with the syllabus
-- **[Pull Requests](https://github.com/Allegheny-Computer-Science-580-S2026/ready-set-research-syllabus/pulls)**:
+- **[Pull
+  Requests](https://github.com/Allegheny-Computer-Science-580-S2026/ready-set-research-syllabus/pulls)**:
   Propose improvements or corrections to the syllabus
 
 ## Key Course Components
@@ -51,6 +59,7 @@ This repository contains the following essential documents:
 
 You will develop a working prototype that demonstrates your research concept.
 This could be:
+
 - A software tool or application
 - A data analysis pipeline
 - An algorithm implementation
@@ -64,11 +73,12 @@ throughout the semester.
 ### 2. Research Report (40% of grade)
 
 Your research report consists of five chapters:
+
 1. **Introduction**: Problem statement, motivation, and contributions
-2. **Related Work**: Literature review and context
-3. **Methodology**: Research approach, tools, and methods
-4. **Experimental Results**: Findings, analysis, and evaluation
-5. **Conclusion and Future Work**: Summary, reflection, and next steps
+1. **Related Work**: Literature review and context
+1. **Methodology**: Research approach, tools, and methods
+1. **Experimental Results**: Findings, analysis, and evaluation
+1. **Conclusion and Future Work**: Summary, reflection, and next steps
 
 Each chapter should be approximately 5-7 pages, resulting in a complete report
 of at least 25 pages.
@@ -76,19 +86,21 @@ of at least 25 pages.
 ### 3. Research Journal (10% of grade)
 
 You will maintain an online research journal with seven entries:
+
 1. Research Idea
-2. Prototype Installation and Use
-3. Brainstorming and Prototyping Experience
-4. Chapters 1 and 2 Reflections
-5. Chapters 3 and 4 Reflections
-6. Chapter 5 Reflection
-7. Overall Project Reflection
+1. Prototype Installation and Use
+1. Brainstorming and Prototyping Experience
+1. Chapters 1 and 2 Reflections
+1. Chapters 3 and 4 Reflections
+1. Chapter 5 Reflection
+1. Overall Project Reflection
 
 Your journal will be built using Quarto and published via GitHub Pages.
 
 ### 4. Presentations (30% combined)
 
 You will give three presentations throughout the semester:
+
 - **Week 6**: Research Idea Pitch (10 min + 5 min Q&A)
 - **Week 7**: Research Prototype Demonstration (10 min + 5 min Q&A)
 - **Week 13**: Research Results Presentation (15 min + 5 min Q&A)
@@ -147,12 +159,14 @@ includes all necessary configuration files and documentation.
 The course uses a combination of primary and secondary requirements:
 
 **Primary Requirements** (80% - must complete to pass):
+
 - Research Prototype: 20%
 - Five-Chapter Research Report: 40%
 - Research Idea Pitch: 10%
 - Research Results Presentation: 10%
 
 **Secondary Requirements** (20%):
+
 - Research Journal: 10%
 - Class Participation: 5%
 - Adviser Meetings: 5%
@@ -163,23 +177,23 @@ rubrics and assessment criteria are provided in the syllabus.
 ## Getting Started
 
 1. **Read the complete syllabus** in [cmpsc-580-spring-syllabus.md](/cmpsc-580-spring-syllabus.md)
-2. **Fill out your metadata** in [metadata.md](/metadata.md)
-3. **Accept your starter repository** from the course GitHub organization
-4. **Schedule your first meeting** with your first reader
-5. **Begin brainstorming** research ideas
+1. **Fill out your metadata** in [metadata.md](/metadata.md)
+1. **Accept your starter repository** from the course GitHub organization
+1. **Schedule your first meeting** with your first reader
+1. **Begin brainstorming** research ideas
 
 ## Questions or Feedback?
 
 If you have questions about the syllabus or need clarification on course
 requirements:
 
-1. **Check the syllabus first** - many common questions are answered there
-2. **Open an issue** in this repository's [issue
+1. **Check the syllabus first** as many common questions are answered there
+1. **Open an issue** in this repository's [issue
    tracker](https://github.com/Allegheny-Computer-Science-580-S2026/ready-set-research-syllabus/issues)
-3. **Contact the course coordinator**: Professor Gregory M. Kapfhammer
+1. **Contact the course coordinator**: Professor Gregory M. Kapfhammer
    - Website: [https://www.gregorykapfhammer.com/](https://www.gregorykapfhammer.com/)
    - Office Hours: [https://www.gregorykapfhammer.com/schedule/](https://www.gregorykapfhammer.com/schedule/)
-4. **Talk to your first reader** about project-specific questions
+1. **Talk to your first reader** about project-specific questions
 
 ## Contributing to the Syllabus
 
@@ -187,8 +201,8 @@ We welcome suggestions for improving this syllabus! If you notice an error,
 have a suggestion, or want to propose a clarification:
 
 1. **Open an issue** describing the problem or suggestion
-2. **Submit a pull request** with your proposed changes
-3. **Discuss with faculty** during class or office hours
+1. **Submit a pull request** with your proposed changes
+1. **Discuss with faculty** during class or office hours
 
 The course faculty reserve the right to accept, modify, or decline proposed
 changes, but all feedback is appreciated and will be considered carefully.
@@ -204,12 +218,5 @@ changes, but all feedback is appreciated and will be considered carefully.
   - [ACM Code of Ethics](https://www.acm.org/code-of-ethics)
 - **Research Help**:
   - [Pelletier Library Research Guides](https://library.allegheny.edu/)
-
-## License
-
-This syllabus and associated materials are provided for educational purposes as
-part of CMPSC 580 at Allegheny College.
-
----
 
 **Welcome to Junior Seminar! We're excited to support you in your research journey.**
