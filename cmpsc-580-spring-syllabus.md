@@ -466,12 +466,14 @@ demonstration in Week 7 receives a separate final grade that is not
 revisable.
 
 **Prototype Requirements**: Your research prototype must demonstrate both
-**feasibility** and **challenge**. It should show that your research idea
-is technically achievable within one semester while also demonstrating
-that it pushes your skills and explores meaningful computer science
-concepts. A prototype that is too simple (e.g., a basic web form) won't
-adequately support research, while one that is overly ambitious (e.g., a
-full operating system) won't be completable in time.
+**feasibility** and **challenge**. It should show that your research idea is
+technically achievable within one semester while also demonstrating that it
+pushes your skills and explores meaningful concepts from computer science,
+software engineering, data science, and informatics. A prototype that is too
+simplistic (e.g., a basic web form or a simple command-line tool) won't
+adequately support research, while one that is overly ambitious (e.g., a full
+operating system) won't be completable in time and thus won't demonstrate
+feasibility.
 
 **Prototype Examples**: The following examples illustrate appropriate prototypes
 across different areas of computer science. While each project suggestion
