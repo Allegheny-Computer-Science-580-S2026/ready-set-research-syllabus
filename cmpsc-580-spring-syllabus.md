@@ -479,7 +479,7 @@ to identify your own prototype and completed it in the required timeframe.
 - Interactive visualization tool for demonstrating complexity classes
   with real-time algorithm comparison
 - Probabilistic data structure implementation (e.g., Bloom filters,
-  count-min sketch) with empirical accuracy testing
+  count-min sketch) with study of empirical accuracy
 
 *Software Engineering*:
 
@@ -540,7 +540,8 @@ Remember that your prototype should enable your experimental work. For example,
 if you're comparing algorithms, your prototype should implement those algorithms
 and provide benchmarking capabilities. No aspect of an empirical study for this
 prototype should require human subjects as this would necessitate IRB approval
-that is not feasible in the timeframe of this course.
+that is not feasible in the timeframe of this course. Ultimately, you should
+ensure that your prototype meets the following baseline requirements:
 
 - [ ] The prototype's source code exists in a publicly available
   GitHub repository
@@ -566,8 +567,8 @@ that is not feasible in the timeframe of this course.
 
 Again, it is important to stress that your prototype must be substantial enough
 to support a full research report while being achievable in a single semester.
-Aim for depth over breadth—it's better to thoroughly explore one aspect than to
-superficially cover many.
+You should aim for depth over breadth—it's better to thoroughly explore one
+aspect than to superficially cover many.
 
 ### Institutional Review Board (IRB) Proposals
 
