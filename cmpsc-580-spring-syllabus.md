@@ -84,7 +84,7 @@ primary research adviser throughout the semester.
 
 ## Course Details and Learning Outcomes
 
-### Course Description
+### Course Details
 
 Independent research in computer science culminating in the development
 of a research prototype, a complete five-chapter research report, and a
