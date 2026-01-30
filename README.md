@@ -275,6 +275,9 @@ The research group uses industry-standard and academic research tools:
 - **Markdown**: Lightweight markup for technical documentation
 - **Programming Languages/Frameworks**: As needed for your specific research
   project
+- **Paper Research Notebook**: A bound research notebook for organizing and
+  sharing your hand-written diagrams, equations, brainstorming notes, and task
+  lists that you use to record your research process
 
 Researchers are expected to set up their development environment early in the
 semester. The research group provides a [starter
