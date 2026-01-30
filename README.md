@@ -228,7 +228,7 @@ manuscripts and refine research outputs based on peer review.
 | 4-5 | Prototype Development | Working Prototype |
 | 6 | Research Idea Pitch | Pitch Presentation |
 | 7 | Prototype Demonstration | Demo + Installation Guide (Journal Entry 2) |
-| 8 | Spring Break | --- |
+| 8 | Spring Break | No Required Deliverables |
 | 9 | Chapter 1: Introduction | Draft of Chapter 1 |
 | 10 | Chapter 2: Related Work | Draft of Chapter 2 |
 | 11 | Chapter 3: Methodology | Draft of Chapter 3 |
