@@ -214,10 +214,11 @@ submission deadline (May 1, 2026):
 - **Research Prototype** (code, documentation, and repository quality)
 - **Research Report Chapters** (all 5 chapters)
 
-Your research adviser (first reader) will provide feedback on these artifacts
-as you develop them, and you can incorporate this feedback to improve your work
-before the final deadline. This iterative process mirrors how researchers
-revise manuscripts and refine research outputs based on peer review.
+Your research adviser (i.e., your first reader who, for the Junior Seminar is
+the course instructor) will provide feedback on these artifacts as you develop
+them, and you can incorporate this feedback to improve your work before the
+final deadline. This iterative process mirrors how researchers revise
+manuscripts and refine research outputs based on peer review.
 
 ## Research Timeline at a Glance
 
