@@ -114,7 +114,7 @@ addressing.
 
 #### What Makes a Strong Research Prototype?
 
-Your prototype should demonstrate:
+**Your prototype should demonstrate**:
 
 - **Feasibility**: Proof that your research idea can be implemented and produces
   meaningful results
@@ -126,7 +126,7 @@ Your prototype should demonstrate:
 
 #### Prototype Requirements
 
-Your prototype should be hosted in a GitHub repository with:
+**Your prototype should be hosted in a GitHub repository with**:
 
 - Comprehensive documentation explaining installation and usage
 - Clear README with project overview and research context
