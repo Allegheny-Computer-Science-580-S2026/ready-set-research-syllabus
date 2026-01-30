@@ -42,13 +42,13 @@ Seminar is designed as an intensive, single-semester research experience that:
 The Junior Seminar meets three times per week, with a mix of dedicated
 sessions and joint meetings with the Senior Seminar:
 
-- **Monday** (50 minutes): Junior Seminar only - Student presentations,
+- **Monday** (50 minutes): Junior Seminar only for student presentations,
   project work sessions, and peer feedback
-- **Wednesday** (50 minutes): Junior Seminar only - Student presentations,
+- **Wednesday** (50 minutes): Junior Seminar only for student presentations,
   technical workshops, and individual consultations
-- **Friday** (50 minutes): Joint session with Senior Seminar (CMPSC 600/610) -
-  Research methods, academic writing, research ethics, and professional
-  development
+- **Friday** (50 minutes): Joint session with Senior Seminar (e.g., CMPSC
+  600/610) for collaborative research methods, academic writing, research ethics,
+  and professional development
 
 This structure provides dedicated time for junior-specific activities while
 also allowing you to learn from and interact with senior students who are
