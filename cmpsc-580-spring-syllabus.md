@@ -109,9 +109,9 @@ percentages during the academic semester.
 |Adviser Meetings |Secondary |5% |Cumulative |
 |Research Prototype |Primary |20% |Revisable |
 |Research Idea Pitch Presentation |Primary |10% |Final |
-|Prototype Demonstration |Primary |Included |Final |
+|Prototype Demonstration |Primary |10% |Final |
 |Research Results Presentation |Primary |10% |Final |
-|Five-Chapter Research Report |Primary |40% |Revisable |
+|Five-Chapter Research Report |Primary |30% |Revisable |
 
 **Important Note on Grading Types:**
 

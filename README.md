@@ -238,11 +238,13 @@ includes all necessary configuration files and documentation.
 
 The course uses a combination of primary and secondary requirements:
 
-**Primary Requirements** (80% - must complete to pass):
+**Primary Requirements** (80%, must complete all deliverables to pass the
+course):
 
 - Research Prototype: 20% (Revisable)
-- Five-Chapter Research Report: 40% (Revisable)
+- Five-Chapter Research Report: 30% (Revisable)
 - Research Idea Pitch: 10% (Final)
+- Research Prototype Demonstration: 10% (Final)
 - Research Results Presentation: 10% (Final)
 
 **Secondary Requirements** (20%):
@@ -253,8 +255,8 @@ The course uses a combination of primary and secondary requirements:
 
 Students must complete all primary requirements to pass the course. Detailed
 rubrics and assessment criteria are provided in the syllabus. See the "Important
-Grading Policies" section above for information about which grades are final
-versus revisable.
+Grading Policies" section in this repository for information about which grades
+are final versus revisable.
 
 ## Getting Started
 
