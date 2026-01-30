@@ -244,8 +244,10 @@ manuscripts and refine research outputs based on peer review.
 Throughout the semester, you will work closely with one faculty member who
 serves as your research adviser:
 
-- **First Reader / Research Adviser**: Your primary research mentor who you
-  meet with weekly to advance your research project
+- **First Reader / Research Adviser**: Your primary research mentor who you meet
+  with weekly to advance your research project. For the Junior Seminar, this
+  person is the course instructor. You should aim to meet with your research
+  adviser on a weekly basis.
 
 Your research adviser will:
 
