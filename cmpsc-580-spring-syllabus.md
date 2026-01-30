@@ -520,11 +520,11 @@ to identify your own prototype and completed it in the required timeframe.
 - Cryptographic protocol implementation with security property
   verification
 
-Remember that your prototype should enable your experimental work. For
-example, if you're comparing algorithms, your prototype should implement
-those algorithms and provide benchmarking capabilities. If you're
-studying user behavior, your prototype should collect relevant
-interaction data.
+Remember that your prototype should enable your experimental work. For example,
+if you're comparing algorithms, your prototype should implement those algorithms
+and provide benchmarking capabilities. No aspect of an empirical study for this
+prototype should require human subjects as this would necessitate IRB approval
+that is not feasible in the timeframe of this course.
 
 - [ ] The prototype's source code exists in a publicly available
   GitHub repository
@@ -547,6 +547,11 @@ interaction data.
   demonstrations
 - [ ] The prototype successfully supports the experimental work
   described in the report
+
+Again, it is important to stress that your prototype must be substantial enough
+to support a full research report while being achievable in a single semester.
+Aim for depth over breadth—it's better to thoroughly explore one aspect than to
+superficially cover many.
 
 ### Institutional Review Board (IRB) Proposals
 
