@@ -115,7 +115,8 @@ repository and usable by the other members of our research group.
 
 ### 2. Research Report (40% of grade)
 
-Your research report consists of five chapters:
+Your research report consists of five chapters that mirror the chapters you will
+later write in your senior thesis for the 600- and 610-level courses:
 
 1. **Introduction**: Problem statement, motivation, and contributions
 1. **Related Work**: Literature review and context
