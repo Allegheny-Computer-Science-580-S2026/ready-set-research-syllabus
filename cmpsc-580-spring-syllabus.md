@@ -1,26 +1,27 @@
-# CMPSC 600: Fall Semester of Two-Semester Senior Thesis Research
+# CMPSC 580: Junior Seminar in Computer and Information Science
 
 ## Outline
 
 ## Introduction
 
-Your senior thesis process affords you the opportunity to pursue independent
+Your junior seminar process affords you the opportunity to pursue independent
 research in computer science. This course parallels the kinds of intense inquiry
 and research inherent to both academic life and a career as a computer
 scientist, data scientist, or software engineer. To that end, you will work
-closely with your readers to explore rich, ever-complex, projects. Though the
-faculty cannot promise that this work will be frustration- or challenge-free, we
-invite you to pursue it with great enthusiasm, vigor, and to --- above all ---
-find joy in the process.
+closely with your first and second readers to explore rich, complex research
+projects in a single-semester format. Though the faculty cannot promise that
+this work will be frustration- or challenge-free, we invite you to pursue it
+with great enthusiasm, vigor, and to --- above all --- find joy in the process.
 
 ## Course Description
 
 Independent research in computer science, data science, informatics, or software
-engineering, as further described in detail in the Learning Objectives section.
+engineering. Students will develop a research idea, create a working prototype,
+write a complete research report, and maintain a research journal documenting
+their progress and reflections.
 
-* Prerequisite: `CMPSC 580` or suitable equivalent for certain `600`-level
-courses
-* Distribution Requirements: `None`
+- Prerequisite: `CMPSC 200` and `CMPSC 203` or permission of instructor
+- Distribution Requirements: `None`
 
 ## Course Instructors
 
@@ -30,113 +31,110 @@ courses
 - [Douglas Luman](https://www.cis.allegheny.edu/sites/dluman/)
 
 The instructor with the `**` symbol after their name is the course coordinator
-who is responsible for orchestrating all aspects of the `CMPSC 600` course. If
+who is responsible for orchestrating all aspects of the `CMPSC 580` course. If
 you have any high-level questions about this course, please contact both the
 course coordinator and your first reader(s). Importantly, if you are enrolled in
-`DOUBL 600` you may have a first reader who is not in the above list of course
+`DOUBL 580` you may have a first reader who is not in the above list of course
 instructors.
 
 ## Course Details and Learning Outcomes
 
-### Computer Science 600
+### Computer Science 580
 
 #### Course Description
 
-Independent research in computer science culminating in the development of
-prototype or early draft of a computational artifact. Must be taken on a
-letter-grade basis. Students are invited to use their own departmentally
-approved laptop in this course; a limited number of laptops are available for
-use during class and lab sessions.
+Independent research in computer science culminating in the development of a
+research prototype, a complete five-chapter research report, and a research
+journal. Must be taken on a letter-grade basis. Students are invited to use
+their own departmentally approved laptop in this course; a limited number of
+laptops are available for use during class and lab sessions.
 
 #### Learning Objectives
 
 - Develop a viable and appropriate proposal for an independent and open-source
-research project.
+  research project.
 - Describe a research process, its methods, and outcomes in writing in the form
-of an incremental research notebook and two chapters of a formal thesis
-document.
+  of an incremental research journal and a complete five-chapter research report.
 - Present and communicate complex ideas in a variety of media through both
-informal discussions, peer reviews and formal presentations.
-- Produce and document a working prototype of computational artifact.
+  informal discussions and formal presentations.
+- Produce and document a working research prototype.
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical
-and social impact of the proposed artifact.
+  and social impact of the proposed work.
 - Produce an original project that includes integration of theory and practice
-or software and hardware.
+  or software and hardware.
 
-### Data Science 600
+### Data Science 580
 
 #### Course Description
 
 Independent research in data science culminating in the development of a
-prototype or early draft of a computational artifact. Must be taken on a
-letter-grade basis. Students are invited to use their own departmentally
-approved laptop in this course; a limited number of laptops are available for
-use during class and lab sessions.
+research prototype, a complete five-chapter research report, and a research
+journal. Must be taken on a letter-grade basis. Students are invited to use
+their own departmentally approved laptop in this course; a limited number of
+laptops are available for use during class and lab sessions.
 
 #### Learning Outcomes
 
 - Develop a viable and appropriate proposal for an independent and open-source
-research project.
+  research project.
 - Describe a research process, its methods, and outcomes in writing in the form
-of an incremental research notebook and two chapters of a formal thesis
-document.
+  of an incremental research journal and a complete five-chapter research report.
 - Present and communicate complex ideas in a variety of media through both
-informal discussions, peer reviews and formal presentations.
-- Produce and document a working prototype of a data-oriented artifact.
+  informal discussions and formal presentations.
+- Produce and document a working research prototype with a focus on data analysis.
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical
-and social impact of the proposed artifact.
-- Produce an original project that uses a large, complex data set to create a
-web dashboard or extend an existing data science framework via analysis.
+  and social impact of the proposed work.
+- Produce an original project that uses a data set to create visualizations,
+  analysis tools, or extends existing data science frameworks.
 
-### Informatics 600
+### Informatics 580
 
 #### Course Description
 
 Independent research in informatics culminating in the development of a
-prototype or early draft of a computational artifact. Must be taken on a
-letter-grade basis. Students are invited to use their own departmentally
-approved laptop in this course; a limited number of laptops are available for
-use during class and lab sessions.
+research prototype, a complete five-chapter research report, and a research
+journal. Must be taken on a letter-grade basis. Students are invited to use
+their own departmentally approved laptop in this course; a limited number of
+laptops are available for use during class and lab sessions.
 
 #### Learning Outcomes
 
 - Develop a viable and appropriate proposal for an independent and open-source
-research project.
+  research project.
 - Describe a research process, its methods, and outcomes in writing in the form
-of an incremental research notebook and two chapters of a formal thesis
-document.
+  of an incremental research journal and a complete five-chapter research report.
 - Present and communicate complex ideas in a variety of media through both
-informal discussions, peer reviews and formal presentations.
-- Produce and document a working prototype of an information-informed artifact.
+  informal discussions and formal presentations.
+- Produce and document a working research prototype that addresses information
+  systems or human-computer interaction.
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical
-and social impact of the proposed artifact.
+  and social impact of the proposed work.
 - Produce an original project that integrates multiple disciplines and provides
-critical engagement of impact of technology on various communities.
+  critical engagement of impact of technology on various communities.
 
-### Software Engineering 600
+### Software Engineering 580
 
 #### Course Description
 
 Independent research in software engineering culminating in the development of a
-prototype or early draft of a computational artifact. Must be taken on a
-letter-grade basis. Students are invited to use their own departmentally
-approved laptop in this course; a limited number of laptops are available for
-use during class and lab sessions.
+research prototype, a complete five-chapter research report, and a research
+journal. Must be taken on a letter-grade basis. Students are invited to use
+their own departmentally approved laptop in this course; a limited number of
+laptops are available for use during class and lab sessions.
 
 #### Learning Outcomes
 
 - Develop a viable and appropriate proposal for an independent and open-source
-research project.
+  research project.
 - Describe a research process, its methods, and outcomes in writing in the form
-of an incremental research notebook and two chapters of a formal thesis
-document.
+  of an incremental research journal and a complete five-chapter research report.
 - Present and communicate complex ideas in a variety of media through both
-informal discussions, peer reviews, and formal presentations.
-- Produce and document a working prototype of an engineered software artifact.
+  informal discussions and formal presentations.
+- Produce and document a working research prototype focused on software systems.
 - Evaluate the produced prototype and reflect on theoretical, practical,
-ethical, and social impact of the produced artifact.
-- Produce an original software project that is working, well-tested, and
-deployed into production use.
+  ethical, and social impact of the produced work.
+- Produce an original software project that is working, documented, and
+  demonstrates software engineering best practices.
 
 ## Assessment Strategy
 
@@ -150,43 +148,34 @@ grade. All of these percentages are approximate and, if the need to do so
 presents itself, the course coordinator may, for instance, change the assigned
 percentages during the academic semester.
 
+|**Deliverable** |**Categorization** |**Percentage** |
+|:--------------------------------|:------------------|:--------------|
+|Research Journal (7 entries) |Secondary |10% |
+|Class Participation |Secondary |5% |
+|Adviser Meetings |Secondary |5% |
+|Research Prototype |Primary |20% |
+|Research Idea Pitch Presentation |Primary |10% |
+|Research Results Presentation |Primary |10% |
+|Five-Chapter Research Report |Primary |40% |
 
-|**Deliverable**        |**Categorization** |**Percentage** |
-|:----------------------|:------------------|:--------------|
-|Research Notebook       |Secondary          |5%             |
-|Class Participation    |Secondary          |7.5%             |
-|Adviser Meetings       |Secondary          |7.5%             |
-|Computational Artifact |Primary            |15%            |
-|Project Presentation   |Primary            |15%            |
-|Project Demonstration  |Primary            |15%            |
-|Two Thesis Chapters    |Primary            |35%            |
-
-
-To pass a `600`-level course in Computer and Information Science, submission of
-and participation in all the primary requirements is mandatory. In addition to
-an overall evaluation of each category, a student's work in the `600`-level
-Computer and Information Science course will be evaluated according to each of
+To pass `CMPSC 580`, submission of and participation in all the primary
+requirements is mandatory. In addition to an overall evaluation of each
+category, a student's work in `CMPSC 580` will be evaluated according to each of
 the following baseline requirements. Please note that these requirements
-articulate a baseline for the `600`-level course in Computer and Information
-Science and are provided as a list of minimum requirements that all specific
-research deliverables must meet to be assessed as complete. Please note that the
-only baseline requirements in the following `General Thesis Requirements`
-section that will contribute to a student's grade in this course are those that
-reasonably pertain the deliverables in the `600`-level course. Before the
-submission of a final grade, a student's assessment scores for these categories
-will be initially assigned by their first reader, reviewed by their second
-reader, approved by all faculty members who are instructors for a `600`-level
-course in Computer and Information Science at Allegheny College.
+articulate a baseline for the junior seminar course and are provided as a list
+of minimum requirements that all specific research deliverables must meet to be
+assessed as complete. Before the submission of a final grade, a student's
+assessment scores for these categories will be initially assigned by their first
+reader, reviewed by their second reader, and approved by all faculty members who
+are instructors for `CMPSC 580` at Allegheny College.
 
-Students who are enrolled in `DOUBL 600` are also required to write a course
+Students who are enrolled in `DOUBL 580` are also required to write a course
 contract that describes the deliverables and the deadlines by which they will
-complete them for both `600`-level course in Computer and Information Science
-and the course for their additional major. Importantly, students in `DOUBL 600`
-must complete _all_ the requirements for _both_ the `600`-level course in
-Computer and Information Science _and_ the `600` course connected to their other
-major. Students who enroll in `DOUBL 600` should submit their course contract to
-both of their first readers and the coordinator of the `600`-level course in
-Computer and Information Science.
+complete them for both `CMPSC 580` and the course for their additional major.
+Importantly, students in `DOUBL 580` must complete _all_ the requirements for
+_both_ `CMPSC 580` _and_ the course connected to their other major. Students who
+enroll in `DOUBL 580` should submit their course contract to both of their first
+readers and the coordinator of `CMPSC 580`.
 
 ### Deliverable Descriptions
 
@@ -194,7 +183,8 @@ Computer and Information Science.
 
 - [ ] The student regularly attended the weekly class sessions
 - [ ] The student actively participated in the weekly in-person class discussions
-- [ ] The student contributed meaningfully to peer feedback sessions
+- [ ] The student contributed meaningfully to brainstorming sessions
+- [ ] The student provided constructive feedback during peer presentations
 - [ ] The student asked thoughtful questions during presentations and discussions
 - [ ] The student demonstrated professional behavior and respect for others
 
@@ -207,310 +197,438 @@ Computer and Information Science.
 - [ ] The student frequently completed activities according to an agreed schedule
 - [ ] The student demonstrated growth in their knowledge of their research topic
 - [ ] The student demonstrated growth in their ability to conduct research in
-computer and information science
+  computer and information science
 - [ ] The student suggested ways in which to improve and/or gave feedback on the
-course's research process
+  course's research process
 
-#### Research Notebook
+#### Research Journal
 
-- [ ] The student created a research notebook to record details about their
-meetings with the first reader and additional research notes
-- [ ] The research notebook contains evidence of dated entries for
-research meetings and additional notes
-- [ ] The contents of the research notebook have a clear connection to the
-research project
-- [ ] The contents of the research notebook give evidence of regular progress on
-the research project
-- [ ] The research notebook demonstrates critical thinking and reflection on
-research challenges
-- [ ] The research notebook includes references to relevant literature and
-resources in the chosen research area
-- [ ] The research notebook shows evidence of iterative problem-solving and
-decision-making in the research process
+The research journal should contain seven entries as specified in the course
+requirements, with entries divided between activity-based and reflection-based
+posts.
 
-#### Project Presentation
+- [ ] The student created a research journal website using Quarto and GitHub Pages
+- [ ] The research journal contains all seven required entries with appropriate dates
+- [ ] Entry 1: Research Idea clearly describes the proposed research problem and approach
+- [ ] Entry 2: Prototype Installation and Use provides clear documentation
+- [ ] Entry 3: Brainstorming and Prototyping Experience reflects on the ideation
+  and development process
+- [ ] Entry 4: Chapters 1 and 2 Reflections demonstrates critical thinking about
+  the introduction and related work
+- [ ] Entry 5: Chapters 3 and 4 Reflections shows thoughtful analysis of methods
+  and experimental results
+- [ ] Entry 6: Chapter 5 Reflection synthesizes learning from the conclusion
+- [ ] Entry 7: Overall Project Reflection provides comprehensive overview and
+  identifies next steps
+- [ ] The research journal demonstrates consistent effort throughout the semester
+- [ ] The journal entries show evidence of iterative problem-solving and growth
 
-- [ ] The student gave the project presentation on the assigned date
-- [ ] The project presentation featured effective and well-designed slides
-- [ ] The project presentation has an accessible overview of the proposed
-project
-- [ ] The project presentation gave a clear project motivation
-- [ ] The student effectively answered the questions from the audience
-- [ ] The student completed the project presentation within the stated time
-limit
+#### Research Idea Pitch Presentation
+
+- [ ] The student gave the presentation on the assigned date (Week 6)
+- [ ] The presentation featured effective and well-designed slides
+- [ ] The presentation included an accessible overview of the proposed research
+- [ ] The presentation clearly articulated the research problem and motivation
+- [ ] The presentation outlined the proposed methodology and approach
+- [ ] The presentation discussed the expected outcomes and contributions
+- [ ] The student effectively answered questions from the audience
+- [ ] The student completed the presentation within the stated time limit (10 minutes)
 - [ ] The student completed the question and answer session within the stated
-time limit
-- [ ] The presentation demonstrated clear understanding of the research problem
-and solution
-- [ ] The presentation included appropriate technical depth for the audience
+  time limit (5 minutes)
+- [ ] The presentation demonstrated clear understanding of the research area
 - [ ] The presentation showed evidence of thorough preparation and practice
-- [ ] The presentation effectively communicated the broader impact and
-significance of the work
 
-#### Project Demonstration
+#### Research Prototype Demonstration (Week 7)
 
-- [ ] The student completed the tool demonstration within the stated time limit
-- [ ] The demonstration clearly shows the computational artifact in action with
-realistic input/output examples
-- [ ] The student effectively explained the core functionality and purpose of
-their tool
-- [ ] The demonstration included multiple key features or use cases of the
-computational artifact
-- [ ] The student handled technical difficulties or unexpected issues in a
-professional manner
-- [ ] The demonstrated tool aligns with the research objectives outlined in the
-project presentation
-- [ ] The student showed evidence of testing or validation during the
-demonstration
+- [ ] The student completed the prototype demonstration on the assigned date
+- [ ] The demonstration clearly showed the research prototype in action
+- [ ] The student effectively explained the core functionality of their prototype
+- [ ] The demonstration included key features relevant to the research questions
+- [ ] The student provided clear installation and usage instructions
+- [ ] The prototype's GitHub repository contains comprehensive documentation
+- [ ] The prototype demonstrates meaningful progress toward research goals
+- [ ] The student handled questions and technical issues professionally
 - [ ] The demonstration was well-organized and followed a logical sequence
-- [ ] The computational artifact demonstrated represents substantial technical
-achievement
-- [ ] The demonstration showed the computational artifact's practical
-applicability and potential impact
-- [ ] The student clearly articulated any limitations or future improvements
-needed
-- [ ] The project demonstration showed the overall feasibility of the proposed
-research project
+- [ ] The prototype represents substantial effort and technical achievement
+- [ ] The student articulated connections between the prototype and research objectives
 
-#### General Thesis Requirements
+#### Research Results Presentation (Week 13)
+
+- [ ] The student gave the presentation on the assigned date
+- [ ] The presentation featured effective and well-designed slides
+- [ ] The presentation summarized the research problem and methodology
+- [ ] The presentation clearly presented experimental results with appropriate
+  visualizations
+- [ ] The presentation discussed the implications of the findings
+- [ ] The presentation addressed the research questions posed at the beginning
+- [ ] The presentation included discussion of future work and limitations
+- [ ] The student effectively answered questions from the audience
+- [ ] The student completed the presentation within the stated time limit (15 minutes)
+- [ ] The student completed the question and answer session within the stated
+  time limit (5 minutes)
+- [ ] The presentation demonstrated mastery of the research topic
+- [ ] The presentation showed evidence of thorough preparation and practice
+
+#### Research Report Requirements
+
+The junior seminar research report consists of five chapters that document the
+complete research process. Each chapter should be approximately 5 to 7 pages in
+length.
+
+##### General Report Requirements
 
 - [ ] The abstract provides a concise and compelling summary of the research
-- [ ] The thesis was submitted on time as a PDF in a tagged release on GitHub
-- [ ] The GitHub repository of the thesis contains evidence of many commits
-- [ ] The GitHub repository of the thesis contains multiple releases using the
-  [Semantic Versioning Standard](https://semver.org/)
-- [ ] In adherence to the [Semantic Versioning Standard](https://semver.org/),
-  the GitHub repository of the thesis contains a release greater than `1.0.0`
-  for the work in CMPSC 600 and a release greater than `2.0.0` for CMPSC 610
-- [ ] The thesis has the correct format created through the use of Pandoc and
-  LaTeX and the senior thesis template for the Department of Computer and
-  Information Science
-- [ ] The title of the thesis is both interesting and appropriate
-- [ ] The thesis includes at least twelve references
-- [ ] Unless there is a convincing reason to require otherwise, each chapter
-  in the senior thesis should contain at least ten to twenty pages of
-  contents formatted in the required style
-- [ ] The completed thesis consists of at least `15,000` words
-- [ ] The thesis follows a logical flow at the level of chapters, sections,
-  subsections, and individual paragraphs
-- [ ] The thesis includes appropriate visual aids, which fall under the broad
-  categories of (minimum `5`):
-    * `image`
-    * `figure`
-    * `table`
-    * `graph`
-- [ ] The thesis contains a sufficient amount of content with a focus on
-  scientific, technical, engineering, and/or mathematical content
-- [ ] The thesis highlights and explains the societal impacts and ethical
-  implications of the completed research
-- [ ] There are no typographical or grammatical errors in the thesis
-- [ ] There is no extraneous text in the thesis (e.g., text from the thesis template)
+- [ ] The report was submitted on time as a PDF in a tagged release on GitHub
+- [ ] The GitHub repository contains evidence of many commits throughout the semester
+- [ ] The GitHub repository contains multiple releases using the [Semantic
+  Versioning Standard](https://semver.org/)
+- [ ] In adherence to the [Semantic Versioning
+  Standard](https://semver.org/), the repository contains releases with version
+  numbers `1.0.0+` for Chapter 1, `2.0.0+` for Chapter 2, `3.0.0+` for Chapter 3,
+  `4.0.0+` for Chapter 4, and `5.0.0+` for Chapter 5
+- [ ] The report has the correct format created through the use of Quarto,
+  Pandoc, and LaTeX using the Allegheny CIS template
+- [ ] The title of the report is both interesting and appropriate
+- [ ] The report includes at least twelve high-quality references
+- [ ] Each chapter contains approximately 5 to 7 pages of content in the
+  required style
+- [ ] The completed report consists of at least 25 pages of content (approximately
+  5 chapters × 5 pages minimum)
+- [ ] The report follows a logical flow at the level of chapters, sections,
+  subsections, and paragraphs
+- [ ] The report includes at least 5 appropriate visual aids such as:
+  - images
+  - figures
+  - tables
+  - graphs
+  - diagrams
+- [ ] The report contains substantial scientific, technical, engineering, and/or
+  mathematical content
+- [ ] The report highlights and explains the societal impacts and ethical
+  implications of the research
+- [ ] There are no typographical or grammatical errors in the report
+- [ ] There is no extraneous text in the report (e.g., text from the template)
 
-#### Introduction Section Requirements
+##### Chapter 1: Introduction
 
-- [ ] The introduction section clearly describes the completed work
-- [ ] The introduction section motivates the completed work from a professional
-perspective focused on science, technology, engineering, mathematics, broader
-impacts, and societal implications
-- [ ] The introduction section outlines the ethical implications of the thesis
-- [ ] The introduction outlines the structure of the senior comprehensive
-project
-- [ ] The introduction section articulates the overall contributions of the
-senior comprehensive project
+- [ ] The introduction clearly describes the research problem
+- [ ] The introduction motivates the work from professional and academic perspectives
+- [ ] The introduction discusses the broader impacts and societal implications
+- [ ] The introduction outlines the ethical considerations of the work
+- [ ] The introduction previews the structure of the research report
+- [ ] The introduction articulates the key contributions of the research
+- [ ] The introduction is approximately 5 to 7 pages in length
 
-#### Related Work Section Requirements
+##### Chapter 2: Related Work
 
 - [ ] The related work section references and describes relevant literature
-- [ ] The related work section explains how relevant literature connects to the
-thesis
-- [ ] The related work section does not provide a "laundry list" of the related
-literature
-- [ ] The related work section situates the completed project in the broader
-scope
-- [ ] The related work section furnishes content that supports the other
-chapters of the thesis
+- [ ] The related work section explains how literature connects to the research
+- [ ] The related work section synthesizes sources rather than providing a list
+- [ ] The related work section situates the project in the broader research context
+- [ ] The related work section provides support for subsequent chapters
+- [ ] The related work section engages with at least 12 high-quality sources
+- [ ] The related work section is approximately 5 to 7 pages in length
 
-#### Method Section Requirements
+##### Chapter 3: Methodology
 
-- [ ] The method section explains the process utilized in the completed study
-- [ ] The method section addresses as many of the following that are applicable
-(minimum `3`):
-    * `description of algorithms`
-    * `programming languages`
-    * `libraries`
-    * `platforms`
-    * `frameworks`
-    * `software`
-    * `hardware`
-    * `data`
-    * `theories`
-- [ ] The method section explains the design of the experiments that will
-evaluate the computational artifact
-- [ ] The method section explains how to calculate and/or collect the evaluation
-metrics
-- [ ] The method section references the GitHub repository that contains the
-implementation of the project's computational artifact(s)
-- [ ] The method section gives examples of the input and output of the project's
-computational artifact(s) and, when appropriate, explains how to run the
-computational artifact (note that the `README.md` file of the GitHub repository
-that contains the computational artifact(s) should furnish complete details
-about the input, output, behavior, and use of the project)
+- [ ] The methodology section explains the research process and approach
+- [ ] The methodology section describes at least 3 of the following:
+  - description of algorithms
+  - programming languages
+  - libraries and frameworks
+  - platforms
+  - software tools
+  - hardware
+  - data sets
+  - theoretical foundations
+- [ ] The methodology section explains the design of experiments
+- [ ] The methodology section explains how evaluation metrics are calculated/collected
+- [ ] The methodology section references the GitHub repository with the prototype
+- [ ] The methodology section provides examples of input and output
+- [ ] The methodology section includes appropriate diagrams or figures
+- [ ] The methodology section is approximately 5 to 7 pages in length
 
-#### Experimental Results Section Requirements
+##### Chapter 4: Experimental Results
 
-- [ ] The experimental results section includes a description of experiments
-  such that a reader should be able to reproduce them
-- [ ] The evaluation subsection describes how the work is validated
-- [ ] The evaluation subsection contains at least one graph, table of data, or
-  some other relevant presentation of the results from the experimental study
-- [ ] The experimental results section details the threats to validity
+- [ ] The results section describes experiments such that they are reproducible
+- [ ] The results section presents data using appropriate visualizations
+- [ ] The results section includes at least one graph, table, or chart
+- [ ] The results section analyzes and interprets the experimental findings
+- [ ] The results section discusses how results address the research questions
+- [ ] The results section identifies threats to validity
+- [ ] The results section is approximately 5 to 7 pages in length
 
-#### Discussion and Future Work Section Requirements
+##### Chapter 5: Conclusion and Future Work
 
-- [ ] The discussion and future work section discusses the impact of the
-completed research project
-- [ ] The discussion and future work section critically reflects on the
-completed research project
-- [ ] The conclusion outlines, with sufficient depth and detail, avenues for
-further and/or future work
+- [ ] The conclusion summarizes the research and key findings
+- [ ] The conclusion discusses the impact and significance of the work
+- [ ] The conclusion critically reflects on the research process
+- [ ] The conclusion outlines specific avenues for future work with sufficient detail
+- [ ] The conclusion revisits ethical implications in light of the results
+- [ ] The conclusion provides closure to the research narrative
+- [ ] The conclusion is approximately 5 to 7 pages in length
 
-#### Computational Artifact
+#### Research Prototype
 
-- [ ] The artifact's source code exists in a publicly available GitHub
-repository
-- [ ] The artifact's GitHub repository contains documentation on how to install
-and use it
-- [ ] It is possible for a `600`-level researcher who is not the creator of the
-GitHub repository to install and use the computational artifact
-- [ ] The artifact's GitHub repository contains sufficient evidence of best
-practices for software development (e.g., test suites, linters, and the setup of
-continuous integration in GitHub Actions)
-- [ ] The GitHub repository features deliverables that have a clear connection
-to the research project
-- [ ] The GitHub repository contains evidence of regular commits through the
-Fall semester
-- [ ] The computational artifact demonstrates significant technical complexity
-appropriate for `600`-level work
-- [ ] The artifact includes comprehensive error handling and input validation
-- [ ] The repository contains clear examples and usage demonstrations
-- [ ] The artifact's code is well-structured, readable, and follows appropriate
-design patterns
-- [ ] The computational artifact successfully addresses the research problem as
-outlined in the project's presentations and chapters
+- [ ] The prototype's source code exists in a publicly available GitHub repository
+- [ ] The prototype's repository contains comprehensive installation instructions
+- [ ] The prototype's repository contains clear usage documentation
+- [ ] The prototype can be installed and used by someone other than the creator
+- [ ] The prototype's repository demonstrates software development best practices
+  (e.g., meaningful commit messages, organized file structure)
+- [ ] The prototype addresses the research problem described in the report
+- [ ] The prototype's repository contains evidence of regular commits throughout
+  the semester
+- [ ] The prototype demonstrates appropriate technical complexity for junior-level work
+- [ ] The prototype includes adequate error handling and validation
+- [ ] The prototype's repository contains clear examples and demonstrations
+- [ ] The prototype successfully supports the experimental work described in the report
 
 ### Institutional Review Board (IRB) Proposals
 
 Should a project require Institutional Review Board (IRB) approval for use of
 human subjects in the research project, the proposing student is responsible for
-writing and having an approved IRB proposal before conducting any of the
-experimentation associated with their undergraduate research. Students must
-submit their IRB proposal to their First Reader who will review it and provide
-feedback on it before submitting it to the IRB. In accordance with Allegheny
-College policies, students may not submit their IRB proposal directly to the IRB
-and may not start working on any of their experiments before receiving IRB
-approval.
+writing and having an approved IRB proposal before conducting any experimentation
+associated with their research. Students must submit their IRB proposal to their
+First Reader who will review it and provide feedback before submitting it to the
+IRB. In accordance with Allegheny College policies, students may not submit
+their IRB proposal directly to the IRB and may not start working on any
+experiments before receiving IRB approval.
 
-### Additional Details
+### Additional Details for Presentations
 
-- A project presentation includes the following components with these time
-limits:
-    - Project presentation:  10 minutes
-    - Demonstration of computation artifact: 3 minutes
-    - Question and answer session: 2 minutes
-    - Total time of presentation session: 15 minutes
+- Research Idea Pitch Presentation (Week 6):
+
+  - Project presentation: 10 minutes
+  - Question and answer session: 5 minutes
+  - Total time: 15 minutes
+
+- Research Prototype Demonstration (Week 7):
+
+  - Prototype demonstration: 10 minutes
+  - Question and answer session: 5 minutes
+  - Total time: 15 minutes
+
+- Research Results Presentation (Week 13):
+
+  - Results presentation: 15 minutes
+  - Question and answer session: 5 minutes
+  - Total time: 20 minutes
+
 - Presenting students must strictly adhere to the stated time limits.
+
 - All students are required to attend and participate as audience members in all
-of project presentations.
-- Students must submit the first two chapters of their senior thesis document.
-The thesis chapters are only required to adhere to those requirements that might
-be reasonably completed during a `600`-level course in Computer and Information
-Science. For instance, students are not required to have a senior thesis
-document that meets the overall word count requirement until they have completed
-a `610`-level course in Computer and Information Science. Students who have
-questions about the assessment requirements for this `600`-level comprehensive
-project are encouraged to contact their first reader and the course coordinator.
+  presentations.
 
 ### Course Schedule
 
-- **Week One**: Informal class session due to start of semester during a partial
-week
-- **Week Two**: First formal class session and overview of course goals
-- **Week Three**: Review of course goals and meeting with both readers
-- **Week Four**: Review syllabus, work on presentation slide deck and prototype
-- **Week Five**: Refine presentation slide deck and computational prototype
-- **Week Six**: Finalize presentation slide deck and prototype for demonstration
-- **Week Seven**: No class due to Fall Break, gain access to thesis chapters
-repository
-- **Week Eight**: One-third of class gives project presentation and
-demonstration
-- **Week Nine**: One-third of class gives project presentation and demonstration
-- **Week Ten**: One-third of class gives project presentation and demonstration
-- **Week Eleven**: Write and revise Chapter One of Senior Comprehensive Project
-- **Week Twelve**: Write and revise Chapter One of Senior Comprehensive Project
-- **Week Thirteen**: Write and revise Chapter Two of Senior Comprehensive
-Project
-- **Week Fourteen**: No class due to Thanksgiving Break
-- **Week Fifteen**: Write and revise Chapter Two of Senior Comprehensive Project
-- **Week Sixteen**: Finalize first two chapters of Senior Comprehensive Project
-- **December 11, 2025 by 11:59 PM**: Submit final version of Chapter One and
-Chapter Two
+The Spring 2026 semester follows this weekly schedule:
+
+- **Week 1: Introduction and Brainstorming**
+
+  - Introduction to course requirements and expectations
+  - Overview of research process and timeline
+  - Begin brainstorming research ideas
+  - **Deliverable**: Begin Journal Entry 1 (Research Idea)
+
+- **Week 2: Brainstorming and Discussion**
+
+  - Refine research ideas through peer discussion
+  - Meet with first reader to discuss potential topics
+  - Explore existing work in areas of interest
+  - **Deliverable**: Continue developing Journal Entry 1
+
+- **Week 3: Brainstorming and Discussion**
+
+  - Finalize research idea and scope
+  - Identify required tools, technologies, and resources
+  - Plan prototype development approach
+  - **Deliverable**: Complete Journal Entry 1 (Research Idea)
+
+- **Week 4: Build Research Prototype**
+
+  - Begin development of research prototype
+  - Set up GitHub repository with documentation
+  - Implement core functionality
+  - **Deliverable**: Initial prototype commits
+
+- **Week 5: Build Research Prototype**
+
+  - Continue prototype development
+  - Prepare for pitch presentation
+  - Develop presentation slides
+  - **Deliverable**: Working prototype for demonstration
+
+- **Week 6: Research Idea Pitch Presentations**
+
+  - All students present research idea pitches (10 min + 5 min Q&A)
+  - Receive feedback from faculty and peers
+  - **Deliverable**: Research Idea Pitch Presentation
+
+- **Week 7: Install, Use, and Demonstrate Research Prototype**
+
+  - All students demonstrate research prototypes (10 min + 5 min Q&A)
+  - Provide installation and usage documentation
+  - **Deliverable**: Research Prototype Demonstration
+  - **Deliverable**: Complete Journal Entry 2 (Prototype Installation and Use)
+
+- **Week 8: Spring Break**
+
+  - No class sessions
+  - Optional: Continue prototype refinement
+
+- **Week 9: Chapter 1 of Research Report**
+
+  - Write Chapter 1: Introduction
+  - Meet with first reader for feedback
+  - **Deliverable**: Draft of Chapter 1 for review
+  - **Deliverable**: Complete Journal Entry 3 (Brainstorming and Prototyping Experience)
+
+- **Week 10: Chapter 2 of Research Report**
+
+  - Write Chapter 2: Related Work
+  - Conduct literature review
+  - Meet with first reader for feedback
+  - **Deliverable**: Draft of Chapter 2 for review
+
+- **Week 11: Chapter 3 of Research Report**
+
+  - Write Chapter 3: Methodology
+  - Document research methods and tools
+  - Meet with first reader for feedback
+  - **Deliverable**: Draft of Chapter 3 for review
+  - **Deliverable**: Complete Journal Entry 4 (Chapters 1 and 2 Reflections)
+
+- **Week 12: Chapter 4 of Research Report**
+
+  - Write Chapter 4: Experimental Results
+  - Conduct experiments and collect data
+  - Create visualizations and analyze results
+  - Meet with first reader for feedback
+  - **Deliverable**: Draft of Chapter 4 for review
+
+- **Week 13: Research Results Presentations**
+
+  - All students present research results (15 min + 5 min Q&A)
+  - Discuss findings and implications
+  - **Deliverable**: Research Results Presentation
+  - **Deliverable**: Complete Journal Entry 5 (Chapters 3 and 4 Reflections)
+
+- **Week 14: Chapter 5 of Research Report**
+
+  - Write Chapter 5: Conclusion and Future Work
+  - Synthesize findings and reflect on research
+  - Meet with first reader for feedback
+  - **Deliverable**: Draft of Chapter 5 for review
+  - **Deliverable**: Complete Journal Entry 6 (Chapter 5 Reflection)
+
+- **Week 15: Finish All Course Deliverables**
+
+  - Finalize all chapters based on feedback
+  - Complete all journal entries
+  - Prepare final release of research report
+  - **Deliverable**: Complete Journal Entry 7 (Overall Project Reflection)
+  - **Deliverable**: Final version of all chapters
+
+- **May 1, 2026 by 11:59 PM: Final Deadline**
+
+  - Submit final tagged release of complete research report (version 5.0.0+)
+  - Ensure all journal entries are published
+  - Verify all GitHub repositories are accessible
+
+### Weekly Meeting Expectations
+
+Throughout the semester, students are expected to:
+
+- Meet with their first reader weekly to discuss progress
+- Meet with their second reader at least three times during the semester
+- Come to meetings prepared with questions and updates
+- Follow through on action items from previous meetings
+- Maintain regular communication via email or GitHub
 
 ## Required Materials
 
 ### Course Textbooks
 
-There are no required textbooks for this course.
-However, the faculty _highly recommend_ investing in the following texts for
-both academic and professional development:
-
+There are no required textbooks for this course. However, the faculty _highly
+recommend_ investing in the following texts for both academic and professional
+development:
 
 |Title |Author |ISBN/ASIN |
 |:-----|:------|:----|
 |_On Being a Scientist (3rd ed.)_ |National Academy of Sciences, National Academy of Engineering, and Institute of Medicine |978-0309119702 |
 |_BUGS in Writing: A Guide to Debugging your Prose_ |Lyn Dupre |978-0201379211 |
 |_Writing for Computer Science (3rd ed.)_|Justin Zobel|978-1852338022 |
-|_Published_|Thomas Deetjen|B085MQN3Q8 |
-
+|_The Craft of Research (4th ed.)_|Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald|978-0226239736 |
 
 ### Course Repositories
 
-This course relies heavily on the [Computer and Information Science 600/610
+This course relies heavily on the [Computer and Information Science 580
 Organization on
-GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26). Your work
+GitHub](https://github.com/Allegheny-Computer-Science-580-S2026). Your work
 will be assigned and evaluated on and crucial communication distributed through
 the GitHub platform. You are responsible for accepting and maintaining GitHub
-repositories for each of the assigned course projects. Repositories include
-completion- and submission-specific instructions via `README` files. Many of
-these operations feature using GitHub's tagging mechanism to release PDFs of
-your content with versions that adhere to the course's semantic versioning
-standard. Students are invited to use the course's GitHub organization to create
-and share their own GitHub repositories for the source code, documentation, and
-data sets connected with their senior comprehensive project. Importantly, each
-of these GitHub repositories created by students must adhere to the syllabus'
-requirements for the deliverable in that repository.
+repositories for your research project. The primary repository will contain your
+research report (built with Quarto) and research journal. You will also create
+and maintain a separate repository for your research prototype.
+
+Key repositories you will work with:
+
+- **Research Report and Journal Repository**: Contains your Quarto-based research
+  report chapters and journal entries. This repository will automatically build
+  your website and release PDFs through GitHub Actions.
+
+- **Research Prototype Repository**: Contains the source code, documentation,
+  and data for your research prototype.
+
+Both repositories must adhere to the course's requirements for documentation,
+commit practices, and release management. The repositories should follow the
+[Semantic Versioning Standard](https://semver.org/) for all tagged releases.
 
 **Course instructors will only grade and provide feedback on projects that are
 stored in and properly released through GitHub.**
+
+### Required Software and Tools
+
+Students will need access to the following software and tools:
+
+- **Git**: Version control system for managing code and documents
+- **Quarto**: Document publishing system for building research reports and
+  journals (install from [https://quarto.org](https://quarto.org))
+- **LaTeX Distribution**: For PDF generation (TinyTeX recommended via Quarto)
+- **Text Editor or IDE**: For writing code and documentation (VS Code, Neovim,
+  Emacs, etc.)
+- **Programming Language Tools**: As required by your specific research project
+- **GitHub Account**: For repository hosting and collaboration
+
+Students should ensure their development environment is set up early in the
+semester to avoid technical issues when deadlines approach.
 
 ## Course Policies
 
 ### Course Attendance
 
-It is mandatory for all students to attend the course sessions.
-If, due to extenuating circumstances, you will not be able to attend a session,
-then, whenever possible, please communicate with the course coordinator at least
-one week in advance to describe your situation.
-Students who have any signs of illness should not attend any in-person course
-sessions.
+It is mandatory for all students to attend the course sessions. If, due to
+extenuating circumstances, you will not be able to attend a session, then,
+whenever possible, please communicate with the course coordinator at least one
+week in advance to describe your situation. Students who have any signs of
+illness should not attend any in-person course sessions and should contact the
+course coordinator as soon as possible.
+
+Attendance is especially critical during the following weeks:
+
+- Week 6: Research Idea Pitch Presentations
+- Week 7: Research Prototype Demonstrations
+- Week 13: Research Results Presentations
 
 ### Email Policy
 
 Despite the fact that the majority of our communication relies on the [Computer
-and Information Science 600/610 Organization on
-GitHub](https://github.com/Allegheny-Computer-Science-600610-25-26), the faculty
-will also use email to communicate significant information. As with other the
-GitHub platform used by this course, it is your responsibility to be accountable
-for email communication.
+and Information Science 580 Organization on
+GitHub](https://github.com/Allegheny-Computer-Science-580-S2026), the faculty
+will also use email to communicate significant information. As with other
+platforms used by this course, it is your responsibility to be accountable for
+email communication. Please check your Allegheny email regularly.
 
 ### Syllabus Revision
 
@@ -531,17 +649,17 @@ and Information Science adds the following statement to the general college
 policy:
 
 > It is recognized that an important part of the learning process in any course,
-and particularly in computer science, derives from thoughtful discussions with
-teachers, student assistants, and fellow students. Such dialogue is encouraged.
-However, it is necessary to distinguish carefully between the student who
-discusses the principles underlying a problem with others, and the student who
-produces assignments that are identical to, or merely variations on, someone
-else’s work. It will therefore be understood that all assignments submitted to
-faculty of the Department of Computer and Information Science are to be the
-original work of the student submitting the assignment, and should be signed in
-accordance with the provisions of the Honor Code. Appropriate action will be
-taken when assignments give evidence that they were derived from the work of
-others.
+> and particularly in computer science, derives from thoughtful discussions with
+> teachers, student assistants, and fellow students. Such dialogue is encouraged.
+> However, it is necessary to distinguish carefully between the student who
+> discusses the principles underlying a problem with others, and the student who
+> produces assignments that are identical to, or merely variations on, someone
+> else's work. It will therefore be understood that all assignments submitted to
+> faculty of the Department of Computer and Information Science are to be the
+> original work of the student submitting the assignment, and should be signed in
+> accordance with the provisions of the Honor Code. Appropriate action will be
+> taken when assignments give evidence that they were derived from the work of
+> others.
 
 As the nature of "plagiarism" and constituents of "fair use" change often, the
 department encourages you to periodically review the specific tenets of the
@@ -555,18 +673,18 @@ like ChatGPT or GitHub Copilot.
 ### Classroom Ethics
 
 The discipline of computer science, like many others, encourages its members to
-act according to discipline-specific ethics.
-The faculty encourage you to take time to review the Association for Computing
-Machinery (ACM) [Code of
+act according to discipline-specific ethics. The faculty encourage you to take
+time to review the Association for Computing Machinery (ACM) [Code of
 Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf).
 
 ### Use of Artificial Intelligence Tools
 
 The course instructors recognize that use of artificial intelligence (AI) tools
-such as Github Copilot, GPT, and Claude has emerged as a professional skill set
-in the knowledge and practices our coursework covers. Department faculty
-maintain a permissive attitude toward these tools by recognizing that you can
-and will use them. We do so considering the following position:
+such as GitHub Copilot, ChatGPT, Claude, and other large language models has
+emerged as a professional skill set in the knowledge and practices our
+coursework covers. Department faculty maintain a permissive attitude toward
+these tools by recognizing that you can and will use them. We do so considering
+the following position:
 
 > As a skill, using and correctly applying the results derived from AI tools is
 > both context-based and discretion-worthy: these tools do not always provide
@@ -583,28 +701,37 @@ and will use them. We do so considering the following position:
 > development environments, and refactoring tools, the use of an AI tool is not
 > a substitute for developing the fundamental skills that develop this
 > awareness. Importantly, research demonstrates that relying on generated
-> responses reduces a learner’s ability to durably learn these lessons and
+> responses reduces a learner's ability to durably learn these lessons and
 > skills, suggesting that you should cautiously embrace the use of AI when you
 > complete CIS coursework<sup>†</sup>.
 
 Be prepared to support their use in ways including but not limited to:
 
-* citing instances where code has been generated and clearly defining the tools
-that generated them
-* providing descriptive commentary (including prompts) around generated code
-either in in-line comments or assignment documentation
-* considering improvements to the generated code, documenting specifics about
-your modifications and reasoning behind them
-* revising the generated code or documentation so as to ensure that it is more
-suitable for the purposes of your assignment
+- Citing instances where code or text has been generated and clearly defining
+  the tools that generated them
+- Providing descriptive commentary (including prompts) around generated code or
+  text either in in-line comments or assignment documentation
+- Considering improvements to the generated content, documenting specifics about
+  your modifications and reasoning behind them
+- Revising the generated code or documentation so as to ensure that it is more
+  suitable for the purposes of your research
+- Being able to explain any code or text that you include in your work,
+  regardless of its source
 
-Faculty do not intend these requirements as a “gotcha”; we assume the best of
+Faculty do not intend these requirements as a "gotcha"; we assume the best of
 your effort. These guidelines follow industry best practices and prepare you for
 integrating current and future generations of these AI technologies into your
 set of computational skills.
 
+**Important Note for Research Writing**: While AI tools can be helpful for
+brainstorming, outlining, and improving clarity, your research report must
+reflect your own understanding, analysis, and voice. Direct copying of
+AI-generated text without significant modification and attribution is not
+acceptable. Your readers need to see your ability to synthesize information,
+think critically, and communicate your research effectively.
+
 <sup>†</sup> Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles.
-2024. Plagiarism in the Age of Generative AI: Cheating Method Change and
+2024\. Plagiarism in the Age of Generative AI: Cheating Method Change and
 Learning Loss in an Intro to CS Course. In _Proceedings of the Eleventh ACM
 Conference on Learning @ Scale (L@S '24)_. Association for Computing Machinery,
 New York, NY, USA, 75–85.
@@ -613,17 +740,20 @@ New York, NY, USA, 75–85.
 
 #### Course Assistance
 
-Students who struggle to understand the knowledge and skills introduced in this course
-are encouraged to seek assistance from their first and second readers.
-To meet with your first and second readers, please visit their web site.
-Historically, students who are successful in department courses visit and
-discuss course processes and assignments early and often.
+Students who struggle to understand the knowledge and skills introduced in this
+course are encouraged to seek assistance from their first and second readers. To
+meet with your first and second readers, please visit their web sites and
+schedule appointments. Historically, students who are successful in department
+courses visit and discuss course processes and assignments early and often.
+
+Please also take advantage of the course's GitHub organization for asking
+questions and engaging in technical discussions. Your peers and instructors can
+provide valuable feedback through GitHub issues and discussions.
 
 #### Outside Assistance
 
 If you find yourself in difficult circumstances which affect your ability to
-participate in or complete course work, let us know immediately -- **full
-stop**.
+participate in or complete course work, let us know immediately -- **full stop**.
 
 Do not wait until the end of the semester.
 
@@ -635,15 +765,19 @@ College resources that will enable your safety and success.
 
 In many situations, the following list of resources may prove useful:
 
-* [The Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
-* [Allegheny College Health and Wellbeing](https://allegheny.edu/student-life/health-and-wellbeing/)
-* [Winslow Health Center](https://allegheny.edu/student-life/health-and-wellbeing/health-center/)
+- [The Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
+- [Allegheny College Counseling and Personal Development Center](https://sites.allegheny.edu/counseling/)
+- [Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
+- [Student Life](https://sites.allegheny.edu/studentlife/)
+- [Student Accessibility and Support Services](https://sites.allegheny.edu/studentaccessibility/)
 
 ### Special Needs
 
 Students with disabilities who need accommodations in this course are encouraged
-to contact Disability Services that is part of the Maytum Center for Student
-Success, located in Pelletier Library. Should you need accommodations, contact
-this office as soon as possible to ensure that approved accommodations are
-communicated and implemented as quickly as possible. This serves everyone
-involved in providing the best environment for learning and support.
+to contact Student Accessibility and Support Services at
+`studentaccessibility@allegheny.edu` or by calling 814-332-2898. Student
+Accessibility and Support Services is located in Pelletier Library. Should you
+need accommodations, contact this office as soon as possible to ensure that
+approved accommodations are communicated and implemented as quickly as possible.
+This serves everyone involved in providing the best environment for learning and
+support.
