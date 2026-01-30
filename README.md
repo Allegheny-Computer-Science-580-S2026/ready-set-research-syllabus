@@ -84,12 +84,13 @@ addressing.
 
 Your prototype should demonstrate:
 
-- **Feasibility**: Proof that your research idea can be implemented
-  and produces meaningful results
+- **Feasibility**: Proof that your research idea can be implemented and produces
+  meaningful results
 - **Challenge**: Evidence of technical depth, requiring significant
-  problem-solving and implementation effort beyond trivial solutions
-- **Research Contribution**: Clear connection to your research
-  questions and hypotheses
+  problem-solving and implementation effort beyond trivial solutions or a project
+  that would be completed for a computer science course
+- **Research Contribution**: Clear connection to your research questions and
+  hypotheses
 
 #### Examples of Research Prototypes
 
