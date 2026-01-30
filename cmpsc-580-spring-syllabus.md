@@ -69,12 +69,12 @@ across different stages of the undergraduate research trajectory.
 - [Gregory M. Kapfhammer `**`](https://www.gregorykapfhammer.com/)
 - [Douglas Luman](https://www.cis.allegheny.edu/sites/dluman/)
 
-The faculty member with the `**` symbol after their name is the
-research group coordinator who is responsible for orchestrating all
-aspects of the CMPSC 580 research group. If you have any high-level
-questions about the research group, please contact both the coordinator
-and your research adviser. Each researcher will be assigned one first
-reader who will serve as their primary research adviser throughout the
+The faculty member with the `**` symbol after their name is the research group
+coordinator who is responsible for orchestrating all aspects of the CMPSC 580
+research group. If you have any high-level questions about the research group,
+please contact both the coordinator and your research adviser. In the follow-on
+Senior Seminar that you enroll in next year, each researcher will be assigned
+one first reader who will serve as their primary research adviser throughout the
 semester.
 
 ## Course Details and Learning Outcomes
