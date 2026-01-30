@@ -113,7 +113,7 @@ you can demonstrate during an in-class presentation during Week 7. Finally,
 don't forget that your prototype must be in a publicly available GitHub
 repository and usable by the other members of our research group.
 
-### 2. Research Report (40% of grade)
+### 2. Research Report (30% of grade)
 
 Your research report consists of five chapters that mirror the chapters you will
 later write in your senior thesis for the 600- and 610-level courses:
