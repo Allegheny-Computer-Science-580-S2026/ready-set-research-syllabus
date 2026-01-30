@@ -149,15 +149,14 @@ percentages during the academic semester.
 
 To pass `CMPSC 580`, submission of and participation in all the primary
 requirements is mandatory. In addition to an overall evaluation of each
-category, a student's work in `CMPSC 580` will be evaluated according
-to each of the following baseline requirements. Please note that these
-requirements articulate a baseline for the junior seminar course and
-are provided as a list of minimum requirements that all specific
-research deliverables must meet to be assessed as complete. Before the
-submission of a final grade, a student's assessment scores for these
-categories will be assigned by their first reader and approved by the
-course coordinator and all faculty members who are instructors for
-`CMPSC 580` at Allegheny College.
+category, a student's work in `CMPSC 580` will be evaluated according to each of
+the following baseline requirements. Please note that these requirements
+articulate a baseline for the junior seminar course and are provided as a list
+of minimum requirements that all specific research deliverables must meet to be
+assessed as complete. Before the submission of a final grade, a student's
+assessment scores for these categories will be assigned by the course
+coordinator and reviewed by the faculty members who are affiliated instructors
+for `CMPSC 580` at Allegheny College.
 
 ### Deliverable Descriptions
 
