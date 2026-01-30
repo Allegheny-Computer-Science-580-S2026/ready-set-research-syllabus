@@ -752,6 +752,7 @@ Throughout the semester, students are expected to:
 - Come to meetings prepared with questions and updates
 - Follow through on action items from previous meetings
 - Maintain regular communication via email or GitHub
+- Maintain a log of research activities in their notebook
 
 ## Required Materials
 
@@ -772,22 +773,23 @@ and professional development:
 
 This course relies heavily on the [Computer and Information Science 580
 Organization on
-GitHub](https://github.com/Allegheny-Computer-Science-580-S2026). Your work
-will be assigned and evaluated on and crucial communication distributed through
-the GitHub platform. You are responsible for accepting and maintaining GitHub
+GitHub](https://github.com/Allegheny-Computer-Science-580-S2026). Your work will
+be assigned and evaluated on and crucial communication distributed through the
+GitHub platform. You are responsible for accepting and maintaining GitHub
 repositories for your research project. The primary repository will contain your
-research report (built with Quarto) and research journal. You will also create
-and maintain a separate repository for your research prototype.
+research report and research journal, both of which are built with Quarto. You
+will also create and maintain separate repositories for your research prototype,
+data sets, and analysis routines.
 
 Key repositories you will work with:
 
-- **Research Report and Journal Repository**: Contains your
-  Quarto-based research report chapters and journal entries. This
-  repository will automatically build your website and release PDFs
-  through GitHub Actions.
-
-- **Research Prototype Repository**: Contains the source code,
-  documentation, and data for your research prototype.
+- **Research Report and Journal Repository**: Contains your Quarto-based
+  research report chapters and journal entries. This repository will automatically
+  build your website and release PDFs through GitHub Actions.
+- **Research Prototype Repository**: Contains the source code, documentation,
+  and additional relevant details about your research prototype.
+- **Data Sets and Analysis Repository**: Contains any data sets you collect or
+  generate, along with scripts or notebooks used for data analysis.
 
 Both repositories must adhere to the course's requirements for
 documentation, commit practices, and release management. The
