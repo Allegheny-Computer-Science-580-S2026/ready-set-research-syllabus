@@ -107,8 +107,37 @@ You will give three presentations throughout the semester:
 
 ### 5. Participation (10% combined)
 
-Regular attendance, active engagement in discussions, meetings with your first
-and second readers, and constructive peer feedback.
+Regular attendance, active engagement in discussions, weekly meetings with your
+first reader, and constructive peer feedback.
+
+## Important Grading Policies
+
+### Final Grades (Not Revisable)
+
+The following deliverables receive a **final grade upon completion** that is not
+subject to revision:
+
+- **Research Idea Pitch Presentation** (Week 6)
+- **Research Prototype Demonstration** (Week 7)
+- **Research Results Presentation** (Week 13)
+
+These presentations are evaluated based on your performance on the day of
+presentation. Prepare thoroughly, as you will not have an opportunity to revise
+these grades.
+
+### Revisable Grades
+
+The following deliverables can be **revised and improved** throughout the
+semester, with final grades based on the quality of your work at the final
+submission deadline (May 1, 2026):
+
+- **Research Journal Entries** (all 7 entries)
+- **Research Prototype** (code, documentation, and repository quality)
+- **Research Report Chapters** (all 5 chapters)
+
+Your first reader will provide feedback on these deliverables as you complete
+them, and you can incorporate this feedback to improve your work before the
+final deadline.
 
 ## Course Timeline at a Glance
 
@@ -129,15 +158,24 @@ and second readers, and constructive peer feedback.
 
 **Final Deadline**: May 1, 2026 by 11:59 PM
 
-## Working with Your Readers
+## Working with Your First Reader
 
-Throughout the semester, you will work closely with two faculty readers:
+Throughout the semester, you will work closely with one faculty member who
+serves as your first reader:
 
 - **First Reader**: Your primary research advisor who you meet with weekly
-- **Second Reader**: Provides additional perspective and meets with you regularly
 
-Both readers will review your work, provide feedback, and assess your progress
-throughout the semester.
+Your first reader will:
+
+- Guide your research direction and help you refine your ideas
+- Provide feedback on all your deliverables (journal entries, chapters, prototype)
+- Meet with you weekly to discuss progress and challenges
+- Assess your work and assign grades for all deliverables
+- Support your learning and growth as a researcher
+
+**Weekly meetings are mandatory**. Come prepared with questions, updates, and
+work to discuss. Your success in this course depends heavily on maintaining
+regular communication with your first reader.
 
 ## Technology and Tools
 
@@ -160,19 +198,21 @@ The course uses a combination of primary and secondary requirements:
 
 **Primary Requirements** (80% - must complete to pass):
 
-- Research Prototype: 20%
-- Five-Chapter Research Report: 40%
-- Research Idea Pitch: 10%
-- Research Results Presentation: 10%
+- Research Prototype: 20% (Revisable)
+- Five-Chapter Research Report: 40% (Revisable)
+- Research Idea Pitch: 10% (Final)
+- Research Results Presentation: 10% (Final)
 
 **Secondary Requirements** (20%):
 
-- Research Journal: 10%
-- Class Participation: 5%
-- Adviser Meetings: 5%
+- Research Journal: 10% (Revisable)
+- Class Participation: 5% (Cumulative)
+- Adviser Meetings: 5% (Cumulative)
 
 Students must complete all primary requirements to pass the course. Detailed
-rubrics and assessment criteria are provided in the syllabus.
+rubrics and assessment criteria are provided in the syllabus. See the "Important
+Grading Policies" section above for information about which grades are final
+versus revisable.
 
 ## Getting Started
 
