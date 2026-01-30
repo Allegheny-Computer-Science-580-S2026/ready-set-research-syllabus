@@ -48,18 +48,18 @@ The Junior Seminar research group meets three times per week with the
 following structure:
 
 - **Monday (50 minutes)**: Junior researchers only. Focus on research
-  presentations, brainstorming sessions, prototype demonstrations, and
-  peer critique of research progress.
+  presentations, brainstorming sessions, prototype demonstrations, and peer
+  critique of research progress.
 
-- **Wednesday (50 minutes)**: Junior researchers only. Continuation of
-  Monday's research activities with additional presentations, technical
-  discussions, and collaborative problem-solving.
+- **Wednesday (50 minutes)**: Junior researchers only. Continuation of Monday's
+  research activities with additional presentations, technical discussions, and
+  collaborative problem-solving.
 
-- **Friday (50 minutes)**: Joint research meeting with Senior Seminar
-  (CMPSC 600 and 610) researchers. Collaborative sessions on research
-  methodologies, technical writing for publication, presentation skills
-  for conferences, research ethics, and professional development in
-  computing research.
+- **Friday (50 minutes)**: Joint research meeting with Senior Seminar (e.g.,
+  CMPSC 600 and 610) researchers. Collaborative sessions on research
+  methodologies, technical writing for publication, presentation skills for
+  conferences, research ethics, and professional development in computing
+  research.
 
 The Friday joint meetings provide valuable opportunities for junior
 researchers to learn from senior researchers' experiences and for
@@ -77,10 +77,10 @@ across different stages of the undergraduate research trajectory.
 The faculty member with the `**` symbol after their name is the research group
 coordinator who is responsible for orchestrating all aspects of the CMPSC 580
 research group. If you have any high-level questions about the research group,
-please contact both the coordinator and your research adviser. In the follow-on
-Senior Seminar that you enroll in next year, each researcher will be assigned
-one first reader who will serve as their primary research adviser throughout the
-semester.
+please contact both the course coordinator who also serves as your research
+adviser in CMPSC 580. In the follow-on Senior Seminar that you enroll in next
+year, each researcher will be assigned one first reader who will serve as their
+primary research adviser throughout the semester.
 
 ## Course Details and Learning Outcomes
 
