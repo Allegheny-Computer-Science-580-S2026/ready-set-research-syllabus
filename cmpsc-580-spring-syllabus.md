@@ -194,13 +194,14 @@ for `CMPSC 580` at Allegheny College.
 
 #### Research Journal
 
-The research journal should contain seven entries as specified in the
-course requirements, with entries divided between activity-based and
-reflection-based posts. **Journal entries are revisable**: your first
-reader will provide feedback on each entry, and you can revise and
-improve entries throughout the semester. Your final journal grade will
-be based on the quality of all entries as of the final submission
-deadline (May 1, 2026).
+The research journal should contain seven entries as specified in the course
+requirements, with entries divided between activity-based and reflection-based
+posts. **Journal entries are revisable**: your first reader will provide
+feedback on each entry, and you can revise and improve entries throughout the
+semester. Your final journal grade will be based on the quality of all entries
+as of the final submission deadline (May 1, 2026). If you do not revise a
+journal entry after receiving feedback, the initial grade you received for that
+entry will stand.
 
 - [ ] The student created a research journal website using Quarto
   and GitHub Pages
@@ -437,7 +438,8 @@ deadline of May 1, 2026.
   findings
 - [ ] The results section discusses how results address the research
   questions
-- [ ] The results section identifies threats to validity
+- [ ] The results section identifies threats to validity and explains
+  how they were mitigated
 - [ ] The results section is approximately 5 to 7 pages in length
 
 ##### Chapter 5: Conclusion and Future Work
