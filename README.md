@@ -92,50 +92,6 @@ Your prototype should demonstrate:
 - **Research Contribution**: Clear connection to your research questions and
   hypotheses
 
-#### Examples of Research Prototypes
-
-**Algorithm and Theory**:
-
-- Implementation of a novel graph algorithm with performance comparison
-- Parallel computing framework demonstrating speedup on benchmark problems
-- Compiler optimization technique with measurable improvements
-- Machine learning model with novel architecture or training approach
-
-**Software Engineering**:
-
-- Automated testing tool that identifies specific classes of bugs
-- Code refactoring system that improves software quality metrics
-- CI/CD pipeline extension with new analysis capabilities
-- Development environment plugin enhancing programmer productivity
-
-**Data Science and Analytics**:
-
-- Interactive visualization dashboard for complex datasets
-- Predictive model pipeline with feature engineering and validation
-- Data cleaning and preprocessing toolkit for specific domains
-- Statistical analysis framework for specialized applications
-
-**Systems and Networking**:
-
-- Distributed system component with fault tolerance mechanisms
-- Network protocol analyzer with performance optimization
-- Database query optimizer with measurable performance gains
-- Operating system scheduler with novel fairness properties
-
-**Human-Computer Interaction and Informatics**:
-
-- User interface framework for accessibility improvements
-- Web application demonstrating novel interaction paradigms
-- Educational technology tool with learning analytics
-- Social computing platform studying community dynamics
-
-**Security and Privacy**:
-
-- Vulnerability detection tool for specific attack vectors
-- Encryption scheme implementation with security analysis
-- Privacy-preserving data sharing mechanism
-- Authentication system with novel security properties
-
 #### Prototype Requirements
 
 Your prototype should be hosted in a GitHub repository with:
