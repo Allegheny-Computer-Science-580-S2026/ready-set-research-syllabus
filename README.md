@@ -37,6 +37,23 @@ is designed as an intensive, single-semester research experience that:
 - **Prepares** you with research skills applicable to senior thesis, graduate
   school, or industry
 
+## Class Meeting Structure
+
+The Junior Seminar meets three times per week, with a mix of dedicated
+sessions and joint meetings with the Senior Seminar:
+
+- **Monday** (50 minutes): Junior Seminar only - Student presentations,
+  project work sessions, and peer feedback
+- **Wednesday** (50 minutes): Junior Seminar only - Student presentations,
+  technical workshops, and individual consultations
+- **Friday** (50 minutes): Joint session with Senior Seminar (CMPSC 600/610) -
+  Research methods, academic writing, research ethics, and professional
+  development
+
+This structure provides dedicated time for junior-specific activities while
+also allowing you to learn from and interact with senior students who are
+further along in their research journey.
+
 ## Repository Contents
 
 This repository contains the following essential documents:
@@ -57,18 +74,82 @@ This repository contains the following essential documents:
 
 ### 1. Research Prototype (20% of grade)
 
-You will develop a working prototype that demonstrates your research concept.
-This could be:
+You will develop a working prototype that demonstrates **both the
+feasibility and the challenge** of your research concept. Your prototype
+must show that your research idea is viable while also highlighting the
+technical complexity and intellectual depth of the problem you are
+addressing.
 
-- A software tool or application
-- A data analysis pipeline
-- An algorithm implementation
-- A system extension or framework
-- A web-based platform or visualization
+#### What Makes a Strong Research Prototype?
 
-Your prototype should be hosted in a GitHub repository with comprehensive
-documentation, clear installation instructions, and regular commit history
-throughout the semester.
+Your prototype should demonstrate:
+
+- **Feasibility**: Proof that your research idea can be implemented
+  and produces meaningful results
+- **Challenge**: Evidence of technical depth, requiring significant
+  problem-solving and implementation effort beyond trivial solutions
+- **Research Contribution**: Clear connection to your research
+  questions and hypotheses
+
+#### Examples of Research Prototypes
+
+**Computer Science - Algorithm and Theory**:
+
+- Implementation of a novel graph algorithm with performance comparison
+- Parallel computing framework demonstrating speedup on benchmark problems
+- Compiler optimization technique with measurable improvements
+- Machine learning model with novel architecture or training approach
+
+**Software Engineering**:
+
+- Automated testing tool that identifies specific classes of bugs
+- Code refactoring system that improves software quality metrics
+- CI/CD pipeline extension with new analysis capabilities
+- Development environment plugin enhancing programmer productivity
+
+**Data Science and Analytics**:
+
+- Interactive visualization dashboard for complex datasets
+- Predictive model pipeline with feature engineering and validation
+- Data cleaning and preprocessing toolkit for specific domains
+- Statistical analysis framework for specialized applications
+
+**Systems and Networking**:
+
+- Distributed system component with fault tolerance mechanisms
+- Network protocol analyzer with performance optimization
+- Database query optimizer with measurable performance gains
+- Operating system scheduler with novel fairness properties
+
+**Human-Computer Interaction and Informatics**:
+
+- User interface framework for accessibility improvements
+- Web application demonstrating novel interaction paradigms
+- Educational technology tool with learning analytics
+- Social computing platform studying community dynamics
+
+**Security and Privacy**:
+
+- Vulnerability detection tool for specific attack vectors
+- Encryption scheme implementation with security analysis
+- Privacy-preserving data sharing mechanism
+- Authentication system with novel security properties
+
+#### Prototype Requirements
+
+Your prototype should be hosted in a GitHub repository with:
+
+- Comprehensive documentation explaining installation and usage
+- Clear README with project overview and research context
+- Example inputs/outputs demonstrating functionality
+- Regular commit history throughout the semester
+- Evidence of testing and validation
+- Discussion of limitations and future improvements
+
+**Critical**: Your prototype must be substantial enough to support a
+full research report while being achievable in a single semester. Aim
+for depth over breadth—it's better to thoroughly explore one aspect
+than to superficially cover many.
 
 ### 2. Research Report (40% of grade)
 
@@ -101,9 +182,13 @@ Your journal will be built using Quarto and published via GitHub Pages.
 
 You will give three presentations throughout the semester:
 
-- **Week 6**: Research Idea Pitch (10 min + 5 min Q&A)
-- **Week 7**: Research Prototype Demonstration (10 min + 5 min Q&A)
-- **Week 13**: Research Results Presentation (15 min + 5 min Q&A)
+- **Week 6**: Research Idea Pitch (3 min + 2 min Q&A)
+- **Week 7**: Research Prototype Demonstration (3 min + 2 min Q&A)
+- **Week 13**: Research Results Presentation (3 min + 2 min Q&A)
+
+With 20 students in the class, presentations are divided across Monday and
+Wednesday sessions (10 students per day). Each 50-minute class accommodates
+all 10 presentations with strict time limits.
 
 ### 5. Participation (10% combined)
 
