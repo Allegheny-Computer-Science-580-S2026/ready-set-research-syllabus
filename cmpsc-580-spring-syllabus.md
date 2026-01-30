@@ -5,12 +5,12 @@
 Your Junior Seminar course affords you the opportunity to pursue independent
 research in computer science, software, engineering, data science, or
 informatics. This course parallels the kinds of intense inquiry and research
-inherent to both academic life and a career as a computer scientist. To that
-end, you will work closely with your first reader to explore rich, complex
-research projects in a single-semester format. Though the faculty cannot promise
-that this work will be frustration- or challenge-free, we invite you to pursue
-it with great enthusiasm, vigor, and to --- above all --- find joy in the
-process.
+inherent to both academic life and a career as a computer scientist, software
+engineer, or data scientist. To that end, you will work closely with your first
+reader to explore rich, complex research projects in a single-semester format.
+Though the faculty cannot promise that this work will be frustration- or
+challenge-free, we invite you to pursue it with great enthusiasm, vigor, and to
+--- above all --- find joy in the process.
 
 **We are not a class, we are a research group!** This fundamental principle
 shapes everything we do this semester. You are not a student completing
