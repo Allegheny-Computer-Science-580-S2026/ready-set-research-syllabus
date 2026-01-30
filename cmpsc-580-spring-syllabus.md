@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Your junior seminar process affords you the opportunity to pursue
+Your Junior Seminar process affords you the opportunity to pursue
 independent research in computer science. This course parallels the
 kinds of intense inquiry and research inherent to both academic life
 and a career as a computer scientist. To that end, you will work
@@ -14,17 +14,18 @@ that this work will be frustration- or challenge-free, we invite you to
 pursue it with great enthusiasm, vigor, and to --- above all --- find
 joy in the process.
 
-**We are not a class, we are a research group!** This fundamental
-principle shapes everything we do this semester. You are not a student
-completing assignments; you are a junior researcher conducting original
-work. Your first reader is not a teacher grading homework; they are
-your research adviser guiding your scholarly development. Our meetings
-are not lectures; they are research discussions, presentations, and
-collaborative problem-solving sessions. Your prototype, report, and
-journal are not coursework; they are research artifacts that contribute
-to the broader scholarly conversation in computer science. Embrace this
-identity: you are a member of a research laboratory working alongside
-other researchers toward advancing knowledge in your field.
+**We are not a class, we are a research group!** This fundamental principle
+shapes everything we do this semester. You are not a student completing
+assignments; you are a junior researcher conducting original work. Your first
+reader is not a teacher grading homework; they are your research adviser guiding
+your scholarly development as a researcher in the field of computer and
+information science. Our meetings are not lectures; they are research
+discussions, presentations, and collaborative problem-solving sessions. Your
+prototype, report, and journal are not coursework; they are research artifacts
+that contribute to the broader scholarly conversation in computer and
+information science. Embrace this identity: you are a member of a research
+laboratory working alongside other researchers toward advancing knowledge in
+your field.
 
 ## Course Description
 
