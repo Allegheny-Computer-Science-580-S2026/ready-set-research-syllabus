@@ -57,8 +57,8 @@ Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
 - **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: [Brief description of the feedback, suggestions, or
-  questions you contributed]
+- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
+  questions you contributed\]
 - **Impact**: [If applicable, note how your feedback influenced their work]
 
 Example entries:
@@ -102,10 +102,11 @@ Example entries:
 
 - **Week 4 / Research Ethics Discussion**: Raised important questions about
   data privacy in web scraping projects; led to productive discussion about
-  robots.txt and ethical boundaries
+  `robots.txt` and ethical boundaries
 - **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful
-- **Week 11 / Results Visualization**: Demonstrated matplotlib customization
+  related work sections; multiple researchers found it helpful because it
+  clarified the way they should structure the second chapter of their report
+- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
   techniques; several researchers adopted similar approaches
 
 ### Research Resources Shared
