@@ -60,6 +60,7 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Feedback Provided**: \[Brief description of the feedback, suggestions, or
   questions you contributed\]
 - **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [Provide a link to a GitHub repository's issue tracker]
 
 Example entries:
 
