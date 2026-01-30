@@ -74,12 +74,12 @@ research experience that:
 The research group meets three times per week, combining dedicated junior
 researcher sessions with joint meetings alongside senior researchers:
 
-- **Monday** (50 minutes): Junior researchers only - Research presentations,
+- **Monday** (50 minutes): Junior researchers only for research presentations,
   collaborative work sessions, and peer critique
-- **Wednesday** (50 minutes): Junior researchers only - Research presentations,
+- **Wednesday** (50 minutes): Junior researchers only for research presentations,
   technical workshops, and individual research consultations
 - **Friday** (50 minutes): Joint research meeting with senior researchers
-  (CMPSC 600/610) - Research methodologies, academic writing strategies,
+  (CMPSC 600/610) for research methodologies, academic writing strategies,
   research ethics, and professional development
 
 This structure provides dedicated time for junior-level research activities
