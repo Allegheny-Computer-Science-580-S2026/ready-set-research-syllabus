@@ -132,20 +132,20 @@ percentages during the academic semester.
 |Research Results Presentation |Primary |10% |Final |
 |Five-Chapter Research Report |Primary |30% |Revisable |
 
-**Important Note on Grading Types:**
+**Important Note on Assessment Types:**
 
-- **Final Grades**: Presentations and demonstrations receive a grade
-  upon completion that becomes the final grade for that deliverable.
-  These grades are not subject to revision.
+- **Final Assessment**: Presentations and demonstrations receive a grade upon
+  completion that becomes the final (i.e. non-revisable) grade for that
+  deliverable. These grades are not subject to revision.
 
-- **Revisable Grades**: Research journal entries, the research
+- **Revisable Assessment**: Research journal entries, the research
   prototype, and research report chapters receive initial grades that
   may be revised based on improvements made in subsequent submissions,
   culminating in a final grade at the end of the semester.
 
-- **Cumulative Grades**: Class participation and adviser meetings are
-  evaluated continuously throughout the semester based on consistent
-  engagement and effort.
+- **Cumulative Assessment**: Class participation and adviser meetings are
+  evaluated continuously throughout the semester based on consistent engagement
+  and effort.
 
 To pass `CMPSC 580`, submission of and participation in all the primary
 requirements is mandatory. In addition to an overall evaluation of each
