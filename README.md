@@ -141,7 +141,7 @@ You will maintain an online research journal with seven entries in total:
 
 Your journal will be built using Quarto and published via GitHub Pages.
 
-### 4. Presentations (30% combined)
+### 4. Research Presentations (30% combined)
 
 You will give three presentations throughout the semester:
 
@@ -153,7 +153,7 @@ With 20 students in the class, presentations are divided across Monday and
 Wednesday sessions (10 students per day). Each 50-minute class accommodates
 all 10 presentations with strict time limits.
 
-### 5. Participation (10% combined)
+### 5. Research Group Participation (10% combined)
 
 Regular attendance, active engagement in discussions, weekly meetings with your
 first reader, and constructive peer feedback.
