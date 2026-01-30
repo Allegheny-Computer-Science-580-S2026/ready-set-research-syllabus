@@ -4,23 +4,24 @@
 
 ## Introduction
 
-Your junior seminar process affords you the opportunity to pursue independent
-research in computer science. This course parallels the kinds of intense inquiry
-and research inherent to both academic life and a career as a computer
-scientist, data scientist, or software engineer. To that end, you will work
-closely with your first reader to explore rich, complex research projects in a
-single-semester format. Though the faculty cannot promise that this work will be
-frustration- or challenge-free, we invite you to pursue it with great
-enthusiasm, vigor, and to --- above all --- find joy in the process.
+Your junior seminar process affords you the opportunity to pursue
+independent research in computer science. This course parallels the
+kinds of intense inquiry and research inherent to both academic life
+and a career as a computer scientist. To that end, you will work
+closely with your first reader to explore rich, complex research
+projects in a single-semester format. Though the faculty cannot promise
+that this work will be frustration- or challenge-free, we invite you to
+pursue it with great enthusiasm, vigor, and to --- above all --- find
+joy in the process.
 
 ## Course Description
 
-Independent research in computer science, data science, informatics, or software
-engineering. Students will develop a research idea, create a working prototype,
-write a complete research report, and maintain a research journal documenting
-their progress and reflections.
+Independent research in computer science. Students will develop a
+research idea, create a working prototype, write a complete research
+report, and maintain a research journal documenting their progress and
+reflections.
 
-- Prerequisite: `CMPSC 200` and `CMPSC 203` or permission of instructor
+- Prerequisite: Permission of the Instructor
 - Distribution Requirements: `None`
 
 ## Course Instructors
@@ -30,343 +31,319 @@ their progress and reflections.
 - [Gregory M. Kapfhammer `**`](https://www.gregorykapfhammer.com/)
 - [Douglas Luman](https://www.cis.allegheny.edu/sites/dluman/)
 
-The instructor with the `**` symbol after their name is the course coordinator
-who is responsible for orchestrating all aspects of the `CMPSC 580` course. If
-you have any high-level questions about this course, please contact both the
-course coordinator and your first reader. Each student will be assigned one
-first reader who will guide their research throughout the semester. Importantly,
-if you are enrolled in `DOUBL 580` you may have a first reader who is not in
-the above list of course instructors.
+The instructor with the `**` symbol after their name is the course
+coordinator who is responsible for orchestrating all aspects of the
+`CMPSC 580` course. If you have any high-level questions about this
+course, please contact both the course coordinator and your first
+reader. Each student will be assigned one first reader who will guide
+their research throughout the semester.
 
 ## Course Details and Learning Outcomes
 
-### Computer Science 580
+### Course Description
 
-#### Course Description
+Independent research in computer science culminating in the development
+of a research prototype, a complete five-chapter research report, and a
+research journal. Must be taken on a letter-grade basis. Students are
+invited to use their own departmentally approved laptop in this course;
+a limited number of laptops are available for use during class and lab
+sessions.
 
-Independent research in computer science culminating in the development of a
-research prototype, a complete five-chapter research report, and a research
-journal. Must be taken on a letter-grade basis. Students are invited to use
-their own departmentally approved laptop in this course; a limited number of
-laptops are available for use during class and lab sessions.
+### Learning Objectives
 
-#### Learning Objectives
-
-- Develop a viable and appropriate proposal for an independent and open-source
-  research project.
-- Describe a research process, its methods, and outcomes in writing in the form
-  of an incremental research journal and a complete five-chapter research report.
-- Present and communicate complex ideas in a variety of media through both
-  informal discussions and formal presentations.
-- Produce and document a working research prototype.
-- Evaluate the produced prototype and reflect on theoretical, practical, ethical
-  and social impact of the proposed work.
-- Produce an original project that includes integration of theory and practice
-  or software and hardware.
-
-### Data Science 580
-
-#### Course Description
-
-Independent research in data science culminating in the development of a
-research prototype, a complete five-chapter research report, and a research
-journal. Must be taken on a letter-grade basis. Students are invited to use
-their own departmentally approved laptop in this course; a limited number of
-laptops are available for use during class and lab sessions.
-
-#### Learning Outcomes
-
-- Develop a viable and appropriate proposal for an independent and open-source
-  research project.
-- Describe a research process, its methods, and outcomes in writing in the form
-  of an incremental research journal and a complete five-chapter research report.
-- Present and communicate complex ideas in a variety of media through both
-  informal discussions and formal presentations.
-- Produce and document a working research prototype with a focus on data analysis.
-- Evaluate the produced prototype and reflect on theoretical, practical, ethical
-  and social impact of the proposed work.
-- Produce an original project that uses a data set to create visualizations,
-  analysis tools, or extends existing data science frameworks.
-
-### Informatics 580
-
-#### Course Description
-
-Independent research in informatics culminating in the development of a
-research prototype, a complete five-chapter research report, and a research
-journal. Must be taken on a letter-grade basis. Students are invited to use
-their own departmentally approved laptop in this course; a limited number of
-laptops are available for use during class and lab sessions.
-
-#### Learning Outcomes
-
-- Develop a viable and appropriate proposal for an independent and open-source
-  research project.
-- Describe a research process, its methods, and outcomes in writing in the form
-  of an incremental research journal and a complete five-chapter research report.
-- Present and communicate complex ideas in a variety of media through both
-  informal discussions and formal presentations.
-- Produce and document a working research prototype that addresses information
-  systems or human-computer interaction.
-- Evaluate the produced prototype and reflect on theoretical, practical, ethical
-  and social impact of the proposed work.
-- Produce an original project that integrates multiple disciplines and provides
-  critical engagement of impact of technology on various communities.
-
-### Software Engineering 580
-
-#### Course Description
-
-Independent research in software engineering culminating in the development of a
-research prototype, a complete five-chapter research report, and a research
-journal. Must be taken on a letter-grade basis. Students are invited to use
-their own departmentally approved laptop in this course; a limited number of
-laptops are available for use during class and lab sessions.
-
-#### Learning Outcomes
-
-- Develop a viable and appropriate proposal for an independent and open-source
-  research project.
-- Describe a research process, its methods, and outcomes in writing in the form
-  of an incremental research journal and a complete five-chapter research report.
-- Present and communicate complex ideas in a variety of media through both
-  informal discussions and formal presentations.
-- Produce and document a working research prototype focused on software systems.
+- Develop a viable and appropriate proposal for an independent and
+  open-source research project.
+- Describe a research process, its methods, and outcomes in writing in
+  the form of an incremental research notebook and two chapters of a
+  formal thesis document.
+- Present and communicate complex ideas in a variety of media through
+  both informal discussions, peer reviews and formal presentations.
+- Produce and document a working prototype of computational artifact.
 - Evaluate the produced prototype and reflect on theoretical, practical,
-  ethical, and social impact of the produced work.
-- Produce an original software project that is working, documented, and
-  demonstrates software engineering best practices.
+  ethical and social impact of the proposed artifact.
+- Produce an original project that includes integration of theory and
+  practice or software and hardware.
 
 ## Assessment Strategy
 
 ### Assessment Categories
 
-For the purposes of evaluation, this course is separated into both "primary" and
-"secondary" requirements, as explained in the following table. This table
-includes the name of the deliverable, its categorization as either a primary or
-a secondary requirement, and the assigned percentage of the overall course
-grade. All of these percentages are approximate and, if the need to do so
-presents itself, the course coordinator may, for instance, change the assigned
+For the purposes of evaluation, this course is separated into both
+"primary" and "secondary" requirements, as explained in the following
+table. This table includes the name of the deliverable, its
+categorization as either a primary or a secondary requirement, and the
+assigned percentage of the overall course grade. All of these
+percentages are approximate and, if the need to do so presents itself,
+the course coordinator may, for instance, change the assigned
 percentages during the academic semester.
 
-|**Deliverable** |**Categorization** |**Percentage** |**Grading Type** |
-|:--------------------------------|:------------------|:--------------|:----------------|
+|**Deliverable** |**Category** |**Percentage** |**Grading** |
+|:--------------------------------|:------------|:--------------|:-----------|
 |Research Journal (7 entries) |Secondary |10% |Revisable |
 |Class Participation |Secondary |5% |Cumulative |
 |Adviser Meetings |Secondary |5% |Cumulative |
 |Research Prototype |Primary |20% |Revisable |
 |Research Idea Pitch Presentation |Primary |10% |Final |
-|Prototype Demonstration |Primary |Included in Prototype |Final |
+|Prototype Demonstration |Primary |Included |Final |
 |Research Results Presentation |Primary |10% |Final |
 |Five-Chapter Research Report |Primary |40% |Revisable |
 
 **Important Note on Grading Types:**
 
-- **Final Grades**: Presentations and demonstrations receive a grade upon
-  completion that becomes the final grade for that deliverable. These grades are
-  not subject to revision.
-  
-- **Revisable Grades**: Research journal entries, the research prototype, and
-  research report chapters receive initial grades that may be revised based on
-  improvements made in subsequent submissions, culminating in a final grade at
-  the end of the semester.
-  
-- **Cumulative Grades**: Class participation and adviser meetings are evaluated
-  continuously throughout the semester based on consistent engagement and effort.
+- **Final Grades**: Presentations and demonstrations receive a grade
+  upon completion that becomes the final grade for that deliverable.
+  These grades are not subject to revision.
+
+- **Revisable Grades**: Research journal entries, the research
+  prototype, and research report chapters receive initial grades that
+  may be revised based on improvements made in subsequent submissions,
+  culminating in a final grade at the end of the semester.
+
+- **Cumulative Grades**: Class participation and adviser meetings are
+  evaluated continuously throughout the semester based on consistent
+  engagement and effort.
 
 To pass `CMPSC 580`, submission of and participation in all the primary
 requirements is mandatory. In addition to an overall evaluation of each
-category, a student's work in `CMPSC 580` will be evaluated according to each of
-the following baseline requirements. Please note that these requirements
-articulate a baseline for the junior seminar course and are provided as a list
-of minimum requirements that all specific research deliverables must meet to be
-assessed as complete. Before the submission of a final grade, a student's
-assessment scores for these categories will be assigned by their first reader
-and approved by the course coordinator and all faculty members who are
-instructors for `CMPSC 580` at Allegheny College.
-
-Students who are enrolled in `DOUBL 580` are also required to write a course
-contract that describes the deliverables and the deadlines by which they will
-complete them for both `CMPSC 580` and the course for their additional major.
-Importantly, students in `DOUBL 580` must complete _all_ the requirements for
-_both_ `CMPSC 580` _and_ the course connected to their other major. Students who
-enroll in `DOUBL 580` should submit their course contract to their first reader
-in the Department of Computer and Information Science and the coordinator of
-`CMPSC 580`.
+category, a student's work in `CMPSC 580` will be evaluated according
+to each of the following baseline requirements. Please note that these
+requirements articulate a baseline for the junior seminar course and
+are provided as a list of minimum requirements that all specific
+research deliverables must meet to be assessed as complete. Before the
+submission of a final grade, a student's assessment scores for these
+categories will be assigned by their first reader and approved by the
+course coordinator and all faculty members who are instructors for
+`CMPSC 580` at Allegheny College.
 
 ### Deliverable Descriptions
 
 #### Class Participation
 
 - [ ] The student regularly attended the weekly class sessions
-- [ ] The student actively participated in the weekly in-person class discussions
+- [ ] The student actively participated in the weekly in-person
+  class discussions
 - [ ] The student contributed meaningfully to brainstorming sessions
-- [ ] The student provided constructive feedback during peer presentations
-- [ ] The student asked thoughtful questions during presentations and discussions
-- [ ] The student demonstrated professional behavior and respect for others
+- [ ] The student provided constructive feedback during peer
+  presentations
+- [ ] The student asked thoughtful questions during presentations
+  and discussions
+- [ ] The student demonstrated professional behavior and respect
+  for others
 
 #### Adviser Meetings
 
 - [ ] The student met with their first reader on a weekly basis
 - [ ] The student came to research meetings with a planned agenda
 - [ ] The student left research meetings with clear action items
-- [ ] The student frequently completed activities according to an agreed schedule
-- [ ] The student demonstrated growth in their knowledge of their research topic
-- [ ] The student demonstrated growth in their ability to conduct research in
-computer and information science
-- [ ] The student suggested ways in which to improve and/or gave feedback on the
-course's research process
+- [ ] The student frequently completed activities according to an
+  agreed schedule
+- [ ] The student demonstrated growth in their knowledge of their
+  research topic
+- [ ] The student demonstrated growth in their ability to conduct
+  research in computer and information science
+- [ ] The student suggested ways in which to improve and/or gave
+  feedback on the course's research process
 
 #### Research Journal
 
-The research journal should contain seven entries as specified in the course
-requirements, with entries divided between activity-based and reflection-based
-posts. **Journal entries are revisable**: your first reader will provide
-feedback on each entry, and you can revise and improve entries throughout the
-semester. Your final journal grade will be based on the quality of all entries
-as of the final submission deadline (May 1, 2026).
+The research journal should contain seven entries as specified in the
+course requirements, with entries divided between activity-based and
+reflection-based posts. **Journal entries are revisable**: your first
+reader will provide feedback on each entry, and you can revise and
+improve entries throughout the semester. Your final journal grade will
+be based on the quality of all entries as of the final submission
+deadline (May 1, 2026).
 
-- [ ] The student created a research journal website using Quarto and GitHub Pages
-- [ ] The research journal contains all seven required entries with appropriate dates
-- [ ] Entry 1: Research Idea clearly describes the proposed research problem and approach
-- [ ] Entry 2: Prototype Installation and Use provides clear documentation
-- [ ] Entry 3: Brainstorming and Prototyping Experience reflects on the ideation
-and development process
-- [ ] Entry 4: Chapters 1 and 2 Reflections demonstrates critical thinking about
-the introduction and related work
-- [ ] Entry 5: Chapters 3 and 4 Reflections shows thoughtful analysis of methods
-and experimental results
-- [ ] Entry 6: Chapter 5 Reflection synthesizes learning from the conclusion
-- [ ] Entry 7: Overall Project Reflection provides comprehensive overview and
-identifies next steps
-- [ ] The research journal demonstrates consistent effort throughout the semester
-- [ ] The journal entries show evidence of iterative problem-solving and growth
+- [ ] The student created a research journal website using Quarto
+  and GitHub Pages
+- [ ] The research journal contains all seven required entries with
+  appropriate dates
+- [ ] Entry 1: Research Idea clearly describes the proposed research
+  problem and approach
+- [ ] Entry 2: Prototype Installation and Use provides clear
+  documentation
+- [ ] Entry 3: Brainstorming and Prototyping Experience reflects on
+  the ideation and development process
+- [ ] Entry 4: Chapters 1 and 2 Reflections demonstrates critical
+  thinking about the introduction and related work
+- [ ] Entry 5: Chapters 3 and 4 Reflections shows thoughtful
+  analysis of methods and experimental results
+- [ ] Entry 6: Chapter 5 Reflection synthesizes learning from the
+  conclusion
+- [ ] Entry 7: Overall Project Reflection provides comprehensive
+  overview and identifies next steps
+- [ ] The research journal demonstrates consistent effort throughout
+  the semester
+- [ ] The journal entries show evidence of iterative problem-solving
+  and growth
 
 #### Research Idea Pitch Presentation
 
-**This grade is final**: The grade you receive for this presentation is the
-final grade for this deliverable and is not subject to revision.
+**This grade is final**: The grade you receive for this presentation
+is the final grade for this deliverable and is not subject to
+revision.
 
 - [ ] The student gave the presentation on the assigned date (Week 6)
 - [ ] The presentation featured effective and well-designed slides
-- [ ] The presentation included an accessible overview of the proposed research
-- [ ] The presentation clearly articulated the research problem and motivation
+- [ ] The presentation included an accessible overview of the
+  proposed research
+- [ ] The presentation clearly articulated the research problem and
+  motivation
 - [ ] The presentation outlined the proposed methodology and approach
-- [ ] The presentation discussed the expected outcomes and contributions
+- [ ] The presentation discussed the expected outcomes and
+  contributions
 - [ ] The student effectively answered questions from the audience
-- [ ] The student completed the presentation within the stated time limit (10 minutes)
-- [ ] The student completed the question and answer session within the stated
-time limit (5 minutes)
-- [ ] The presentation demonstrated clear understanding of the research area
-- [ ] The presentation showed evidence of thorough preparation and practice
+- [ ] The student completed the presentation within the stated time
+  limit (10 minutes)
+- [ ] The student completed the question and answer session within
+  the stated time limit (5 minutes)
+- [ ] The presentation demonstrated clear understanding of the
+  research area
+- [ ] The presentation showed evidence of thorough preparation and
+  practice
 
 #### Research Prototype Demonstration (Week 7)
 
-**This grade is final**: The grade you receive for this demonstration is the
-final grade for this deliverable and is not subject to revision. Note that the
-prototype itself (code, documentation, repository) can be improved throughout
-the semester and will be evaluated as part of the Research Prototype grade
-(20%), which is revisable.
+**This grade is final**: The grade you receive for this demonstration
+is the final grade for this deliverable and is not subject to
+revision. Note that the prototype itself (code, documentation,
+repository) can be improved throughout the semester and will be
+evaluated as part of the Research Prototype grade (20%), which is
+revisable.
 
-- [ ] The student completed the prototype demonstration on the assigned date
-- [ ] The demonstration clearly showed the research prototype in action
-- [ ] The student effectively explained the core functionality of their prototype
-- [ ] The demonstration included key features relevant to the research questions
+- [ ] The student completed the prototype demonstration on the
+  assigned date
+- [ ] The demonstration clearly showed the research prototype in
+  action
+- [ ] The student effectively explained the core functionality of
+  their prototype
+- [ ] The demonstration included key features relevant to the
+  research questions
 - [ ] The student provided clear installation and usage instructions
-- [ ] The prototype's GitHub repository contains comprehensive documentation
-- [ ] The prototype demonstrates meaningful progress toward research goals
-- [ ] The student handled questions and technical issues professionally
-- [ ] The demonstration was well-organized and followed a logical sequence
-- [ ] The prototype represents substantial effort and technical achievement
-- [ ] The student articulated connections between the prototype and research objectives
+- [ ] The prototype's GitHub repository contains comprehensive
+  documentation
+- [ ] The prototype demonstrates meaningful progress toward research
+  goals
+- [ ] The student handled questions and technical issues
+  professionally
+- [ ] The demonstration was well-organized and followed a logical
+  sequence
+- [ ] The prototype represents substantial effort and technical
+  achievement
+- [ ] The student articulated connections between the prototype and
+  research objectives
 
 #### Research Results Presentation (Week 13)
 
-**This grade is final**: The grade you receive for this presentation is the
-final grade for this deliverable and is not subject to revision.
+**This grade is final**: The grade you receive for this presentation
+is the final grade for this deliverable and is not subject to
+revision.
 
 - [ ] The student gave the presentation on the assigned date
 - [ ] The presentation featured effective and well-designed slides
-- [ ] The presentation summarized the research problem and methodology
-- [ ] The presentation clearly presented experimental results with appropriate
-visualizations
+- [ ] The presentation summarized the research problem and
+  methodology
+- [ ] The presentation clearly presented experimental results with
+  appropriate visualizations
 - [ ] The presentation discussed the implications of the findings
-- [ ] The presentation addressed the research questions posed at the beginning
-- [ ] The presentation included discussion of future work and limitations
+- [ ] The presentation addressed the research questions posed at the
+  beginning
+- [ ] The presentation included discussion of future work and
+  limitations
 - [ ] The student effectively answered questions from the audience
-- [ ] The student completed the presentation within the stated time limit (15 minutes)
-- [ ] The student completed the question and answer session within the stated
-time limit (5 minutes)
+- [ ] The student completed the presentation within the stated time
+  limit (15 minutes)
+- [ ] The student completed the question and answer session within
+  the stated time limit (5 minutes)
 - [ ] The presentation demonstrated mastery of the research topic
-- [ ] The presentation showed evidence of thorough preparation and practice
+- [ ] The presentation showed evidence of thorough preparation and
+  practice
 
 #### Research Report Requirements
 
-The junior seminar research report consists of five chapters that document the
-complete research process. Each chapter should be approximately 5 to 7 pages in
-length. **Report chapters are revisable**: your first reader will provide
-feedback on each chapter as you complete it, and you can revise and improve
-chapters throughout the semester. Your final report grade will be based on the
-quality of all chapters as submitted in your final release (version 5.0.0+) by
-the deadline of May 1, 2026.
+The junior seminar research report consists of five chapters that
+document the complete research process. Each chapter should be
+approximately 5 to 7 pages in length. **Report chapters are
+revisable**: your first reader will provide feedback on each chapter as
+you complete it, and you can revise and improve chapters throughout the
+semester. Your final report grade will be based on the quality of all
+chapters as submitted in your final release (version 5.0.0+) by the
+deadline of May 1, 2026.
 
 ##### General Report Requirements
 
-- [ ] The abstract provides a concise and compelling summary of the research
-- [ ] The report was submitted on time as a PDF in a tagged release on GitHub
-- [ ] The GitHub repository contains evidence of many commits throughout the semester
-- [ ] The GitHub repository contains multiple releases using the [Semantic
-  Versioning Standard](https://semver.org/)
+- [ ] The abstract provides a concise and compelling summary of the
+  research
+- [ ] The report was submitted on time as a PDF in a tagged release
+  on GitHub
+- [ ] The GitHub repository contains evidence of many commits
+  throughout the semester
+- [ ] The GitHub repository contains multiple releases using the
+  [Semantic Versioning Standard](https://semver.org/)
 - [ ] In adherence to the [Semantic Versioning
-  Standard](https://semver.org/), the repository contains releases with version
-  numbers `1.0.0+` for Chapter 1, `2.0.0+` for Chapter 2, `3.0.0+` for Chapter 3,
-  `4.0.0+` for Chapter 4, and `5.0.0+` for Chapter 5
-- [ ] The report has the correct format created through the use of Quarto,
-  Pandoc, and LaTeX using the Allegheny CIS template
+  Standard](https://semver.org/), the repository contains releases
+  with version numbers `1.0.0+` for Chapter 1, `2.0.0+` for Chapter 2,
+  `3.0.0+` for Chapter 3, `4.0.0+` for Chapter 4, and `5.0.0+` for
+  Chapter 5
+- [ ] The report has the correct format created through the use of
+  Quarto, Pandoc, and LaTeX using the Allegheny CIS template
 - [ ] The title of the report is both interesting and appropriate
 - [ ] The report includes at least twelve high-quality references
-- [ ] Each chapter contains approximately 5 to 7 pages of content in the
-  required style
-- [ ] The completed report consists of at least 25 pages of content (approximately
-  5 chapters × 5 pages minimum)
-- [ ] The report follows a logical flow at the level of chapters, sections,
-  subsections, and paragraphs
+- [ ] Each chapter contains approximately 5 to 7 pages of content in
+  the required style
+- [ ] The completed report consists of at least 25 pages of content
+  (approximately 5 chapters × 5 pages minimum)
+- [ ] The report follows a logical flow at the level of chapters,
+  sections, subsections, and paragraphs
 - [ ] The report includes at least 5 appropriate visual aids such as:
   - images
   - figures
   - tables
   - graphs
   - diagrams
-- [ ] The report contains substantial scientific, technical, engineering, and/or
-  mathematical content
-- [ ] The report highlights and explains the societal impacts and ethical
-  implications of the research
+- [ ] The report contains substantial scientific, technical,
+  engineering, and/or mathematical content
+- [ ] The report highlights and explains the societal impacts and
+  ethical implications of the research
 - [ ] There are no typographical or grammatical errors in the report
-- [ ] There is no extraneous text in the report (e.g., text from the template)
+- [ ] There is no extraneous text in the report (e.g., text from
+  the template)
 
 ##### Chapter 1: Introduction
 
 - [ ] The introduction clearly describes the research problem
-- [ ] The introduction motivates the work from professional and academic perspectives
-- [ ] The introduction discusses the broader impacts and societal implications
-- [ ] The introduction outlines the ethical considerations of the work
+- [ ] The introduction motivates the work from professional and
+  academic perspectives
+- [ ] The introduction discusses the broader impacts and societal
+  implications
+- [ ] The introduction outlines the ethical considerations of the
+  work
 - [ ] The introduction previews the structure of the research report
-- [ ] The introduction articulates the key contributions of the research
+- [ ] The introduction articulates the key contributions of the
+  research
 - [ ] The introduction is approximately 5 to 7 pages in length
 
 ##### Chapter 2: Related Work
 
-- [ ] The related work section references and describes relevant literature
-- [ ] The related work section explains how literature connects to the research
-- [ ] The related work section synthesizes sources rather than providing a list
-- [ ] The related work section situates the project in the broader research context
-- [ ] The related work section provides support for subsequent chapters
-- [ ] The related work section engages with at least 12 high-quality sources
-- [ ] The related work section is approximately 5 to 7 pages in length
+- [ ] The related work section references and describes relevant
+  literature
+- [ ] The related work section explains how literature connects to
+  the research
+- [ ] The related work section synthesizes sources rather than
+  providing a list
+- [ ] The related work section situates the project in the broader
+  research context
+- [ ] The related work section provides support for subsequent
+  chapters
+- [ ] The related work section engages with at least 12 high-quality
+  sources
+- [ ] The related work section is approximately 5 to 7 pages in
+  length
 
 ##### Chapter 3: Methodology
 
-- [ ] The methodology section explains the research process and approach
+- [ ] The methodology section explains the research process and
+  approach
 - [ ] The methodology section describes at least 3 of the following:
   - description of algorithms
   - programming languages
@@ -377,64 +354,85 @@ the deadline of May 1, 2026.
   - data sets
   - theoretical foundations
 - [ ] The methodology section explains the design of experiments
-- [ ] The methodology section explains how evaluation metrics are calculated/collected
-- [ ] The methodology section references the GitHub repository with the prototype
+- [ ] The methodology section explains how evaluation metrics are
+  calculated/collected
+- [ ] The methodology section references the GitHub repository with
+  the prototype
 - [ ] The methodology section provides examples of input and output
-- [ ] The methodology section includes appropriate diagrams or figures
+- [ ] The methodology section includes appropriate diagrams or
+  figures
 - [ ] The methodology section is approximately 5 to 7 pages in length
 
 ##### Chapter 4: Experimental Results
 
-- [ ] The results section describes experiments such that they are reproducible
-- [ ] The results section presents data using appropriate visualizations
-- [ ] The results section includes at least one graph, table, or chart
-- [ ] The results section analyzes and interprets the experimental findings
-- [ ] The results section discusses how results address the research questions
+- [ ] The results section describes experiments such that they are
+  reproducible
+- [ ] The results section presents data using appropriate
+  visualizations
+- [ ] The results section includes at least one graph, table, or
+  chart
+- [ ] The results section analyzes and interprets the experimental
+  findings
+- [ ] The results section discusses how results address the research
+  questions
 - [ ] The results section identifies threats to validity
 - [ ] The results section is approximately 5 to 7 pages in length
 
 ##### Chapter 5: Conclusion and Future Work
 
 - [ ] The conclusion summarizes the research and key findings
-- [ ] The conclusion discusses the impact and significance of the work
+- [ ] The conclusion discusses the impact and significance of the
+  work
 - [ ] The conclusion critically reflects on the research process
-- [ ] The conclusion outlines specific avenues for future work with sufficient detail
-- [ ] The conclusion revisits ethical implications in light of the results
+- [ ] The conclusion outlines specific avenues for future work with
+  sufficient detail
+- [ ] The conclusion revisits ethical implications in light of the
+  results
 - [ ] The conclusion provides closure to the research narrative
 - [ ] The conclusion is approximately 5 to 7 pages in length
 
 #### Research Prototype
 
-**The prototype is revisable**: Your first reader will provide feedback on your
-prototype throughout the semester. You can continue to improve your prototype's
-code, documentation, and functionality. Your final prototype grade will be based
-on the state of your GitHub repository as of the final submission deadline (May
-1, 2026). Note that the prototype demonstration in Week 7 receives a separate
-final grade that is not revisable.
+**The prototype is revisable**: Your first reader will provide feedback
+on your prototype throughout the semester. You can continue to improve
+your prototype's code, documentation, and functionality. Your final
+prototype grade will be based on the state of your GitHub repository as
+of the final submission deadline (May 1, 2026). Note that the prototype
+demonstration in Week 7 receives a separate final grade that is not
+revisable.
 
-- [ ] The prototype's source code exists in a publicly available GitHub repository
-- [ ] The prototype's repository contains comprehensive installation instructions
+- [ ] The prototype's source code exists in a publicly available
+  GitHub repository
+- [ ] The prototype's repository contains comprehensive installation
+  instructions
 - [ ] The prototype's repository contains clear usage documentation
-- [ ] The prototype can be installed and used by someone other than the creator
-- [ ] The prototype's repository demonstrates software development best practices
-(e.g., meaningful commit messages, organized file structure)
-- [ ] The prototype addresses the research problem described in the report
-- [ ] The prototype's repository contains evidence of regular commits throughout
-the semester
-- [ ] The prototype demonstrates appropriate technical complexity for junior-level work
+- [ ] The prototype can be installed and used by someone other than
+  the creator
+- [ ] The prototype's repository demonstrates software development
+  best practices (e.g., meaningful commit messages, organized file
+  structure)
+- [ ] The prototype addresses the research problem described in the
+  report
+- [ ] The prototype's repository contains evidence of regular commits
+  throughout the semester
+- [ ] The prototype demonstrates appropriate technical complexity for
+  junior-level work
 - [ ] The prototype includes adequate error handling and validation
-- [ ] The prototype's repository contains clear examples and demonstrations
-- [ ] The prototype successfully supports the experimental work described in the report
+- [ ] The prototype's repository contains clear examples and
+  demonstrations
+- [ ] The prototype successfully supports the experimental work
+  described in the report
 
 ### Institutional Review Board (IRB) Proposals
 
-Should a project require Institutional Review Board (IRB) approval for use of
-human subjects in the research project, the proposing student is responsible for
-writing and having an approved IRB proposal before conducting any experimentation
-associated with their research. Students must submit their IRB proposal to their
-First Reader who will review it and provide feedback before submitting it to the
-IRB. In accordance with Allegheny College policies, students may not submit
-their IRB proposal directly to the IRB and may not start working on any
+Should a project require Institutional Review Board (IRB) approval for
+use of human subjects in the research project, the proposing student is
+responsible for writing and having an approved IRB proposal before
+conducting any experimentation associated with their research. Students
+must submit their IRB proposal to their First Reader who will review it
+and provide feedback before submitting it to the IRB. In accordance
+with Allegheny College policies, students may not submit their IRB
+proposal directly to the IRB and may not start working on any
 experiments before receiving IRB approval.
 
 ### Additional Details for Presentations
@@ -524,7 +522,8 @@ The Spring 2026 semester follows this weekly schedule:
   - Write Chapter 1: Introduction
   - Meet with first reader for feedback
   - **Deliverable**: Draft of Chapter 1 for review
-  - **Deliverable**: Complete Journal Entry 3 (Brainstorming and Prototyping Experience)
+  - **Deliverable**: Complete Journal Entry 3 (Brainstorming and
+    Prototyping Experience)
 
 - **Week 10: Chapter 2 of Research Report**
 
@@ -591,16 +590,16 @@ Throughout the semester, students are expected to:
 
 ### Course Textbooks
 
-There are no required textbooks for this course. However, the faculty _highly
-recommend_ investing in the following texts for both academic and professional
-development:
+There are no required textbooks for this course. However, the faculty
+_highly recommend_ investing in the following texts for both academic
+and professional development:
 
-|Title |Author |ISBN/ASIN |
+|Title |Author |ISBN |
 |:-----|:------|:----|
-|_On Being a Scientist (3rd ed.)_ |National Academy of Sciences, National Academy of Engineering, and Institute of Medicine |978-0309119702 |
-|_BUGS in Writing: A Guide to Debugging your Prose_ |Lyn Dupre |978-0201379211 |
-|_Writing for Computer Science (3rd ed.)_|Justin Zobel|978-1852338022 |
-|_The Craft of Research (4th ed.)_|Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams, Joseph Bizup, and William T. FitzGerald|978-0226239736 |
+|_On Being a Scientist (3rd ed.)_ |Nat. Academy of Sciences |978-0309119702 |
+|_BUGS in Writing_ |Lyn Dupre |978-0201379211 |
+|_Writing for CS (3rd ed.)_|Justin Zobel|978-1852338022 |
+|_Craft of Research (4th ed.)_|Wayne C. Booth et al.|978-0226239736 |
 
 ### Course Repositories
 
@@ -615,19 +614,21 @@ and maintain a separate repository for your research prototype.
 
 Key repositories you will work with:
 
-- **Research Report and Journal Repository**: Contains your Quarto-based research
-  report chapters and journal entries. This repository will automatically build
-  your website and release PDFs through GitHub Actions.
+- **Research Report and Journal Repository**: Contains your
+  Quarto-based research report chapters and journal entries. This
+  repository will automatically build your website and release PDFs
+  through GitHub Actions.
 
-- **Research Prototype Repository**: Contains the source code, documentation,
-  and data for your research prototype.
+- **Research Prototype Repository**: Contains the source code,
+  documentation, and data for your research prototype.
 
-Both repositories must adhere to the course's requirements for documentation,
-commit practices, and release management. The repositories should follow the
-[Semantic Versioning Standard](https://semver.org/) for all tagged releases.
+Both repositories must adhere to the course's requirements for
+documentation, commit practices, and release management. The
+repositories should follow the [Semantic Versioning
+Standard](https://semver.org/) for all tagged releases.
 
-**Course instructors will only grade and provide feedback on projects that are
-stored in and properly released through GitHub.**
+**Course instructors will only grade and provide feedback on projects
+that are stored in and properly released through GitHub.**
 
 ### Required Software and Tools
 
@@ -683,40 +684,44 @@ advance of the due date of the deliverable affected.
 
 ### Honor Code
 
-All students and faculty at Allegheny College are bound by the Honor Code.
-Everyone expects that your behavior reflects this commitment. Given the
-eminently shareable and reproducible nature of code, the Department of Computer
-and Information Science adds the following statement to the general college
-policy:
+All students and faculty at Allegheny College are bound by the Honor
+Code. Everyone expects that your behavior reflects this commitment.
+Given the eminently shareable and reproducible nature of code, the
+Department of Computer and Information Science adds the following
+statement to the general college policy:
 
-> It is recognized that an important part of the learning process in any course,
-> and particularly in computer science, derives from thoughtful discussions with
-> teachers, student assistants, and fellow students. Such dialogue is encouraged.
-> However, it is necessary to distinguish carefully between the student who
-> discusses the principles underlying a problem with others, and the student who
-> produces assignments that are identical to, or merely variations on, someone
-> else's work. It will therefore be understood that all assignments submitted to
-> faculty of the Department of Computer and Information Science are to be the
-> original work of the student submitting the assignment, and should be signed in
-> accordance with the provisions of the Honor Code. Appropriate action will be
-> taken when assignments give evidence that they were derived from the work of
-> others.
+> It is recognized that an important part of the learning process in
+> any course, and particularly in computer science, derives from
+> thoughtful discussions with teachers, student assistants, and fellow
+> students. Such dialogue is encouraged. However, it is necessary to
+> distinguish carefully between the student who discusses the
+> principles underlying a problem with others, and the student who
+> produces assignments that are identical to, or merely variations on,
+> someone else's work. It will therefore be understood that all
+> assignments submitted to faculty of the Department of Computer and
+> Information Science are to be the original work of the student
+> submitting the assignment, and should be signed in accordance with
+> the provisions of the Honor Code. Appropriate action will be taken
+> when assignments give evidence that they were derived from the work
+> of others.
 
-As the nature of "plagiarism" and constituents of "fair use" change often, the
-department encourages you to periodically review the specific tenets of the
-general college Honor Code provided in the latest course catalog and in the
-_Compass_. The above statement, of course, also applies to online forums such as
-Stack Overflow or text generation systems such as ChatGPT or GitHub Copilot.
-Please review the policy on the use of artificial intelligence tools, referenced
-in this syllabus, for more suggestions concerning the effective use of tools
+As the nature of "plagiarism" and constituents of "fair use" change
+often, the department encourages you to periodically review the
+specific tenets of the general college Honor Code provided in the
+latest course catalog and in the _Compass_. The above statement, of
+course, also applies to online forums such as Stack Overflow or text
+generation systems such as ChatGPT or GitHub Copilot. Please review the
+policy on the use of artificial intelligence tools, referenced in this
+syllabus, for more suggestions concerning the effective use of tools
 like ChatGPT or GitHub Copilot.
 
 ### Classroom Ethics
 
-The discipline of computer science, like many others, encourages its members to
-act according to discipline-specific ethics. The faculty encourage you to take
-time to review the Association for Computing Machinery (ACM) [Code of
-Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf).
+The discipline of computer science, like many others, encourages its
+members to act according to discipline-specific ethics. The faculty
+encourage you to take time to review the Association for Computing
+Machinery (ACM) [Code of
+Ethics](https://www.acm.org/code-of-ethics).
 
 ### Use of Artificial Intelligence Tools
 
@@ -787,30 +792,36 @@ your first reader, please visit their web site and schedule appointments.
 Historically, students who are successful in department courses visit and
 discuss course processes and assignments early and often.
 
-Please also take advantage of the course's GitHub organization for asking
-questions and engaging in technical discussions. Your peers and instructors can
-provide valuable feedback through GitHub issues and discussions.
+Please also take advantage of the course's GitHub organization for
+asking questions and engaging in technical discussions. Your peers and
+instructors can provide valuable feedback through GitHub issues and
+discussions.
 
 #### Outside Assistance
 
-If you find yourself in difficult circumstances which affect your ability to
-participate in or complete course work, let us know immediately -- **full stop**.
+If you find yourself in difficult circumstances which affect your
+ability to participate in or complete course work, let us know
+immediately -- **full stop**.
 
 Do not wait until the end of the semester.
 
-Part of our role as course instructors is to make sure that students receive the
-assistance they need. Do not hesitate to let us know if there is anything we can
-do with respect to your ability to handle your work. Again, let us remind and
-encourage you -- _**it is part of our job**_ to help you access Allegheny
-College resources that will enable your safety and success.
+Part of our role as course instructors is to make sure that students
+receive the assistance they need. Do not hesitate to let us know if
+there is anything we can do with respect to your ability to handle your
+work. Again, let us remind and encourage you -- _**it is part of our
+job**_ to help you access Allegheny College resources that will enable
+your safety and success.
 
 In many situations, the following list of resources may prove useful:
 
-- [The Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
-- [Allegheny College Counseling and Personal Development Center](https://sites.allegheny.edu/counseling/)
+- [The Maytum Center for Student
+  Success](https://sites.allegheny.edu/studentsuccess/)
+- [Allegheny College Counseling and Personal Development
+  Center](https://sites.allegheny.edu/counseling/)
 - [Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
 - [Student Life](https://sites.allegheny.edu/studentlife/)
-- [Student Accessibility and Support Services](https://sites.allegheny.edu/studentaccessibility/)
+- [Student Accessibility and Support
+  Services](https://sites.allegheny.edu/studentaccessibility/)
 
 ### Special Needs
 
