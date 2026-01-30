@@ -314,7 +314,7 @@ versus revisable.
 1. **Read the complete research group guidelines** in
    [cmpsc-580-spring-syllabus.md](/cmpsc-580-spring-syllabus.md)
 1. **Fill out your researcher profile** in [metadata.md](/metadata.md)
-1. **Accept your research repository** from the research group GitHub
+1. **Accept your research report repository** from the research group GitHub
    organization
 1. **Schedule your first research consultation** with your research adviser
 1. **Begin brainstorming** research questions and project ideas
