@@ -93,7 +93,7 @@ Your prototype should demonstrate:
 
 #### Examples of Research Prototypes
 
-**Computer Science - Algorithm and Theory**:
+**Algorithm and Theory**:
 
 - Implementation of a novel graph algorithm with performance comparison
 - Parallel computing framework demonstrating speedup on benchmark problems
