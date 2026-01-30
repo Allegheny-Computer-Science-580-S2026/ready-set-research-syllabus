@@ -19,6 +19,7 @@ professional research work. During this single-semester course, you will:
 - **Build** a working research prototype demonstrating your solution
 - **Write** a complete five-chapter research report documenting your process and
   findings
+- **Record** your ideas and brainstorms in a hand-written research notebook
 - **Maintain** a research journal reflecting on your experiences and growth
 - **Present** your work to faculty and peers at multiple stages throughout the
   semester
@@ -251,7 +252,8 @@ course):
 
 - Research Journal: 10% (Revisable)
 - Class Participation: 5% (Cumulative)
-- Adviser Meetings: 5% (Cumulative)
+- Adviser Meetings: 2.5% (Cumulative)
+- Research Notebook: 2.5% (Cumulative)
 
 Students must complete all primary requirements to pass the course. Detailed
 rubrics and assessment criteria are provided in the syllabus. See the "Important
