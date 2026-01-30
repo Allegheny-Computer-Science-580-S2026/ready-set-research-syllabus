@@ -105,10 +105,13 @@ Your prototype should be hosted in a GitHub repository with:
 - Evidence of testing and validation
 - Discussion of limitations and future improvements
 
-**Critical**: Your prototype must be substantial enough to support a
-full research report while being achievable in a single semester. Aim
-for depth over breadth—it's better to thoroughly explore one aspect
-than to superficially cover many.
+**Critical**: Your prototype must be substantial enough to support a full
+research report while being achievable in a single semester. Aim for depth over
+breadth—it's better to thoroughly explore one aspect than to superficially cover
+many. You must create a research prototype that you can demonstrate during an
+in-class presentation in Week 7. Finally, your prototype must be in a publicly
+available GitHub repository and usable by the other members of our research
+group.
 
 ### 2. Research Report (40% of grade)
 
