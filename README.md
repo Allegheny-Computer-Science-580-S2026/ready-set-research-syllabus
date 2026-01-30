@@ -34,7 +34,8 @@ Seminar is designed as an intensive, single-semester research experience that:
 - **Emphasizes** rapid prototyping and iterative development
 - **Requires** shorter chapters (5-7 pages each) compared to senior thesis
   chapters (10-15 pages)
-- **Provides** regular structured milestones to keep you on track
+- **Provides** regular structured milestones and in-person activities to keep
+  you on track
 - **Prepares** you with research skills applicable to senior thesis, graduate
   school, or industry
 
