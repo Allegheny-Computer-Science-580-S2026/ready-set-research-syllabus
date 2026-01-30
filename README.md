@@ -15,10 +15,10 @@ disconnected assignments. Think of yourself as a member of a university
 research laboratory or an industry R&D team, not as a student completing
 coursework. In a research group:
 
-- **We collaborate**: You'll share ideas, provide feedback on each other's
-  work, and learn from your peers' research challenges and solutions
+- **We collaborate**: You'll share ideas, provide feedback on each other's work,
+  and learn from your peers' research challenges and solutions
 - **We present regularly**: Like researchers at conferences and lab meetings,
-  you'll present your progress, receive constructive critique, and refine your
+  you'll present your progress, receive constructive critiques, and refine your
   ideas
 - **We maintain research artifacts**: Your research notebook, prototype
   repository, and journal entries are professional research outputs, not just
@@ -26,9 +26,9 @@ coursework. In a research group:
 - **We meet with advisers**: Your first reader is your research adviser, and
   your weekly meetings are research consultations focused on advancing your
   project
-- **We contribute to the group**: Beyond your individual project, you
-  contribute to the research culture through peer feedback, technical
-  discussions, and shared learning
+- **We contribute to the group**: Beyond your individual project, you contribute
+  to the research culture through peer feedback, technical discussions, and shared
+  learning
 
 This semester, you are a **junior researcher** conducting original work. Your
 prototype is a research artifact. Your report is a research publication. Your
