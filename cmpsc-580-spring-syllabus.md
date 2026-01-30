@@ -24,6 +24,31 @@ reflections.
 - Prerequisite: Permission of the Instructor
 - Distribution Requirements: `None`
 
+## Class Meeting Structure
+
+The Junior Seminar course meets three times per week with the following
+structure:
+
+- **Monday (50 minutes)**: Junior Seminar students only. Focus on
+  Junior Seminar-specific activities including brainstorming, research
+  discussions, presentations, and demonstrations.
+
+- **Wednesday (50 minutes)**: Junior Seminar students only. Continuation
+  of Monday's activities with additional presentations, peer feedback
+  sessions, and research progress discussions.
+
+- **Friday (50 minutes)**: Joint session with Senior Seminar (CMPSC 600
+  and 610) students. Collaborative activities related to research in
+  computer science, software engineering, data science, and informatics.
+  Topics include research methods, technical writing, presentation
+  skills, ethics in computing, and professional development.
+
+The Friday joint sessions provide valuable opportunities for junior
+students to learn from senior students' experiences and for seniors to
+mentor juniors in the research process. All students benefit from the
+broader perspective on research practices across different stages of
+the undergraduate research journey.
+
 ## Course Instructors
 
 - [Oliver Bonham-Carter](https://www.oliverbonhamcarter.com/)
@@ -183,6 +208,11 @@ deadline (May 1, 2026).
 is the final grade for this deliverable and is not subject to
 revision.
 
+**Note**: With 20 students presenting across Monday and Wednesday of
+Week 6 (10 students per day), each student has 5 minutes total (3
+minutes presentation + 2 minutes Q&A). Time limits are strictly
+enforced.
+
 - [ ] The student gave the presentation on the assigned date (Week 6)
 - [ ] The presentation featured effective and well-designed slides
 - [ ] The presentation included an accessible overview of the
@@ -194,9 +224,9 @@ revision.
   contributions
 - [ ] The student effectively answered questions from the audience
 - [ ] The student completed the presentation within the stated time
-  limit (10 minutes)
+  limit (3 minutes)
 - [ ] The student completed the question and answer session within
-  the stated time limit (5 minutes)
+  the stated time limit (2 minutes)
 - [ ] The presentation demonstrated clear understanding of the
   research area
 - [ ] The presentation showed evidence of thorough preparation and
@@ -210,6 +240,11 @@ revision. Note that the prototype itself (code, documentation,
 repository) can be improved throughout the semester and will be
 evaluated as part of the Research Prototype grade (20%), which is
 revisable.
+
+**Note**: With 20 students presenting across Monday and Wednesday of
+Week 7 (10 students per day), each student has 5 minutes total (3
+minutes demonstration + 2 minutes Q&A). Time limits are strictly
+enforced.
 
 - [ ] The student completed the prototype demonstration on the
   assigned date
@@ -239,6 +274,11 @@ revisable.
 is the final grade for this deliverable and is not subject to
 revision.
 
+**Note**: With 20 students presenting across Monday and Wednesday of
+Week 13 (10 students per day), each student has 5 minutes total (3
+minutes presentation + 2 minutes Q&A). Time limits are strictly
+enforced.
+
 - [ ] The student gave the presentation on the assigned date
 - [ ] The presentation featured effective and well-designed slides
 - [ ] The presentation summarized the research problem and
@@ -252,9 +292,9 @@ revision.
   limitations
 - [ ] The student effectively answered questions from the audience
 - [ ] The student completed the presentation within the stated time
-  limit (15 minutes)
+  limit (3 minutes)
 - [ ] The student completed the question and answer session within
-  the stated time limit (5 minutes)
+  the stated time limit (2 minutes)
 - [ ] The presentation demonstrated mastery of the research topic
 - [ ] The presentation showed evidence of thorough preparation and
   practice
@@ -401,6 +441,88 @@ of the final submission deadline (May 1, 2026). Note that the prototype
 demonstration in Week 7 receives a separate final grade that is not
 revisable.
 
+**Prototype Requirements**: Your research prototype must demonstrate both
+**feasibility** and **challenge**. It should show that your research idea
+is technically achievable within one semester while also demonstrating
+that it pushes your skills and explores meaningful computer science
+concepts. A prototype that is too simple (e.g., a basic web form) won't
+adequately support research, while one that is overly ambitious (e.g., a
+full operating system) won't be completable in time.
+
+**Prototype Examples**: The following examples illustrate appropriate
+prototypes across different areas of computer science. Each balances
+feasibility with challenge:
+
+*Algorithm and Theory*:
+
+- Custom implementation of a novel graph algorithm variant with
+  performance benchmarking against standard libraries
+- Interactive visualization tool for demonstrating complexity classes
+  with real-time algorithm comparison
+- Probabilistic data structure implementation (e.g., Bloom filters,
+  count-min sketch) with empirical accuracy testing
+
+*Software Engineering*:
+
+- Static analysis tool that detects specific code patterns or security
+  vulnerabilities in Python or JavaScript
+- GitHub Action or plugin that automates testing, documentation, or
+  code quality checks
+- Refactoring tool that transforms code between different design
+  patterns with validation
+- Custom linter or formatter with configurable rules for a specific
+  programming language
+
+*Data Science and Machine Learning*:
+
+- Data pipeline for collecting, cleaning, and analyzing social media
+  or web data with statistical tests
+- Interactive dashboard for exploring dataset characteristics and
+  visualizing statistical patterns
+- Implementation and comparison of multiple classification algorithms
+  on a domain-specific dataset
+- Bias detection tool that analyzes datasets or model predictions for
+  fairness metrics
+
+*Systems, Networking, and Distributed Systems*:
+
+- Custom HTTP server or client with specific features (e.g., caching,
+  compression, authentication)
+- Network protocol implementation with packet analysis and performance
+  measurement
+- Container orchestration tool or plugin that manages deployments with
+  health monitoring
+- Distributed system simulation demonstrating consensus algorithms or
+  fault tolerance
+
+*Human-Computer Interaction and Informatics*:
+
+- Usability testing framework that collects interaction metrics and
+  generates reports
+- Accessibility evaluation tool that tests websites against WCAG
+  guidelines with recommendations
+- Mobile or web application with A/B testing capability for comparing
+  interface designs
+- Browser extension that modifies web interfaces and logs user
+  interaction patterns
+
+*Security, Privacy, and Cryptography*:
+
+- Password strength analyzer with entropy calculation and policy
+  enforcement
+- Network traffic analyzer that detects suspicious patterns or
+  protocol violations
+- Privacy-preserving data sharing tool using differential privacy or
+  secure computation
+- Cryptographic protocol implementation with security property
+  verification
+
+Remember that your prototype should enable your experimental work. For
+example, if you're comparing algorithms, your prototype should implement
+those algorithms and provide benchmarking capabilities. If you're
+studying user behavior, your prototype should collect relevant
+interaction data.
+
 - [ ] The prototype's source code exists in a publicly available
   GitHub repository
 - [ ] The prototype's repository contains comprehensive installation
@@ -437,28 +559,40 @@ experiments before receiving IRB approval.
 
 ### Additional Details for Presentations
 
+**Class Structure**: With 20 students in the class, presentations are
+divided across Monday and Wednesday class sessions (10 students per
+day) during the assigned weeks. Each 50-minute class period
+accommodates all 10 presentations with strict time limits.
+
 - Research Idea Pitch Presentation (Week 6):
 
-  - Project presentation: 10 minutes
-  - Question and answer session: 5 minutes
-  - Total time: 15 minutes
+  - Project presentation: 3 minutes
+  - Question and answer session: 2 minutes
+  - Total time per student: 5 minutes
+  - Total class time: 50 minutes for 10 students
 
 - Research Prototype Demonstration (Week 7):
 
-  - Prototype demonstration: 10 minutes
-  - Question and answer session: 5 minutes
-  - Total time: 15 minutes
+  - Prototype demonstration: 3 minutes
+  - Question and answer session: 2 minutes
+  - Total time per student: 5 minutes
+  - Total class time: 50 minutes for 10 students
 
 - Research Results Presentation (Week 13):
 
-  - Results presentation: 15 minutes
-  - Question and answer session: 5 minutes
-  - Total time: 20 minutes
+  - Results presentation: 3 minutes
+  - Question and answer session: 2 minutes
+  - Total time per student: 5 minutes
+  - Total class time: 50 minutes for 10 students
 
 - Presenting students must strictly adhere to the stated time limits.
+  Given the tight schedule with 10 presentations per class session,
+  going over time is not possible as it would prevent other students
+  from presenting.
 
-- All students are required to attend and participate as audience members in all
-  presentations.
+- All students are required to attend and participate as audience
+  members in all presentations on both Monday and Wednesday of the
+  assigned presentation weeks.
 
 ### Course Schedule
 
@@ -501,13 +635,15 @@ The Spring 2026 semester follows this weekly schedule:
 
 - **Week 6: Research Idea Pitch Presentations**
 
-  - All students present research idea pitches (10 min + 5 min Q&A)
+  - All students present research idea pitches (3 min + 2 min Q&A)
+  - 10 students present Monday, 10 students present Wednesday
   - Receive feedback from faculty and peers
   - **Deliverable**: Research Idea Pitch Presentation
 
 - **Week 7: Install, Use, and Demonstrate Research Prototype**
 
-  - All students demonstrate research prototypes (10 min + 5 min Q&A)
+  - All students demonstrate research prototypes (3 min + 2 min Q&A)
+  - 10 students present Monday, 10 students present Wednesday
   - Provide installation and usage documentation
   - **Deliverable**: Research Prototype Demonstration
   - **Deliverable**: Complete Journal Entry 2 (Prototype Installation and Use)
@@ -550,7 +686,8 @@ The Spring 2026 semester follows this weekly schedule:
 
 - **Week 13: Research Results Presentations**
 
-  - All students present research results (15 min + 5 min Q&A)
+  - All students present research results (3 min + 2 min Q&A)
+  - 10 students present Monday, 10 students present Wednesday
   - Discuss findings and implications
   - **Deliverable**: Research Results Presentation
   - **Deliverable**: Complete Journal Entry 5 (Chapters 3 and 4 Reflections)
