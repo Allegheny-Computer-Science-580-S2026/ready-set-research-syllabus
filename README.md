@@ -123,7 +123,7 @@ of at least 25 pages.
 
 ### 3. Research Journal (10% of grade)
 
-You will maintain an online research journal with seven entries:
+You will maintain an online research journal with seven entries in total:
 
 1. Research Idea
 1. Prototype Installation and Use
