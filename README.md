@@ -25,15 +25,15 @@ professional research work. During this single-semester course, you will:
 
 ## What Makes Junior Seminar Different
 
-Unlike the two-semester senior thesis sequence (CMPSC 600/610), Junior Seminar
-is designed as an intensive, single-semester research experience that:
+Unlike the two-semester senior thesis sequence (e.g., CMPSC 600/610), Junior
+Seminar is designed as an intensive, single-semester research experience that:
 
 - **Focuses** on completing all five chapters of a research report in one
   semester
 - **Emphasizes** rapid prototyping and iterative development
 - **Requires** shorter chapters (5-7 pages each) compared to senior thesis
   chapters (10-15 pages)
-- **Provides** structured weekly milestones to keep you on track
+- **Provides** regular structured milestones to keep you on track
 - **Prepares** you with research skills applicable to senior thesis, graduate
   school, or industry
 
