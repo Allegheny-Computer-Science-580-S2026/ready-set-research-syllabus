@@ -48,4 +48,4 @@ Add the Title of Your Junior Seminar Research Project
 
 Please use this section to record any other relevant information about your
 Junior Seminar research project or any other information that the course
-instructor deems important and relevant for you to record.
+instructor deems important for you to record about your project.
