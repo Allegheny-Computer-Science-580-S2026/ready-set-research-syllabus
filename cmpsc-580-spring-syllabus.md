@@ -168,6 +168,8 @@ for `CMPSC 580` at Allegheny College.
 - [ ] The researcher contributed meaningfully to collaborative
   brainstorming sessions
 - [ ] The researcher provided constructive peer review and feedback
+  for research journal entries, prototypes, and report chapters
+- [ ] The researcher provided constructive peer review and feedback
   during research presentations
 - [ ] The researcher asked thoughtful questions during research talks
   and group discussions
