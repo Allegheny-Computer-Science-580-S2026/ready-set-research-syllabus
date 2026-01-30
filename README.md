@@ -23,9 +23,9 @@ coursework. In a research group:
 - **We maintain research artifacts**: Your research notebook, prototype
   repository, and journal entries are professional research outputs, not
   short-term assignments for a course that you complete exclusively for a grade.
-- **We meet with advisers**: Your first reader and course instructor is your
-  research adviser, and your weekly meetings are research consultations focused on
-  advancing your project.
+- **We meet with advisers**: Your first reader (i.e., the course instructor) is
+  your research adviser, and your weekly meetings are research consultations
+  focused on advancing your project.
 - **We contribute to the group**: Beyond your individual project, you contribute
   to the research culture through peer feedback, technical discussions, and shared
   learning about research methods in computer science, software engineering, data
@@ -139,7 +139,7 @@ addressing.
 research report while being achievable in a single semester. Aim for depth over
 breadth—it's better to thoroughly explore one aspect than to superficially cover
 many. Please remember that you must build and release a research prototype that
-you can demonstrate during an in-class presentation during Week 7. Finally,
+you can demonstrate during an in-class presentation on Week 7. Finally,
 don't forget that your prototype must be in a publicly available GitHub
 repository and usable by the other members of our research group.
 
