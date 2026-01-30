@@ -11,9 +11,9 @@ Informatics through a hands-on, project-based approach.
 ## We Are Not a Class, We Are a Research Group!
 
 **CMPSC 580 operates as a research group**, not a traditional class with small
-disconnected assignments. Think of yourself as a member of a university
-research laboratory or an industry R&D team, not as a student completing
-coursework. In a research group:
+disconnected assignments. You should think of yourself as a member of a
+university research laboratory or an industry R&D team, not as a student
+completing coursework. In a research group:
 
 - **We collaborate**: You'll share ideas, provide feedback on each other's work,
   and learn from your peers' research challenges and solutions.
@@ -214,7 +214,7 @@ submission deadline (May 1, 2026):
 - **Research Prototype** (code, documentation, and repository quality)
 - **Research Report Chapters** (all 5 chapters)
 
-Your research adviser (i.e., your first reader who, for the Junior Seminar is
+Your research adviser (i.e., your first reader who, for the Junior Seminar, is
 the course instructor) will provide feedback on these artifacts as you develop
 them, and you can incorporate this feedback to improve your work before the
 final deadline. This iterative process mirrors how researchers revise
@@ -324,6 +324,7 @@ versus revisable.
 If you have questions about the syllabus or need clarification on course
 requirements:
 
+1. **Review the content in this document** as sets the stage for the course
 1. **Check the syllabus first** as many common questions are answered there
 1. **Open an issue** in this repository's [issue
    tracker](https://github.com/Allegheny-Computer-Science-580-S2026/ready-set-research-syllabus/issues)
