@@ -48,7 +48,8 @@ During this single-semester research group experience, you will:
 - **Write** a complete five-chapter research report documenting your process and
   findings
 - **Record** your ideas and brainstorms in a hand-written research notebook
-- **Maintain** a research journal reflecting on your experiences and growth
+- **Maintain** an online research journal reflecting on your experiences and
+  growth
 - **Present** your work to faculty and peers at multiple stages throughout the
   semester
 
