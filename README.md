@@ -55,7 +55,7 @@ During this single-semester research group experience, you will:
 
 ## What Makes Our Research Group Different
 
-Unlike the two-semester senior thesis research group (CMPSC 600/610), the
+Unlike the two-semester senior thesis research group (e.g., CMPSC 600/610), the
 Junior Seminar research group is designed as an intensive, single-semester
 research experience that:
 
