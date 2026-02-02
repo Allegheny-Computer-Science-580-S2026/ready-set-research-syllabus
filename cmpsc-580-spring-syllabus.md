@@ -972,11 +972,9 @@ discussions.
 
 #### Outside Assistance
 
-If you find yourself in difficult circumstances which affect your
-ability to participate in or complete course work, let us know
-immediately -- **full stop**.
-
-Do not wait until the end of the semester.
+If you find yourself in difficult circumstances which affect your ability to
+participate in or complete course work, let us know immediately -- **full
+stop**. Do not wait until the end of the semester.
 
 Part of our role as course instructors is to make sure that students receive the
 assistance they need. Do not hesitate to let us know if there is anything we can
@@ -988,7 +986,8 @@ In many situations, the following list of resources may prove useful:
 
 - [The Maytum Center for Student
   Success](https://sites.allegheny.edu/studentsuccess/)
-- [Student Life](https://sites.allegheny.edu/studentlife/)
+- [Allegheny College Student Life
+  Office](https://sites.allegheny.edu/studentlife/)
 - [Student Accessibility and Support
   Services](https://sites.allegheny.edu/studentaccessibility/)
 
