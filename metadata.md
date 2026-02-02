@@ -6,6 +6,15 @@ A research group member should type their name below.
 
 - **Researcher Name**: `Add Your Name Here`
 
+## Reading Syllabus Pledge
+
+A research group member should add an X-mark to the box to indicate that they
+have carefully read and understood the Junior Seminar Research Project Syllabus
+and that they are ready to complete their Junior Seminar Research Project.
+
+- [ ] I agree to adhere to the Allegheny College Honor Code during the
+  completion of my Junior Seminar Research Project.
+
 ## Honor Code Pledge
 
 A research group member should add an X-mark to the box to indicate that they
