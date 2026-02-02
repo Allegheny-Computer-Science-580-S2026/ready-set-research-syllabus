@@ -73,12 +73,13 @@ during presentations, demonstrations, or informal discussions. Include:
 
 Example entries:
 
-- **Jane Doe / Machine Learning Bias Detection**: Suggested examining fairness
-  metrics beyond accuracy; Jane incorporated demographic parity analysis into
-  her evaluation framework
-- **John Smith / Distributed Caching System**: Asked about handling network
-  partitions during demo; led to important discussion about consistency models
-- **Alex Johnson / Graph Algorithm Visualization**: Recommended adding
+- **Student Name One / Machine Learning Bias Detection**: Suggested examining
+  fairness metrics beyond accuracy; Jane incorporated demographic parity analysis
+  into her evaluation framework
+- **Student Name Two / Distributed Caching System**: Asked about handling
+  network partitions during demo; led to important discussion about consistency
+  models
+- **Student Name Three / Graph Algorithm Visualization**: Recommended adding
   real-time performance comparison; Alex added this feature in Week 12
 
 ### Technical Discussions and Problem-Solving
