@@ -232,9 +232,9 @@ entry will stand.
 research presentation is the final assessment for this deliverable and
 is not subject to revision.
 
-**Note**: With 20 researchers presenting across Monday and Wednesday of
-Week 6 (10 researchers per day), each researcher has 5 minutes total (3
-minutes presentation + 2 minutes Q&A). Time limits are strictly
+**Note**: With approximately 20 researchers presenting across Monday and
+Wednesday of Week 6 (10 researchers per day), each researcher has 5 minutes
+total (3 minutes presentation + 2 minutes Q&A). Time limits are strictly
 enforced.
 
 - [ ] The researcher gave the presentation on the assigned date (Week 6)
@@ -265,9 +265,9 @@ documentation, repository) can be improved throughout the semester and
 will be evaluated as part of the Research Prototype assessment (20%),
 which is revisable.
 
-**Note**: With 20 researchers presenting across Monday and Wednesday of
-Week 7 (10 researchers per day), each researcher has 5 minutes total (3
-minutes demonstration + 2 minutes Q&A). Time limits are strictly
+**Note**: With approximately 20 researchers presenting across Monday and
+Wednesday of Week 7 (10 researchers per day), each researcher has 5 minutes
+total (3 minutes demonstration + 2 minutes Q&A). Time limits are strictly
 enforced.
 
 - [ ] The researcher completed the prototype demonstration on the
@@ -297,9 +297,9 @@ enforced.
 research presentation is the final assessment for this deliverable and
 is not subject to revision.
 
-**Note**: With 20 researchers presenting across Monday and Wednesday of
-Week 13 (10 researchers per day), each researcher has 5 minutes total
-(3 minutes presentation + 2 minutes Q&A). Time limits are strictly
+**Note**: With approximately 20 researchers presenting across Monday and
+Wednesday of Week 13 (10 researchers per day), each researcher has 5 minutes
+total (3 minutes presentation + 2 minutes Q&A). Time limits are strictly
 enforced.
 
 - [ ] The researcher gave the presentation on the assigned date
