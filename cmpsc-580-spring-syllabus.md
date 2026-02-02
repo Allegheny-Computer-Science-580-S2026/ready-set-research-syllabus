@@ -944,7 +944,10 @@ brainstorming, outlining, and improving clarity, your research report must
 reflect your own understanding, analysis, and voice. Direct copying of
 AI-generated text without significant modification and attribution is not
 acceptable. Your readers need to see your ability to synthesize information,
-think critically, and communicate your research effectively.
+think critically, and communicate your research effectively. Since writing is a
+form of thinking, it is important for all junior researchers to complete their
+own writing assignments so as to ensure that they thoughtfully clarify and
+communicate their research ideas.
 
 <sup>†</sup> Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles.
 2024\. Plagiarism in the Age of Generative AI: Cheating Method Change and
