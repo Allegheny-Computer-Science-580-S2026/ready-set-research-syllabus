@@ -135,7 +135,7 @@ percentages during the academic semester.
 **Important Note on Assessment Types:**
 
 - **Final Assessment**: Presentations and demonstrations receive a grade upon
-  completion that becomes the final (i.e. non-revisable) grade for that
+  completion that becomes the final (i.e., non-revisable) grade for that
   deliverable. These grades are not subject to revision.
 
 - **Revisable Assessment**: Research journal entries, the research
